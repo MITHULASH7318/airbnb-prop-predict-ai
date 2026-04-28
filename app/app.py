@@ -122,8 +122,7 @@ hr { border-color: rgba(22,81,232,0.15) !important; }
 # ── Load data ─────────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data","processed","listings_featured.csv")
-    return pd.read_csv(path)
+    return pd.read_csv("data/processed/listings_featured.csv")
 
 @st.cache_data
 def load_metrics():
