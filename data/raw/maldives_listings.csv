@@ -1,0 +1,401 @@
+id,city,area,property_type,bedrooms,bathrooms,nightly_price_usd,review_score,occupancy_rate,distance_to_beach_km,distance_to_airport_km,num_reviews,amenities,annual_revenue_usd,property_price_usd,roi_pct,investment_score,latitude,longitude
+MLD0001,Maldives,Noonu Atoll,Garden Room,1,1,204,4.6,0.85,0.0,1.9,591,Snorkeling Gear|Direct Lagoon Access|Private Pool|Sun Deck|Kayak|WiFi,47468,830379,5.72,91,2.9727,73.5097
+MLD0002,Maldives,North Male Atoll,Overwater Bungalow,3,3,802,4.33,0.67,0.0,1.1,299,Private Pool|Direct Lagoon Access|Kayak|Sun Deck|Snorkeling Gear|Outdoor Shower,147097,2378000,6.19,88,6.9583,73.9714
+MLD0003,Maldives,North Male Atoll,Water Villa,2,2,915,4.28,0.83,0.0,1.4,88,Snorkeling Gear|WiFi|Butler Service|Sun Deck|Kayak|AC|Private Pool|Glass Floor|Outdoor Shower,207899,3567917,5.83,88,7.0777,73.3386
+MLD0004,Maldives,Lhaviyani Atoll,Sunset Villa,1,1,602,4.69,0.7,0.0,0.8,260,AC|Snorkeling Gear|Glass Floor|Kayak|Butler Service|Outdoor Shower|WiFi|Sun Deck,115358,2092710,5.51,88,7.2855,73.3321
+MLD0005,Maldives,Lhaviyani Atoll,Water Villa,3,3,685,4.85,0.79,0.0,2.7,218,Sun Deck|Direct Lagoon Access|Private Pool|Butler Service|Snorkeling Gear|WiFi|AC|Kayak|Glass Floor,148140,2439965,6.07,94,7.0153,74.046
+MLD0006,Maldives,Baa Atoll,Sunset Villa,1,1,575,4.71,0.89,0.0,1.2,250,Sun Deck|Snorkeling Gear|Direct Lagoon Access|Butler Service|AC|Glass Floor|Private Pool,140092,2316641,6.05,95,6.718,74.666
+MLD0007,Maldives,Vaavu Atoll,Garden Room,1,1,221,4.81,0.57,0.0,3.5,403,Glass Floor|Private Pool|WiFi|Butler Service|Kayak,34484,603746,5.71,88,8.0473,75.1048
+MLD0008,Maldives,Lhaviyani Atoll,Overwater Bungalow,1,1,664,4.29,0.67,0.0,3.1,55,Kayak|Outdoor Shower|Glass Floor|Private Pool|Snorkeling Gear|AC|WiFi,121786,1908653,6.38,89,2.5477,75.6525
+MLD0009,Maldives,Ari Atoll,Beach Villa,2,2,501,4.33,0.85,0.0,2.5,564,Outdoor Shower|Sun Deck|Private Pool|AC|Butler Service|Glass Floor,116576,1950737,5.98,90,7.8118,74.177
+MLD0010,Maldives,Noonu Atoll,Overwater Bungalow,3,3,500,4.43,0.73,0.0,2.0,447,WiFi|Snorkeling Gear|Private Pool|Butler Service|AC|Kayak|Sun Deck,99919,1767094,5.65,87,7.5395,74.8255
+MLD0011,Maldives,North Male Atoll,Overwater Bungalow,3,3,813,4.35,0.57,0.0,3.1,400,WiFi|Sun Deck|Glass Floor|Snorkeling Gear|Kayak|AC|Butler Service|Private Pool,126858,1934819,6.56,89,3.7268,75.2813
+MLD0012,Maldives,Vaavu Atoll,Beach Villa,1,1,340,4.9,0.65,0.0,0.2,312,WiFi|Kayak|Direct Lagoon Access|Glass Floor|Sun Deck,60499,968116,6.25,93,6.0465,74.0038
+MLD0013,Maldives,Noonu Atoll,Sunset Villa,2,2,500,4.9,0.87,0.0,1.1,266,Kayak|WiFi|AC|Butler Service|Glass Floor,119081,1969655,6.05,96,5.844,76.2964
+MLD0014,Maldives,North Male Atoll,Overwater Bungalow,2,2,862,4.39,0.8,0.0,1.4,47,AC|WiFi|Butler Service|Snorkeling Gear|Outdoor Shower|Private Pool|Kayak|Sun Deck|Direct Lagoon Access,188778,2836772,6.65,94,2.0648,74.3423
+MLD0015,Maldives,Noonu Atoll,Garden Room,3,3,219,4.22,0.79,0.0,1.2,194,Snorkeling Gear|Outdoor Shower|Private Pool|WiFi|Glass Floor|Butler Service|Sun Deck|AC|Direct Lagoon Access,47361,798805,5.93,88,4.1064,73.1685
+MLD0016,Maldives,Lhaviyani Atoll,Water Villa,2,2,700,4.39,0.74,0.0,0.9,49,Butler Service|Snorkeling Gear|Kayak|Direct Lagoon Access|WiFi|Private Pool|Outdoor Shower|AC,141802,2367340,5.99,89,3.1016,75.1839
+MLD0017,Maldives,Baa Atoll,Sunset Villa,2,2,678,4.29,0.71,0.0,0.4,563,AC|Private Pool|Snorkeling Gear|Sun Deck|Kayak|Butler Service|WiFi|Outdoor Shower|Direct Lagoon Access,131778,2239428,5.88,87,3.8508,74.6105
+MLD0018,Maldives,North Male Atoll,Sunset Villa,1,1,679,4.94,0.74,0.0,2.1,218,Direct Lagoon Access|Kayak|Glass Floor|Private Pool|WiFi|Outdoor Shower|Sun Deck,137548,2247375,6.12,94,8.6436,75.6087
+MLD0019,Maldives,Noonu Atoll,Sunset Villa,2,2,463,4.88,0.7,0.0,2.9,427,Direct Lagoon Access|Outdoor Shower|WiFi|Kayak|Private Pool|Butler Service|Glass Floor|Sun Deck,88722,1574191,5.64,90,3.3221,75.3046
+MLD0020,Maldives,Noonu Atoll,Garden Room,2,2,206,4.44,0.65,0.0,2.6,330,Private Pool|Butler Service|AC|Kayak|Sun Deck|Direct Lagoon Access|Outdoor Shower|Snorkeling Gear|Glass Floor,36655,577906,6.34,90,2.0063,75.3609
+MLD0021,Maldives,Noonu Atoll,Beach Villa,2,2,347,4.28,0.63,0.0,1.5,561,Private Pool|Butler Service|Outdoor Shower|Glass Floor|AC|Kayak|WiFi|Snorkeling Gear|Direct Lagoon Access,59844,992594,6.03,86,2.312,76.3823
+MLD0022,Maldives,South Male Atoll,Sunset Villa,1,1,575,4.46,0.66,0.0,1.7,258,Glass Floor|Sun Deck|Kayak|Butler Service|Outdoor Shower|Direct Lagoon Access|AC|Private Pool|WiFi,103888,1775184,5.85,87,3.0246,73.2557
+MLD0023,Maldives,Noonu Atoll,Beach Villa,2,2,427,4.41,0.68,0.0,3.1,370,Direct Lagoon Access|Snorkeling Gear|Glass Floor|AC|Sun Deck|Butler Service|Private Pool,79486,1367993,5.81,87,4.392,75.2348
+MLD0024,Maldives,South Male Atoll,Water Villa,3,3,616,4.79,0.72,0.0,2.9,260,Kayak|Snorkeling Gear|Glass Floor|Outdoor Shower|Sun Deck|Direct Lagoon Access|WiFi|Butler Service,121414,2207565,5.5,89,8.4805,76.1371
+MLD0025,Maldives,Addu Atoll,Sunset Villa,3,3,406,4.49,0.71,0.0,2.5,93,Kayak|WiFi|Sun Deck|Butler Service|Outdoor Shower|Private Pool,78911,1416189,5.57,87,3.4489,76.1728
+MLD0026,Maldives,Addu Atoll,Garden Room,3,3,197,4.98,0.86,0.0,1.1,180,Kayak|Glass Floor|Snorkeling Gear|Direct Lagoon Access|Sun Deck|Private Pool,46379,712065,6.51,99,2.7857,73.6649
+MLD0027,Maldives,South Male Atoll,Garden Room,2,2,248,4.84,0.86,0.0,2.3,84,Glass Floor|Direct Lagoon Access|Butler Service|Outdoor Shower|Private Pool|Snorkeling Gear|AC|Kayak|WiFi,58385,876871,6.66,99,3.3042,72.8989
+MLD0028,Maldives,Baa Atoll,Sunset Villa,3,3,604,4.6,0.57,0.0,1.3,310,Outdoor Shower|AC|Butler Service|Snorkeling Gear|Sun Deck|WiFi|Direct Lagoon Access|Glass Floor,94247,1469995,6.41,90,6.5295,74.3571
+MLD0029,Maldives,South Male Atoll,Water Villa,2,2,719,4.54,0.88,0.0,0.9,456,Kayak|Direct Lagoon Access|Private Pool|Glass Floor|AC|Butler Service|Snorkeling Gear|Sun Deck|WiFi,173207,2896405,5.98,93,7.1521,74.7274
+MLD0030,Maldives,Lhaviyani Atoll,Garden Room,3,3,271,4.5,0.71,0.0,0.5,388,Butler Service|Sun Deck|Direct Lagoon Access|Glass Floor|Private Pool|WiFi,52672,897004,5.87,88,4.0175,73.1412
+MLD0031,Maldives,Vaavu Atoll,Garden Room,2,2,203,4.63,0.58,0.0,2.5,359,Butler Service|Sun Deck|WiFi|Outdoor Shower|Private Pool|Direct Lagoon Access|Kayak|Glass Floor,32231,550481,5.86,87,3.3231,74.3777
+MLD0032,Maldives,North Male Atoll,Sunset Villa,3,3,720,4.62,0.69,0.0,1.3,52,Kayak|Sun Deck|Outdoor Shower|Butler Service|Glass Floor|Snorkeling Gear|AC|Private Pool|WiFi,135999,2316695,5.87,89,8.5738,75.187
+MLD0033,Maldives,Ari Atoll,Garden Room,3,3,227,4.57,0.86,0.0,0.5,304,Kayak|AC|Direct Lagoon Access|Butler Service|Outdoor Shower|Glass Floor|Private Pool,53441,977770,5.47,89,8.6435,72.8131
+MLD0034,Maldives,Lhaviyani Atoll,Garden Room,2,2,271,4.49,0.85,0.0,1.6,295,Butler Service|WiFi|Sun Deck|Glass Floor|Private Pool|Direct Lagoon Access,63058,1038535,6.07,92,6.4397,75.5979
+MLD0035,Maldives,Baa Atoll,Overwater Bungalow,1,1,602,4.67,0.62,0.0,1.3,36,Sun Deck|Butler Service|Private Pool|WiFi|Glass Floor|Outdoor Shower|Direct Lagoon Access|AC|Snorkeling Gear,102174,1651121,6.19,90,5.2834,73.8365
+MLD0036,Maldives,Noonu Atoll,Beach Villa,2,2,340,4.32,0.56,0.0,1.8,465,Outdoor Shower|Glass Floor|Butler Service|Kayak|Snorkeling Gear|Sun Deck|Private Pool|WiFi|AC,52122,947656,5.5,82,2.8097,76.2851
+MLD0037,Maldives,Addu Atoll,Garden Room,2,2,193,4.71,0.78,0.0,2.9,237,Butler Service|WiFi|Direct Lagoon Access|Kayak|Private Pool,41210,632837,6.51,95,5.5333,75.2884
+MLD0038,Maldives,South Male Atoll,Water Villa,1,1,739,4.87,0.58,0.0,2.5,49,AC|WiFi|Glass Floor|Kayak|Outdoor Shower|Sun Deck|Private Pool|Butler Service|Direct Lagoon Access,117335,1968892,5.96,90,4.6541,73.8611
+MLD0039,Maldives,Addu Atoll,Overwater Bungalow,3,3,466,4.91,0.72,0.0,2.9,235,AC|Snorkeling Gear|Private Pool|Kayak|Outdoor Shower|Glass Floor|Direct Lagoon Access|WiFi|Sun Deck,91849,1500861,6.12,94,2.7168,72.746
+MLD0040,Maldives,Ari Atoll,Water Villa,2,2,675,4.5,0.67,0.0,2.6,100,Glass Floor|Butler Service|Kayak|Sun Deck|Direct Lagoon Access|AC,123803,2163590,5.72,87,2.356,73.3845
+MLD0041,Maldives,Ari Atoll,Overwater Bungalow,2,2,606,4.64,0.6,0.0,0.6,49,Glass Floor|Sun Deck|Snorkeling Gear|AC|Direct Lagoon Access,99536,1806177,5.51,86,7.6294,73.2226
+MLD0042,Maldives,Addu Atoll,Water Villa,3,3,525,4.48,0.83,0.0,1.9,309,Kayak|Snorkeling Gear|AC|Sun Deck|WiFi|Direct Lagoon Access|Butler Service|Private Pool,119287,1840141,6.48,94,7.1729,74.0876
+MLD0043,Maldives,Vaavu Atoll,Garden Room,3,3,186,4.5,0.72,0.0,1.3,439,Kayak|AC|Glass Floor|Butler Service|Private Pool|Direct Lagoon Access|Sun Deck|WiFi,36661,579477,6.33,91,4.7895,72.5767
+MLD0044,Maldives,Vaavu Atoll,Water Villa,1,1,649,4.34,0.57,0.0,2.4,417,Direct Lagoon Access|Butler Service|Glass Floor|Sun Deck|AC|Private Pool|Outdoor Shower|Snorkeling Gear,101268,1780270,5.69,83,7.6968,74.474
+MLD0045,Maldives,Baa Atoll,Garden Room,2,2,255,4.79,0.79,0.0,1.0,585,Outdoor Shower|Snorkeling Gear|Private Pool|Butler Service|Kayak|WiFi|Direct Lagoon Access|Sun Deck|Glass Floor,55147,993272,5.55,91,2.7306,76.4308
+MLD0046,Maldives,Noonu Atoll,Water Villa,3,3,731,4.75,0.88,0.0,2.6,284,Outdoor Shower|Kayak|Glass Floor|Snorkeling Gear|Sun Deck|Butler Service|Private Pool,176098,2753267,6.4,97,5.0951,72.786
+MLD0047,Maldives,Vaavu Atoll,Beach Villa,2,2,338,4.79,0.69,0.0,1.3,180,WiFi|Glass Floor|Outdoor Shower|Direct Lagoon Access|Kayak,63844,1084360,5.89,91,8.1054,72.6903
+MLD0048,Maldives,Ari Atoll,Overwater Bungalow,3,3,628,4.33,0.79,0.0,0.5,371,AC|Butler Service|Private Pool|Kayak|Glass Floor|Snorkeling Gear|Outdoor Shower|Sun Deck|Direct Lagoon Access,135813,2338160,5.81,88,4.0033,73.2957
+MLD0049,Maldives,South Male Atoll,Overwater Bungalow,3,3,679,4.21,0.7,0.0,0.3,244,AC|Sun Deck|Snorkeling Gear|Direct Lagoon Access|WiFi|Glass Floor,130113,2161434,6.02,87,5.5073,73.7866
+MLD0050,Maldives,Lhaviyani Atoll,Beach Villa,2,2,374,4.5,0.79,0.0,2.8,523,Outdoor Shower|Snorkeling Gear|Sun Deck|Private Pool|Kayak|AC|WiFi,80882,1356324,5.96,90,6.1288,73.3025
+MLD0051,Maldives,Addu Atoll,Garden Room,1,1,169,4.33,0.64,0.0,0.9,44,WiFi|Kayak|Private Pool|Direct Lagoon Access|AC|Outdoor Shower,29609,495403,5.98,86,5.9388,76.2798
+MLD0052,Maldives,Lhaviyani Atoll,Overwater Bungalow,2,2,545,4.71,0.84,0.0,2.0,25,Butler Service|WiFi|Direct Lagoon Access|Private Pool|Outdoor Shower|Sun Deck|Snorkeling Gear|AC,125323,1986371,6.31,95,3.8379,72.657
+MLD0053,Maldives,Baa Atoll,Overwater Bungalow,3,3,659,4.8,0.57,0.0,0.9,479,Outdoor Shower|Snorkeling Gear|WiFi|Kayak|Butler Service|Sun Deck|Private Pool|Direct Lagoon Access|AC,102829,1784506,5.76,88,7.4786,74.3213
+MLD0054,Maldives,Ari Atoll,Overwater Bungalow,2,2,689,4.51,0.61,0.0,1.5,504,Glass Floor|Outdoor Shower|WiFi|Snorkeling Gear|Private Pool|Direct Lagoon Access|Sun Deck|Butler Service|Kayak,115054,1948235,5.91,87,8.6364,72.775
+MLD0055,Maldives,Lhaviyani Atoll,Sunset Villa,3,3,541,4.46,0.73,0.0,0.3,569,Outdoor Shower|Private Pool|Glass Floor|AC|Snorkeling Gear|Butler Service,108112,1734486,6.23,91,7.7391,74.7158
+MLD0056,Maldives,South Male Atoll,Garden Room,1,1,236,4.43,0.65,0.0,1.5,350,Private Pool|Outdoor Shower|Snorkeling Gear|Glass Floor|Butler Service|Sun Deck|Kayak|AC|Direct Lagoon Access,41993,746855,5.62,85,8.7705,74.2546
+MLD0057,Maldives,Baa Atoll,Overwater Bungalow,1,1,678,4.88,0.7,0.0,2.0,545,Butler Service|Snorkeling Gear|Glass Floor|WiFi|Direct Lagoon Access|Private Pool|AC|Sun Deck|Kayak,129922,2048845,6.34,95,7.2045,74.628
+MLD0058,Maldives,Ari Atoll,Overwater Bungalow,2,2,710,4.82,0.63,0.0,2.6,588,Outdoor Shower|WiFi|AC|Kayak|Direct Lagoon Access|Private Pool|Butler Service,122448,2163270,5.66,89,4.4228,73.1904
+MLD0059,Maldives,Addu Atoll,Overwater Bungalow,2,2,383,4.56,0.67,0.0,2.0,339,Sun Deck|Glass Floor|Kayak|Butler Service|AC|Direct Lagoon Access,70247,1097736,6.4,92,8.0177,73.531
+MLD0060,Maldives,Vaavu Atoll,Garden Room,3,3,184,4.58,0.72,0.0,0.9,542,Direct Lagoon Access|Kayak|Outdoor Shower|AC|Private Pool|Snorkeling Gear|Sun Deck|Glass Floor|Butler Service,36266,576854,6.29,92,3.1879,75.3738
+MLD0061,Maldives,South Male Atoll,Beach Villa,1,1,454,4.57,0.8,0.0,2.6,570,Direct Lagoon Access|Private Pool|Outdoor Shower|Snorkeling Gear|Kayak|WiFi|Glass Floor|Sun Deck,99426,1537217,6.47,94,8.7632,75.7841
+MLD0062,Maldives,Addu Atoll,Garden Room,1,1,164,4.35,0.59,0.0,0.7,390,Direct Lagoon Access|Outdoor Shower|WiFi|AC|Sun Deck|Butler Service|Glass Floor,26488,463378,5.72,84,5.2876,75.6317
+MLD0063,Maldives,Baa Atoll,Beach Villa,2,2,526,4.68,0.79,0.0,0.3,178,Snorkeling Gear|AC|WiFi|Kayak|Outdoor Shower|Direct Lagoon Access|Butler Service|Sun Deck|Private Pool,113754,1824530,6.23,94,6.4648,72.5374
+MLD0064,Maldives,Vaavu Atoll,Overwater Bungalow,2,2,430,4.88,0.79,0.0,1.1,106,Butler Service|Kayak|Glass Floor|Private Pool|Outdoor Shower|Sun Deck|Direct Lagoon Access|AC,92993,1608147,5.78,93,7.5472,73.7272
+MLD0065,Maldives,Vaavu Atoll,Water Villa,1,1,516,4.95,0.67,0.0,0.6,582,Kayak|Glass Floor|Butler Service|Private Pool|Sun Deck,94641,1574781,6.01,93,7.3793,73.3866
+MLD0066,Maldives,Ari Atoll,Water Villa,3,3,726,4.39,0.9,0.0,0.9,323,Snorkeling Gear|WiFi|Sun Deck|Outdoor Shower|Kayak,178868,3026161,5.91,91,8.4769,73.0876
+MLD0067,Maldives,Noonu Atoll,Sunset Villa,2,2,565,4.96,0.86,0.0,0.9,231,Sun Deck|Kayak|Snorkeling Gear|Private Pool|WiFi|Direct Lagoon Access|Outdoor Shower,133015,2276354,5.84,95,7.3262,76.4441
+MLD0068,Maldives,Lhaviyani Atoll,Beach Villa,2,2,380,4.81,0.67,0.0,0.8,224,Direct Lagoon Access|Butler Service|Outdoor Shower|Sun Deck|WiFi|AC|Glass Floor|Snorkeling Gear|Kayak,69697,1143351,6.1,92,7.5569,74.3594
+MLD0069,Maldives,Baa Atoll,Overwater Bungalow,1,1,708,5.0,0.69,0.0,2.2,341,Direct Lagoon Access|Butler Service|Sun Deck|Kayak|Snorkeling Gear|Private Pool,133732,2168796,6.17,94,4.7495,75.2826
+MLD0070,Maldives,South Male Atoll,Overwater Bungalow,1,1,679,4.63,0.82,0.0,0.5,396,Glass Floor|Outdoor Shower|Kayak|Butler Service|Sun Deck|WiFi|Private Pool|Snorkeling Gear|Direct Lagoon Access,152419,2393567,6.37,95,5.5149,72.58
+MLD0071,Maldives,Addu Atoll,Garden Room,2,2,167,4.61,0.56,0.0,1.1,156,Sun Deck|AC|Direct Lagoon Access|WiFi|Glass Floor|Kayak|Butler Service,25601,427881,5.98,87,6.012,76.203
+MLD0072,Maldives,Addu Atoll,Sunset Villa,2,2,423,4.53,0.88,0.0,2.8,487,WiFi|Direct Lagoon Access|Outdoor Shower|AC|Butler Service|Sun Deck|Private Pool|Kayak,101901,1596452,6.38,95,2.9159,75.2032
+MLD0073,Maldives,Noonu Atoll,Garden Room,1,1,224,4.83,0.81,0.0,2.3,548,Sun Deck|Snorkeling Gear|Outdoor Shower|Butler Service|Direct Lagoon Access|Private Pool|AC|Kayak|Glass Floor,49669,908344,5.47,91,5.7351,72.9524
+MLD0074,Maldives,Ari Atoll,Overwater Bungalow,3,3,714,4.4,0.82,0.0,3.4,44,AC|Direct Lagoon Access|Kayak|Butler Service|WiFi|Private Pool|Outdoor Shower,160275,2776388,5.77,89,6.1722,74.3415
+MLD0075,Maldives,Lhaviyani Atoll,Garden Room,2,2,230,4.48,0.77,0.0,2.7,492,WiFi|Kayak|Private Pool|Sun Deck|Glass Floor,48481,836866,5.79,89,3.3889,74.4759
+MLD0076,Maldives,Vaavu Atoll,Garden Room,1,1,217,4.58,0.74,0.0,2.7,191,Sun Deck|Direct Lagoon Access|Private Pool|Butler Service|Glass Floor|WiFi|Kayak|Outdoor Shower,43959,756280,5.81,89,4.8654,76.0817
+MLD0077,Maldives,Baa Atoll,Overwater Bungalow,2,2,629,5.0,0.59,0.0,0.2,567,Private Pool|Glass Floor|Kayak|Butler Service|Sun Deck,101591,1825258,5.57,89,3.7147,75.4188
+MLD0078,Maldives,Lhaviyani Atoll,Beach Villa,3,3,459,4.89,0.9,0.0,1.2,422,Private Pool|AC|Sun Deck|Glass Floor|Direct Lagoon Access|WiFi|Butler Service|Snorkeling Gear|Kayak,113086,1964019,5.76,95,2.8078,74.1272
+MLD0079,Maldives,Addu Atoll,Overwater Bungalow,1,1,497,4.49,0.76,0.0,1.9,55,Sun Deck|Butler Service|WiFi|Private Pool|Direct Lagoon Access|Snorkeling Gear,103401,1773655,5.83,89,8.8103,72.7229
+MLD0080,Maldives,Lhaviyani Atoll,Sunset Villa,1,1,552,4.89,0.72,0.0,0.5,487,Outdoor Shower|Butler Service|Private Pool|Sun Deck|Kayak|WiFi|AC|Glass Floor|Direct Lagoon Access,108799,1835272,5.93,93,4.3245,73.1198
+MLD0081,Maldives,South Male Atoll,Sunset Villa,2,2,597,4.62,0.88,0.0,2.9,200,Direct Lagoon Access|Kayak|Butler Service|AC|Private Pool,143817,2489459,5.78,92,2.0352,74.2113
+MLD0082,Maldives,Noonu Atoll,Sunset Villa,3,3,450,4.93,0.61,0.0,1.1,481,Butler Service|Private Pool|Snorkeling Gear|AC|Kayak,75144,1256617,5.98,91,3.8435,73.3395
+MLD0083,Maldives,South Male Atoll,Beach Villa,2,2,432,4.27,0.57,0.0,1.4,192,Butler Service|WiFi|Private Pool|Snorkeling Gear|AC|Kayak,67408,1173048,5.75,83,5.8836,74.1915
+MLD0084,Maldives,Lhaviyani Atoll,Beach Villa,3,3,428,4.49,0.88,0.0,0.4,275,Outdoor Shower|Snorkeling Gear|Sun Deck|Butler Service|Direct Lagoon Access|AC|Kayak,103105,1778008,5.8,91,8.239,75.7155
+MLD0085,Maldives,Vaavu Atoll,Water Villa,1,1,543,4.44,0.8,0.0,0.5,184,AC|Kayak|Sun Deck|Outdoor Shower|Glass Floor|WiFi|Snorkeling Gear|Butler Service,118917,2105569,5.65,88,7.0323,75.4184
+MLD0086,Maldives,North Male Atoll,Sunset Villa,2,2,594,4.77,0.79,0.0,2.9,222,Sun Deck|Snorkeling Gear|Outdoor Shower|Butler Service|AC|Glass Floor,128460,1944711,6.61,97,2.1618,73.992
+MLD0087,Maldives,Noonu Atoll,Sunset Villa,3,3,443,4.65,0.87,0.0,1.5,42,Direct Lagoon Access|Sun Deck|Snorkeling Gear|Butler Service|Kayak|Glass Floor|Outdoor Shower,105506,1879748,5.61,91,2.0017,73.1741
+MLD0088,Maldives,South Male Atoll,Sunset Villa,3,3,464,4.46,0.87,0.0,0.5,587,Glass Floor|Butler Service|Kayak|WiFi|Sun Deck|AC,110507,1880980,5.87,91,5.1605,76.2539
+MLD0089,Maldives,Addu Atoll,Sunset Villa,1,1,359,4.37,0.56,0.0,1.6,354,Direct Lagoon Access|AC|Private Pool|Kayak|Snorkeling Gear|Sun Deck|Butler Service,55035,876493,6.28,87,8.0893,74.9198
+MLD0090,Maldives,South Male Atoll,Beach Villa,2,2,434,4.63,0.58,0.0,1.7,599,Butler Service|Glass Floor|Kayak|Outdoor Shower|Private Pool|Snorkeling Gear|WiFi,68908,1263200,5.46,85,7.8466,76.0738
+MLD0091,Maldives,Addu Atoll,Garden Room,2,2,197,4.28,0.63,0.0,0.2,317,WiFi|AC|Sun Deck|Snorkeling Gear|Glass Floor|Outdoor Shower,33975,543998,6.25,87,2.7603,74.3912
+MLD0092,Maldives,North Male Atoll,Beach Villa,3,3,553,4.9,0.81,0.0,3.3,39,Outdoor Shower|Kayak|WiFi|Glass Floor|Snorkeling Gear,122621,1861345,6.59,98,2.0853,75.1454
+MLD0093,Maldives,Baa Atoll,Sunset Villa,1,1,590,4.4,0.67,0.0,1.1,65,Kayak|Sun Deck|Snorkeling Gear|WiFi|Direct Lagoon Access|AC|Butler Service,108213,1807675,5.99,88,5.081,74.5497
+MLD0094,Maldives,South Male Atoll,Water Villa,1,1,757,4.51,0.64,0.0,0.7,186,Glass Floor|Outdoor Shower|Butler Service|Snorkeling Gear|Private Pool|Direct Lagoon Access|WiFi,132626,2143888,6.19,89,7.1926,75.5268
+MLD0095,Maldives,Lhaviyani Atoll,Water Villa,1,1,756,4.39,0.76,0.0,2.1,167,Snorkeling Gear|Kayak|Outdoor Shower|Private Pool|AC|Direct Lagoon Access,157286,2613184,6.02,89,5.8499,74.4672
+MLD0096,Maldives,Noonu Atoll,Overwater Bungalow,2,2,561,4.77,0.59,0.0,2.7,227,AC|Direct Lagoon Access|Glass Floor|WiFi|Kayak|Snorkeling Gear,90609,1400177,6.47,92,2.4664,76.4043
+MLD0097,Maldives,Vaavu Atoll,Garden Room,2,2,227,4.25,0.71,0.0,0.8,344,Direct Lagoon Access|Outdoor Shower|Butler Service|Glass Floor|Kayak|Snorkeling Gear,44120,733178,6.02,87,7.8112,76.3024
+MLD0098,Maldives,Lhaviyani Atoll,Garden Room,3,3,250,4.48,0.76,0.0,1.2,192,Sun Deck|Direct Lagoon Access|AC|Snorkeling Gear|Glass Floor|WiFi|Private Pool|Outdoor Shower,52012,937919,5.55,87,8.0928,74.7329
+MLD0099,Maldives,Ari Atoll,Water Villa,2,2,739,4.43,0.56,0.0,2.9,521,Sun Deck|Private Pool|Outdoor Shower|Kayak|AC|Direct Lagoon Access|WiFi,113289,1869413,6.06,86,4.2759,74.3844
+MLD0100,Maldives,Ari Atoll,Overwater Bungalow,1,1,712,4.3,0.85,0.0,3.2,164,Outdoor Shower|Direct Lagoon Access|AC|Snorkeling Gear|Glass Floor|Sun Deck|Kayak,165673,3007908,5.51,87,4.7824,73.3686
+MLD0101,Maldives,Lhaviyani Atoll,Water Villa,2,2,693,4.47,0.61,0.0,2.2,94,Private Pool|WiFi|Outdoor Shower|Direct Lagoon Access|Glass Floor|Snorkeling Gear|Kayak|AC,115722,1919683,6.03,87,8.0599,72.6284
+MLD0102,Maldives,Noonu Atoll,Overwater Bungalow,3,3,574,4.81,0.82,0.0,3.1,475,Private Pool|Butler Service|AC|Direct Lagoon Access|WiFi|Glass Floor|Snorkeling Gear|Sun Deck,128849,2245853,5.74,92,8.4947,73.8306
+MLD0103,Maldives,North Male Atoll,Garden Room,3,3,300,4.21,0.55,0.0,1.0,391,Outdoor Shower|Private Pool|WiFi|Snorkeling Gear|Butler Service|Sun Deck|Kayak|AC,45169,692713,6.52,87,3.8215,73.2082
+MLD0104,Maldives,Vaavu Atoll,Water Villa,3,3,515,4.93,0.55,0.0,2.6,17,Direct Lagoon Access|Butler Service|Outdoor Shower|WiFi|Snorkeling Gear|Private Pool|Kayak,77540,1202425,6.45,93,8.3856,76.0712
+MLD0105,Maldives,Noonu Atoll,Sunset Villa,2,2,518,4.74,0.55,0.0,3.5,50,Sun Deck|Glass Floor|Outdoor Shower|Private Pool|Snorkeling Gear|Butler Service,77991,1398075,5.58,86,8.2657,75.137
+MLD0106,Maldives,South Male Atoll,Garden Room,2,2,229,4.91,0.65,0.0,2.1,565,Private Pool|AC|WiFi|Snorkeling Gear|Butler Service|Sun Deck|Kayak,40748,624766,6.52,95,8.4537,73.0631
+MLD0107,Maldives,Lhaviyani Atoll,Beach Villa,2,2,385,4.65,0.82,0.0,2.2,375,Outdoor Shower|Private Pool|Glass Floor|Butler Service|Kayak|Sun Deck|WiFi,86423,1363217,6.34,95,2.0066,75.5286
+MLD0108,Maldives,North Male Atoll,Sunset Villa,3,3,773,4.85,0.71,0.0,3.2,515,Snorkeling Gear|Butler Service|Direct Lagoon Access|WiFi|Private Pool|Glass Floor|Outdoor Shower|Sun Deck,150242,2458884,6.11,93,5.6745,74.4085
+MLD0109,Maldives,Addu Atoll,Water Villa,2,2,532,4.82,0.73,0.0,1.2,160,Kayak|Snorkeling Gear|Glass Floor|Private Pool|Outdoor Shower|Butler Service|WiFi|AC,106314,1686196,6.3,94,2.2642,74.8328
+MLD0110,Maldives,South Male Atoll,Garden Room,3,3,221,4.32,0.78,0.0,2.4,198,AC|WiFi|Outdoor Shower|Snorkeling Gear|Private Pool,47189,826146,5.71,87,5.525,76.0762
+MLD0111,Maldives,Lhaviyani Atoll,Overwater Bungalow,2,2,679,4.85,0.77,0.0,1.2,562,Snorkeling Gear|WiFi|Sun Deck|Glass Floor|Outdoor Shower,143125,2615822,5.47,90,3.919,73.3106
+MLD0112,Maldives,Ari Atoll,Overwater Bungalow,2,2,639,4.25,0.89,0.0,2.1,418,Glass Floor|Snorkeling Gear|Outdoor Shower|Butler Service|AC|Direct Lagoon Access|Kayak|Sun Deck|Private Pool,155684,2624288,5.93,90,6.5906,74.4881
+MLD0113,Maldives,Baa Atoll,Water Villa,2,2,722,4.69,0.8,0.0,1.6,142,Outdoor Shower|Snorkeling Gear|Private Pool|Kayak|Sun Deck,158118,2770910,5.71,91,3.589,73.3851
+MLD0114,Maldives,Lhaviyani Atoll,Water Villa,2,2,647,4.5,0.85,0.0,2.9,481,AC|Direct Lagoon Access|Snorkeling Gear|Sun Deck|Private Pool|Butler Service|Outdoor Shower|Kayak|Glass Floor,150549,2450348,6.14,93,6.1238,75.3833
+MLD0115,Maldives,Addu Atoll,Sunset Villa,2,2,374,4.33,0.89,0.0,2.2,483,Outdoor Shower|Glass Floor|Private Pool|Butler Service|Kayak|AC|WiFi|Direct Lagoon Access|Sun Deck,91120,1664889,5.47,88,4.3643,75.3121
+MLD0116,Maldives,Vaavu Atoll,Beach Villa,3,3,321,4.41,0.73,0.0,1.3,90,Outdoor Shower|WiFi|Kayak|Private Pool|AC|Sun Deck,64148,998062,6.43,91,3.8402,72.643
+MLD0117,Maldives,Vaavu Atoll,Sunset Villa,2,2,478,4.59,0.58,0.0,0.8,332,Snorkeling Gear|Sun Deck|AC|Butler Service|Outdoor Shower,75894,1164349,6.52,91,6.2881,72.8768
+MLD0118,Maldives,Vaavu Atoll,Garden Room,1,1,215,4.22,0.64,0.0,3.1,33,Kayak|Butler Service|AC|WiFi|Snorkeling Gear|Glass Floor,37668,655239,5.75,84,2.5108,75.7845
+MLD0119,Maldives,Lhaviyani Atoll,Sunset Villa,3,3,539,4.88,0.76,0.0,2.5,233,Snorkeling Gear|Outdoor Shower|Butler Service|Kayak|WiFi|Private Pool|AC|Direct Lagoon Access,112139,2053453,5.46,90,3.6263,74.9958
+MLD0120,Maldives,Ari Atoll,Overwater Bungalow,3,3,642,4.23,0.56,0.0,0.6,438,Butler Service|Kayak|Outdoor Shower|WiFi|Snorkeling Gear|Sun Deck|Direct Lagoon Access,98419,1689228,5.83,83,5.9701,74.7137
+MLD0121,Maldives,Lhaviyani Atoll,Water Villa,2,2,619,4.58,0.87,0.0,1.5,516,AC|Sun Deck|Outdoor Shower|Direct Lagoon Access|Snorkeling Gear,147423,2518438,5.85,92,7.4587,75.6357
+MLD0122,Maldives,Vaavu Atoll,Water Villa,2,2,603,4.89,0.69,0.0,3.1,485,Butler Service|Outdoor Shower|WiFi|Private Pool|Glass Floor|Kayak,113899,1799690,6.33,94,3.9615,72.7125
+MLD0123,Maldives,Baa Atoll,Overwater Bungalow,2,2,762,4.53,0.63,0.0,1.0,594,Outdoor Shower|Kayak|Sun Deck|Direct Lagoon Access|AC|Private Pool|Glass Floor|WiFi|Butler Service,131416,2366101,5.55,85,7.8374,74.7141
+MLD0124,Maldives,Addu Atoll,Overwater Bungalow,2,2,466,4.58,0.69,0.0,3.2,575,Snorkeling Gear|Butler Service|Glass Floor|AC|Private Pool|Sun Deck|Outdoor Shower|WiFi|Direct Lagoon Access,88022,1357186,6.49,93,4.9291,73.8782
+MLD0125,Maldives,Ari Atoll,Beach Villa,2,2,455,4.57,0.73,0.0,0.7,310,Snorkeling Gear|Butler Service|Glass Floor|AC|Direct Lagoon Access|Sun Deck|Outdoor Shower,90926,1519416,5.98,90,3.6969,73.2373
+MLD0126,Maldives,South Male Atoll,Overwater Bungalow,1,1,522,4.81,0.7,0.0,2.3,522,Glass Floor|Kayak|Snorkeling Gear|AC|WiFi|Sun Deck|Direct Lagoon Access|Private Pool|Outdoor Shower,100028,1743019,5.74,90,6.7552,74.382
+MLD0127,Maldives,South Male Atoll,Sunset Villa,2,2,522,4.5,0.77,0.0,1.8,426,Snorkeling Gear|Glass Floor|Direct Lagoon Access|Private Pool|AC|Outdoor Shower,110031,1961901,5.61,88,8.1229,73.1822
+MLD0128,Maldives,Vaavu Atoll,Garden Room,1,1,178,4.7,0.66,0.0,0.3,502,WiFi|Sun Deck|Direct Lagoon Access|AC|Kayak|Outdoor Shower|Private Pool|Glass Floor,32160,577662,5.57,88,3.5883,76.2171
+MLD0129,Maldives,North Male Atoll,Water Villa,2,2,959,4.81,0.62,0.0,1.0,116,AC|Outdoor Shower|Glass Floor|Snorkeling Gear|Private Pool,162766,2724306,5.97,90,3.2047,73.7217
+MLD0130,Maldives,Baa Atoll,Water Villa,3,3,795,4.33,0.62,0.0,2.8,155,Butler Service|AC|Outdoor Shower|Sun Deck|Kayak,134931,2099165,6.43,89,2.1992,75.0174
+MLD0131,Maldives,Ari Atoll,Garden Room,1,1,297,4.46,0.59,0.0,2.1,276,Direct Lagoon Access|AC|Kayak|Snorkeling Gear|Sun Deck|Outdoor Shower|Glass Floor,47969,864458,5.55,84,7.4884,74.9901
+MLD0132,Maldives,Noonu Atoll,Water Villa,3,3,623,4.63,0.58,0.0,2.4,161,AC|Glass Floor|WiFi|Sun Deck|Butler Service|Outdoor Shower|Private Pool|Snorkeling Gear,98917,1722836,5.74,87,8.7552,73.5416
+MLD0133,Maldives,Lhaviyani Atoll,Overwater Bungalow,1,1,513,4.64,0.8,0.0,2.8,496,Kayak|AC|WiFi|Butler Service|Sun Deck|Direct Lagoon Access|Outdoor Shower,112347,1757758,6.39,94,3.8323,74.5504
+MLD0134,Maldives,Vaavu Atoll,Water Villa,1,1,570,4.89,0.72,0.0,2.8,38,Butler Service|WiFi|Outdoor Shower|Kayak|AC|Direct Lagoon Access,112347,1902641,5.9,92,7.4116,73.8307
+MLD0135,Maldives,Ari Atoll,Sunset Villa,2,2,643,4.42,0.74,0.0,0.9,539,Kayak|Private Pool|WiFi|Butler Service|AC|Glass Floor,130256,2160307,6.03,89,4.2272,73.5668
+MLD0136,Maldives,Addu Atoll,Garden Room,3,3,205,4.33,0.83,0.0,3.4,506,AC|Butler Service|Kayak|WiFi|Sun Deck|Snorkeling Gear,46579,701775,6.64,94,6.8932,73.5116
+MLD0137,Maldives,Baa Atoll,Sunset Villa,2,2,543,4.52,0.88,0.0,0.2,240,Glass Floor|Outdoor Shower|Private Pool|AC|Kayak|Butler Service,130809,2218471,5.9,92,5.5098,75.9935
+MLD0138,Maldives,Lhaviyani Atoll,Beach Villa,1,1,368,4.75,0.79,0.0,2.4,593,WiFi|Direct Lagoon Access|Snorkeling Gear|Butler Service|Glass Floor|AC,79585,1443761,5.51,90,7.7616,72.6679
+MLD0139,Maldives,North Male Atoll,Sunset Villa,1,1,669,4.52,0.66,0.0,1.7,529,AC|Private Pool|Outdoor Shower|Kayak|Sun Deck|Butler Service,120872,1967874,6.14,89,5.0263,76.417
+MLD0140,Maldives,South Male Atoll,Water Villa,3,3,631,4.94,0.72,0.0,2.3,197,Sun Deck|Direct Lagoon Access|Private Pool|Snorkeling Gear|WiFi|AC|Kayak|Glass Floor|Outdoor Shower,124370,2209716,5.63,91,4.5232,74.2217
+MLD0141,Maldives,Ari Atoll,Beach Villa,3,3,443,4.5,0.87,0.0,2.9,75,Butler Service|Private Pool|WiFi|Glass Floor|Kayak|Sun Deck|Direct Lagoon Access|AC,105506,1620924,6.51,95,2.7569,74.2115
+MLD0142,Maldives,Baa Atoll,Sunset Villa,2,2,554,4.7,0.6,0.0,1.9,498,Snorkeling Gear|Kayak|Sun Deck|WiFi|Outdoor Shower,90994,1367100,6.66,93,4.2162,75.2088
+MLD0143,Maldives,Vaavu Atoll,Overwater Bungalow,3,3,498,4.98,0.86,0.0,1.4,462,AC|Direct Lagoon Access|Snorkeling Gear|Glass Floor|Private Pool,117242,1776406,6.6,100,7.9194,76.1449
+MLD0144,Maldives,South Male Atoll,Garden Room,1,1,263,4.3,0.9,0.0,1.1,19,Sun Deck|Snorkeling Gear|Glass Floor|Butler Service|WiFi,64797,1128376,5.74,89,8.3562,73.4427
+MLD0145,Maldives,Addu Atoll,Overwater Bungalow,3,3,505,4.45,0.89,0.0,1.1,190,Snorkeling Gear|Glass Floor|Private Pool|Butler Service|Kayak|WiFi|Outdoor Shower|Direct Lagoon Access,123037,2236581,5.5,89,2.3748,75.3371
+MLD0146,Maldives,Noonu Atoll,Sunset Villa,2,2,500,4.58,0.63,0.0,2.5,460,WiFi|Kayak|Sun Deck|Outdoor Shower|Glass Floor|Direct Lagoon Access|Butler Service|AC|Snorkeling Gear,86231,1348311,6.4,91,5.8699,73.513
+MLD0147,Maldives,South Male Atoll,Beach Villa,2,2,477,4.22,0.62,0.0,1.0,193,AC|Sun Deck|Glass Floor|Snorkeling Gear|Direct Lagoon Access,80959,1326127,6.1,86,3.6291,74.4654
+MLD0148,Maldives,South Male Atoll,Garden Room,3,3,267,4.77,0.75,0.0,0.5,208,Direct Lagoon Access|Glass Floor|AC|Sun Deck|Outdoor Shower|WiFi|Kayak,54818,949081,5.78,91,3.1649,75.6455
+MLD0149,Maldives,South Male Atoll,Beach Villa,1,1,389,4.53,0.67,0.0,3.0,317,Sun Deck|WiFi|AC|Outdoor Shower|Kayak|Snorkeling Gear|Private Pool,71347,1100300,6.48,92,5.9595,73.0682
+MLD0150,Maldives,Ari Atoll,Sunset Villa,3,3,621,4.92,0.7,0.0,1.8,171,AC|Butler Service|Snorkeling Gear|Outdoor Shower|Glass Floor|Direct Lagoon Access,118999,2152860,5.53,90,5.6469,74.4504
+MLD0151,Maldives,Baa Atoll,Water Villa,3,3,860,4.75,0.59,0.0,2.9,158,Kayak|Outdoor Shower|WiFi|Direct Lagoon Access|Butler Service|Snorkeling Gear|AC|Sun Deck,138901,2285155,6.08,90,2.5064,75.6447
+MLD0152,Maldives,Lhaviyani Atoll,Water Villa,3,3,693,4.28,0.77,0.0,3.1,15,AC|Glass Floor|WiFi|Snorkeling Gear|Sun Deck|Outdoor Shower|Kayak,146076,2623405,5.57,86,8.7036,75.9708
+MLD0153,Maldives,Addu Atoll,Overwater Bungalow,2,2,383,4.5,0.84,0.0,1.4,272,Butler Service|Glass Floor|WiFi|Private Pool|AC|Direct Lagoon Access|Sun Deck,88071,1497662,5.88,91,6.2442,73.9601
+MLD0154,Maldives,Lhaviyani Atoll,Water Villa,1,1,807,4.6,0.71,0.0,3.5,525,Outdoor Shower|Kayak|AC|WiFi|Sun Deck|Direct Lagoon Access|Glass Floor,156851,2610785,6.01,90,3.2488,74.5523
+MLD0155,Maldives,Vaavu Atoll,Water Villa,1,1,657,4.82,0.83,0.0,2.5,491,Snorkeling Gear|Butler Service|AC|Glass Floor|Kayak,149279,2365683,6.31,96,8.0346,76.0738
+MLD0156,Maldives,North Male Atoll,Garden Room,3,3,272,4.3,0.89,0.0,3.1,560,Snorkeling Gear|WiFi|Outdoor Shower|Private Pool|Glass Floor|AC|Butler Service|Direct Lagoon Access,66269,1191348,5.56,88,8.2046,74.6667
+MLD0157,Maldives,Noonu Atoll,Garden Room,2,2,230,4.64,0.57,0.0,2.7,433,Glass Floor|Butler Service|Direct Lagoon Access|Sun Deck|AC,35889,598788,5.99,88,6.534,74.5106
+MLD0158,Maldives,Baa Atoll,Beach Villa,3,3,489,4.34,0.65,0.0,0.7,580,Kayak|Snorkeling Gear|Direct Lagoon Access|Sun Deck|Glass Floor|Butler Service|WiFi,87011,1361915,6.39,89,8.8108,73.1125
+MLD0159,Maldives,Lhaviyani Atoll,Overwater Bungalow,1,1,558,4.67,0.76,0.0,0.7,198,AC|Kayak|Glass Floor|Sun Deck|Direct Lagoon Access,116092,2048527,5.67,90,7.4964,73.4493
+MLD0160,Maldives,Noonu Atoll,Garden Room,1,1,206,4.95,0.84,0.0,2.5,33,AC|Kayak|Snorkeling Gear|Sun Deck|Outdoor Shower|Butler Service|WiFi|Glass Floor,47370,723535,6.55,99,4.9278,74.7372
+MLD0161,Maldives,Baa Atoll,Overwater Bungalow,3,3,634,4.56,0.76,0.0,1.3,392,Outdoor Shower|Kayak|Glass Floor|Sun Deck|Private Pool|WiFi|AC|Butler Service,131904,2321926,5.68,89,7.8831,73.7944
+MLD0162,Maldives,North Male Atoll,Sunset Villa,2,2,744,4.28,0.84,0.0,0.7,351,Sun Deck|AC|Glass Floor|Butler Service|WiFi,171083,2613536,6.55,93,6.4924,74.3877
+MLD0163,Maldives,South Male Atoll,Overwater Bungalow,3,3,673,4.49,0.65,0.0,1.9,99,Sun Deck|Direct Lagoon Access|Butler Service|Outdoor Shower|WiFi,119752,1978282,6.05,88,4.411,75.275
+MLD0164,Maldives,Vaavu Atoll,Sunset Villa,3,3,485,4.88,0.89,0.0,1.1,348,Direct Lagoon Access|Outdoor Shower|WiFi|Snorkeling Gear|Sun Deck|Kayak,118164,2054515,5.75,94,4.7598,75.2083
+MLD0165,Maldives,South Male Atoll,Beach Villa,3,3,417,5.0,0.81,0.0,3.3,29,AC|Glass Floor|Outdoor Shower|Private Pool|Snorkeling Gear|WiFi|Butler Service|Sun Deck|Direct Lagoon Access,92465,1644327,5.62,93,8.3203,75.7577
+MLD0166,Maldives,North Male Atoll,Beach Villa,2,2,519,4.4,0.68,0.0,0.3,215,Butler Service|WiFi|Snorkeling Gear|Sun Deck|AC|Kayak|Glass Floor|Outdoor Shower,96612,1617927,5.97,88,5.5354,74.601
+MLD0167,Maldives,Noonu Atoll,Sunset Villa,1,1,565,4.93,0.61,0.0,1.4,556,Butler Service|Snorkeling Gear|WiFi|Direct Lagoon Access|Private Pool|AC,94348,1548551,6.09,92,4.5237,75.694
+MLD0168,Maldives,North Male Atoll,Beach Villa,3,3,529,4.66,0.85,0.0,2.9,320,Direct Lagoon Access|AC|Sun Deck|Kayak|Glass Floor|Outdoor Shower|WiFi,123092,1900627,6.48,96,6.9974,74.2417
+MLD0169,Maldives,Baa Atoll,Garden Room,2,2,263,4.24,0.72,0.0,1.4,394,Snorkeling Gear|AC|Private Pool|Direct Lagoon Access|Kayak|Glass Floor,51837,821014,6.31,89,6.8627,75.5779
+MLD0170,Maldives,North Male Atoll,Garden Room,3,3,277,4.24,0.85,0.0,0.2,220,Outdoor Shower|Private Pool|Glass Floor|Snorkeling Gear|Kayak|Direct Lagoon Access,64454,1168145,5.52,87,6.3933,73.7874
+MLD0171,Maldives,Addu Atoll,Sunset Villa,1,1,374,4.21,0.63,0.0,0.7,133,Butler Service|Sun Deck|Direct Lagoon Access|Glass Floor|Outdoor Shower,64501,1099133,5.87,84,3.1658,74.6145
+MLD0172,Maldives,Vaavu Atoll,Sunset Villa,2,2,462,4.44,0.56,0.0,0.3,271,Outdoor Shower|Snorkeling Gear|Sun Deck|Private Pool|WiFi|Butler Service|Glass Floor,70825,1068595,6.63,90,7.1739,73.772
+MLD0173,Maldives,South Male Atoll,Garden Room,1,1,261,4.55,0.71,0.0,1.9,373,Outdoor Shower|Kayak|Sun Deck|Glass Floor|Private Pool,50729,881506,5.75,88,3.9145,72.9863
+MLD0174,Maldives,Noonu Atoll,Water Villa,1,1,671,4.46,0.7,0.0,2.3,291,WiFi|Snorkeling Gear|Direct Lagoon Access|AC|Outdoor Shower|Sun Deck|Kayak|Private Pool,128580,2140482,6.01,89,6.342,74.6768
+MLD0175,Maldives,Noonu Atoll,Overwater Bungalow,1,1,590,4.76,0.74,0.0,2.4,491,Butler Service|Private Pool|Kayak|WiFi|Direct Lagoon Access|AC,119519,2140808,5.58,90,5.0259,74.1511
+MLD0176,Maldives,North Male Atoll,Overwater Bungalow,3,3,809,4.67,0.57,0.0,3.1,186,WiFi|AC|Outdoor Shower|Glass Floor|Direct Lagoon Access|Snorkeling Gear,126234,1906463,6.62,92,7.2388,75.5352
+MLD0177,Maldives,Baa Atoll,Sunset Villa,1,1,716,4.24,0.76,0.0,1.6,323,AC|Direct Lagoon Access|Butler Service|Private Pool|Snorkeling Gear|Sun Deck,148964,2398635,6.21,89,2.6322,74.7506
+MLD0178,Maldives,Addu Atoll,Water Villa,2,2,537,4.28,0.76,0.0,2.6,427,AC|Private Pool|Sun Deck|Butler Service|Glass Floor|Snorkeling Gear|Kayak|Outdoor Shower|WiFi,111723,1961587,5.7,86,8.3376,74.1379
+MLD0179,Maldives,North Male Atoll,Sunset Villa,2,2,767,4.89,0.65,0.0,0.7,77,Sun Deck|Butler Service|Kayak|Private Pool|Outdoor Shower|Glass Floor|Direct Lagoon Access|AC|Snorkeling Gear,136478,2245240,6.08,92,4.8133,74.8029
+MLD0180,Maldives,South Male Atoll,Garden Room,2,2,246,4.8,0.73,0.0,0.5,490,Sun Deck|Glass Floor|Butler Service|Outdoor Shower|WiFi|Private Pool|Kayak|Direct Lagoon Access,49160,878045,5.6,90,4.1684,76.3852
+MLD0181,Maldives,Lhaviyani Atoll,Beach Villa,2,2,372,4.97,0.58,0.0,1.0,537,AC|Direct Lagoon Access|Glass Floor|Snorkeling Gear|Kayak|WiFi|Sun Deck|Private Pool|Butler Service,59064,895131,6.6,95,6.9358,75.9012
+MLD0182,Maldives,Baa Atoll,Beach Villa,1,1,480,4.94,0.76,0.0,2.3,265,Direct Lagoon Access|Outdoor Shower|WiFi|Glass Floor|Private Pool,99864,1779383,5.61,92,4.0776,73.9171
+MLD0183,Maldives,Ari Atoll,Water Villa,1,1,875,4.92,0.89,0.0,3.2,393,AC|Glass Floor|WiFi|Outdoor Shower|Direct Lagoon Access|Butler Service|Snorkeling Gear,213183,3288257,6.48,99,7.7661,74.1394
+MLD0184,Maldives,Baa Atoll,Sunset Villa,3,3,723,4.58,0.74,0.0,1.9,156,Outdoor Shower|Private Pool|Snorkeling Gear|Direct Lagoon Access|Sun Deck,146462,2354004,6.22,92,2.5252,76.0826
+MLD0185,Maldives,North Male Atoll,Beach Villa,1,1,573,4.31,0.82,0.0,2.3,229,AC|Private Pool|Glass Floor|Snorkeling Gear|Butler Service|Direct Lagoon Access|Outdoor Shower|WiFi,128624,2104779,6.11,90,3.7781,75.9389
+MLD0186,Maldives,Vaavu Atoll,Sunset Villa,2,2,477,4.64,0.76,0.0,0.5,359,Glass Floor|Direct Lagoon Access|WiFi|AC|Kayak|Butler Service|Outdoor Shower|Private Pool|Sun Deck,99240,1645373,6.03,92,3.3559,73.3335
+MLD0187,Maldives,Vaavu Atoll,Sunset Villa,2,2,472,4.93,0.69,0.0,0.9,446,AC|Sun Deck|WiFi|Private Pool|Butler Service,89155,1530122,5.83,92,8.0983,75.4933
+MLD0188,Maldives,North Male Atoll,Sunset Villa,1,1,750,4.63,0.81,0.0,0.7,312,Snorkeling Gear|Glass Floor|Direct Lagoon Access|Private Pool|WiFi,166303,2687609,6.19,93,4.7268,74.5452
+MLD0189,Maldives,Baa Atoll,Water Villa,2,2,948,4.9,0.6,0.0,0.8,209,Outdoor Shower|Sun Deck|Direct Lagoon Access|Kayak|WiFi|Glass Floor|Snorkeling Gear|Butler Service,155709,2521261,6.18,92,4.0352,74.9591
+MLD0190,Maldives,Baa Atoll,Beach Villa,1,1,549,4.97,0.78,0.0,3.0,58,AC|Sun Deck|Butler Service|WiFi|Outdoor Shower|Kayak,117225,1963598,5.97,95,3.4583,74.5988
+MLD0191,Maldives,Noonu Atoll,Sunset Villa,1,1,503,4.79,0.63,0.0,1.4,563,Butler Service|AC|Kayak|Private Pool|Sun Deck|Direct Lagoon Access|WiFi|Glass Floor|Outdoor Shower,86749,1406498,6.17,91,8.7161,74.2758
+MLD0192,Maldives,Addu Atoll,Beach Villa,2,2,339,4.8,0.64,0.0,2.1,497,Outdoor Shower|WiFi|Kayak|Sun Deck|Snorkeling Gear,59393,1067946,5.56,88,5.3264,76.2805
+MLD0193,Maldives,Vaavu Atoll,Water Villa,1,1,549,4.26,0.86,0.0,3.0,78,Private Pool|Direct Lagoon Access|WiFi|AC|Glass Floor|Butler Service|Sun Deck,129248,2366354,5.46,87,6.7558,76.2468
+MLD0194,Maldives,North Male Atoll,Garden Room,1,1,329,4.88,0.75,0.0,1.5,410,Glass Floor|Butler Service|Snorkeling Gear|Kayak|Direct Lagoon Access|Outdoor Shower,67548,1223645,5.52,91,5.0248,74.6553
+MLD0195,Maldives,Ari Atoll,Beach Villa,2,2,448,4.65,0.71,0.0,0.4,165,Snorkeling Gear|WiFi|Butler Service|Kayak|Private Pool,87074,1562122,5.57,88,5.1108,74.8558
+MLD0196,Maldives,Ari Atoll,Garden Room,1,1,232,4.2,0.64,0.0,2.5,492,AC|Private Pool|Direct Lagoon Access|WiFi|Butler Service|Outdoor Shower|Sun Deck,40646,623130,6.52,88,8.3622,73.3601
+MLD0197,Maldives,Ari Atoll,Garden Room,2,2,237,4.35,0.55,0.0,2.7,359,Sun Deck|Glass Floor|Butler Service|Private Pool|AC,35683,639325,5.58,83,6.2991,73.2528
+MLD0198,Maldives,Lhaviyani Atoll,Overwater Bungalow,2,2,561,4.58,0.88,0.0,1.0,240,Direct Lagoon Access|Glass Floor|Outdoor Shower|WiFi|Kayak|Snorkeling Gear|Butler Service,135145,2356769,5.73,91,5.0761,73.6914
+MLD0199,Maldives,South Male Atoll,Overwater Bungalow,3,3,592,4.26,0.83,0.0,1.0,117,Kayak|AC|Snorkeling Gear|Outdoor Shower|Sun Deck|Glass Floor|WiFi|Direct Lagoon Access|Private Pool,134510,2342901,5.74,88,2.4784,76.3204
+MLD0200,Maldives,Lhaviyani Atoll,Water Villa,2,2,654,4.91,0.83,0.0,3.4,258,AC|Outdoor Shower|WiFi|Butler Service|Private Pool|Kayak|Glass Floor|Sun Deck|Direct Lagoon Access,148597,2465665,6.03,95,7.0918,73.9828
+MLD0201,Maldives,Vaavu Atoll,Beach Villa,3,3,317,4.55,0.61,0.0,3.4,541,WiFi|Direct Lagoon Access|Glass Floor|Kayak|Outdoor Shower|AC|Snorkeling Gear|Butler Service,52935,811008,6.53,91,6.1245,75.0059
+MLD0202,Maldives,Addu Atoll,Overwater Bungalow,3,3,455,4.73,0.59,0.0,2.0,379,Kayak|Direct Lagoon Access|Sun Deck|Private Pool|Glass Floor,73488,1172676,6.27,91,8.5812,75.5483
+MLD0203,Maldives,Addu Atoll,Garden Room,3,3,206,4.23,0.65,0.0,0.8,48,AC|Glass Floor|Sun Deck|WiFi|Outdoor Shower,36655,551188,6.65,90,3.6963,75.2151
+MLD0204,Maldives,Addu Atoll,Garden Room,3,3,165,4.61,0.86,0.0,2.5,111,Snorkeling Gear|Butler Service|Private Pool|AC|Sun Deck,38845,633773,6.13,94,4.6073,74.3229
+MLD0205,Maldives,Lhaviyani Atoll,Garden Room,1,1,217,4.71,0.68,0.0,3.0,342,WiFi|AC|Sun Deck|Butler Service|Direct Lagoon Access|Outdoor Shower|Snorkeling Gear|Private Pool,40395,707795,5.71,89,6.2736,73.9568
+MLD0206,Maldives,Vaavu Atoll,Water Villa,1,1,548,4.82,0.72,0.0,0.9,186,Sun Deck|Kayak|AC|Glass Floor|Snorkeling Gear|Butler Service,108011,1690435,6.39,95,3.1578,75.6086
+MLD0207,Maldives,Vaavu Atoll,Overwater Bungalow,2,2,459,4.62,0.71,0.0,2.1,425,Kayak|Sun Deck|Snorkeling Gear|Butler Service|Outdoor Shower|Private Pool|WiFi,89212,1599022,5.58,88,8.0742,74.3043
+MLD0208,Maldives,Noonu Atoll,Sunset Villa,2,2,423,4.54,0.76,0.0,2.0,369,Outdoor Shower|Snorkeling Gear|WiFi|Kayak|AC|Sun Deck,88005,1511144,5.82,89,3.0785,75.0861
+MLD0209,Maldives,Noonu Atoll,Garden Room,2,2,199,4.8,0.67,0.0,2.5,327,Butler Service|AC|Private Pool|Glass Floor|Direct Lagoon Access|WiFi,36499,553308,6.6,95,4.855,75.3201
+MLD0210,Maldives,Lhaviyani Atoll,Sunset Villa,3,3,496,4.84,0.77,0.0,2.1,424,Outdoor Shower|Direct Lagoon Access|Snorkeling Gear|Private Pool|Kayak|WiFi,104551,1691478,6.18,94,5.3772,74.8894
+MLD0211,Maldives,Lhaviyani Atoll,Beach Villa,3,3,417,4.76,0.7,0.0,0.9,593,Sun Deck|AC|Outdoor Shower|Direct Lagoon Access|Snorkeling Gear|Private Pool|Butler Service,79908,1255603,6.36,94,2.0406,73.7038
+MLD0212,Maldives,South Male Atoll,Water Villa,1,1,774,4.84,0.62,0.0,3.4,234,Private Pool|Snorkeling Gear|Butler Service|AC|Glass Floor|Kayak|Sun Deck|WiFi,131367,2190502,6.0,91,8.4189,75.3271
+MLD0213,Maldives,Ari Atoll,Beach Villa,2,2,485,4.27,0.63,0.0,0.2,504,Butler Service|Private Pool|WiFi|Direct Lagoon Access|Sun Deck|Glass Floor,83644,1454326,5.75,84,4.4111,75.6466
+MLD0214,Maldives,Vaavu Atoll,Garden Room,3,3,190,4.86,0.6,0.0,0.8,277,Kayak|Snorkeling Gear|Outdoor Shower|Direct Lagoon Access|WiFi|AC|Sun Deck|Butler Service|Glass Floor,31208,503580,6.2,92,4.8594,73.8948
+MLD0215,Maldives,Noonu Atoll,Water Villa,2,2,712,4.28,0.67,0.0,3.0,339,AC|Snorkeling Gear|Kayak|WiFi|Butler Service|Private Pool|Direct Lagoon Access,130590,1987927,6.57,90,8.5964,76.4453
+MLD0216,Maldives,Ari Atoll,Sunset Villa,3,3,513,4.43,0.68,0.0,2.8,243,Direct Lagoon Access|Sun Deck|Glass Floor|WiFi|Butler Service|Private Pool,95495,1622118,5.89,87,6.5106,75.53
+MLD0217,Maldives,Noonu Atoll,Sunset Villa,1,1,438,4.87,0.8,0.0,2.1,185,WiFi|Private Pool|Glass Floor|Kayak|Snorkeling Gear|AC|Outdoor Shower|Sun Deck,95922,1723314,5.57,92,6.9021,73.3068
+MLD0218,Maldives,North Male Atoll,Sunset Villa,2,2,661,4.6,0.57,0.0,3.4,76,Private Pool|AC|Glass Floor|Outdoor Shower|Sun Deck|Direct Lagoon Access|Kayak|Butler Service|WiFi,103141,1591320,6.48,91,6.8822,74.5249
+MLD0219,Maldives,Lhaviyani Atoll,Sunset Villa,2,2,463,4.94,0.85,0.0,1.9,415,Kayak|Glass Floor|Outdoor Shower|AC|Direct Lagoon Access,107734,1698226,6.34,98,2.8514,73.9536
+MLD0220,Maldives,Ari Atoll,Garden Room,2,2,241,4.61,0.89,0.0,2.1,16,WiFi|AC|Snorkeling Gear|Kayak|Outdoor Shower|Glass Floor|Direct Lagoon Access|Butler Service|Sun Deck,58717,1054935,5.57,91,6.5562,74.401
+MLD0221,Maldives,North Male Atoll,Water Villa,3,3,996,4.58,0.85,0.0,1.2,209,Direct Lagoon Access|Kayak|Outdoor Shower|AC|Sun Deck,231757,3575866,6.48,95,7.9872,74.8497
+MLD0222,Maldives,Ari Atoll,Sunset Villa,1,1,653,4.95,0.57,0.0,1.9,423,Private Pool|Glass Floor|Direct Lagoon Access|Butler Service|Kayak|AC,101892,1655733,6.15,92,6.381,75.6744
+MLD0223,Maldives,Addu Atoll,Garden Room,2,2,168,4.65,0.8,0.0,0.6,450,Butler Service|AC|Kayak|Private Pool|Glass Floor|Sun Deck|Direct Lagoon Access|WiFi,36792,651717,5.65,90,6.2428,76.2981
+MLD0224,Maldives,Lhaviyani Atoll,Garden Room,1,1,228,4.29,0.73,0.0,0.5,357,WiFi|Outdoor Shower|Snorkeling Gear|Direct Lagoon Access|Butler Service|Private Pool,45563,830693,5.48,85,2.2708,75.514
+MLD0225,Maldives,Vaavu Atoll,Overwater Bungalow,3,3,504,4.49,0.57,0.0,2.3,11,Private Pool|Kayak|Sun Deck|AC|Butler Service|Glass Floor|Direct Lagoon Access,78643,1333057,5.9,86,3.9662,76.1409
+MLD0226,Maldives,North Male Atoll,Overwater Bungalow,2,2,706,4.56,0.74,0.0,0.5,520,WiFi|Private Pool|AC|Outdoor Shower|Sun Deck|Direct Lagoon Access|Kayak|Butler Service,143018,2589656,5.52,87,4.6218,72.8231
+MLD0227,Maldives,Baa Atoll,Sunset Villa,1,1,609,4.68,0.73,0.0,2.5,529,Direct Lagoon Access|Butler Service|AC|WiFi|Kayak|Snorkeling Gear|Glass Floor,121701,1848023,6.59,95,3.9918,75.7769
+MLD0228,Maldives,Baa Atoll,Garden Room,1,1,245,4.88,0.58,0.0,3.0,540,Private Pool|Sun Deck|Direct Lagoon Access|Outdoor Shower|Butler Service|AC|Kayak|Glass Floor|Snorkeling Gear,38900,630282,6.17,91,6.2855,73.1115
+MLD0229,Maldives,Baa Atoll,Overwater Bungalow,2,2,609,4.37,0.59,0.0,1.2,408,Kayak|Butler Service|AC|Snorkeling Gear|Glass Floor|WiFi,98361,1644066,5.98,86,6.1213,75.6595
+MLD0230,Maldives,Vaavu Atoll,Overwater Bungalow,3,3,523,4.69,0.69,0.0,1.8,52,Direct Lagoon Access|AC|Snorkeling Gear|Butler Service|Kayak|Sun Deck|Glass Floor|Private Pool|WiFi,98788,1618319,6.1,91,7.8952,73.42
+MLD0231,Maldives,Noonu Atoll,Overwater Bungalow,2,2,468,4.72,0.62,0.0,3.1,299,Direct Lagoon Access|Sun Deck|Kayak|AC|Outdoor Shower|Butler Service|Snorkeling Gear|WiFi|Private Pool,79431,1418915,5.6,87,2.5371,72.9256
+MLD0232,Maldives,Noonu Atoll,Beach Villa,2,2,384,4.69,0.65,0.0,2.6,512,WiFi|Outdoor Shower|Sun Deck|Snorkeling Gear|Glass Floor|Private Pool,68328,1160418,5.89,89,4.2738,72.6015
+MLD0233,Maldives,North Male Atoll,Garden Room,1,1,323,4.37,0.84,0.0,1.6,550,Sun Deck|Glass Floor|Outdoor Shower|Butler Service|Snorkeling Gear|Kayak|Private Pool,74274,1256983,5.91,90,8.1106,75.9545
+MLD0234,Maldives,North Male Atoll,Beach Villa,1,1,505,4.37,0.82,0.0,1.6,58,Kayak|Sun Deck|Butler Service|AC|Glass Floor|Private Pool|WiFi,113360,1772966,6.39,92,8.331,73.2924
+MLD0235,Maldives,Lhaviyani Atoll,Garden Room,1,1,206,4.22,0.77,0.0,2.4,530,Sun Deck|Private Pool|Outdoor Shower|AC|WiFi|Glass Floor|Direct Lagoon Access,43422,696350,6.24,89,4.2401,73.858
+MLD0236,Maldives,Noonu Atoll,Overwater Bungalow,1,1,580,4.25,0.88,0.0,0.9,84,Glass Floor|Butler Service|Snorkeling Gear|AC|Sun Deck,139722,2561418,5.45,87,3.2007,75.5862
+MLD0237,Maldives,Ari Atoll,Garden Room,1,1,238,4.26,0.86,0.0,3.0,348,Kayak|Private Pool|Sun Deck|Snorkeling Gear|Direct Lagoon Access|Glass Floor|Butler Service|WiFi|Outdoor Shower,56031,915840,6.12,91,6.9168,74.7283
+MLD0238,Maldives,Baa Atoll,Garden Room,1,1,310,4.45,0.73,0.0,1.8,442,Outdoor Shower|Private Pool|Butler Service|Direct Lagoon Access|WiFi|Kayak|Glass Floor,61950,1002332,6.18,90,8.2402,73.1635
+MLD0239,Maldives,Lhaviyani Atoll,Beach Villa,3,3,376,4.66,0.78,0.0,0.8,204,Outdoor Shower|Private Pool|Kayak|Glass Floor|Snorkeling Gear|AC|Butler Service,80285,1308837,6.13,93,8.6259,73.4865
+MLD0240,Maldives,Vaavu Atoll,Water Villa,3,3,630,4.79,0.71,0.0,3.3,238,Outdoor Shower|Private Pool|Glass Floor|Direct Lagoon Access|AC,122448,2137394,5.73,90,5.2055,74.7773
+MLD0241,Maldives,South Male Atoll,Overwater Bungalow,1,1,635,4.67,0.86,0.0,1.4,272,Glass Floor|Direct Lagoon Access|Butler Service|WiFi|Kayak|Sun Deck,149495,2391863,6.25,95,3.4969,72.6511
+MLD0242,Maldives,Addu Atoll,Water Villa,3,3,466,4.9,0.79,0.0,2.4,98,WiFi|Kayak|Direct Lagoon Access|Outdoor Shower|Private Pool|Snorkeling Gear|Glass Floor,100778,1718145,5.87,94,7.9445,74.4211
+MLD0243,Maldives,Vaavu Atoll,Beach Villa,1,1,389,4.49,0.87,0.0,2.5,95,Private Pool|Glass Floor|Sun Deck|Kayak|Outdoor Shower|Direct Lagoon Access|AC|WiFi|Snorkeling Gear,92645,1469096,6.31,94,5.9486,74.6321
+MLD0244,Maldives,South Male Atoll,Beach Villa,2,2,374,4.67,0.66,0.0,0.4,54,AC|Glass Floor|Butler Service|Snorkeling Gear|WiFi|Private Pool|Direct Lagoon Access|Kayak|Outdoor Shower,67572,1227255,5.51,87,6.4904,76.0077
+MLD0245,Maldives,North Male Atoll,Beach Villa,2,2,553,4.49,0.73,0.0,2.4,399,Butler Service|AC|Glass Floor|Direct Lagoon Access|Sun Deck|Private Pool|Snorkeling Gear,110510,2011375,5.49,86,3.7757,75.9999
+MLD0246,Maldives,Baa Atoll,Water Villa,3,3,947,4.74,0.88,0.0,1.5,459,Snorkeling Gear|Butler Service|Kayak|Sun Deck|AC,228132,4146692,5.5,92,6.9195,72.668
+MLD0247,Maldives,North Male Atoll,Garden Room,1,1,337,4.59,0.71,0.0,2.1,570,Kayak|Sun Deck|WiFi|Glass Floor|Direct Lagoon Access|AC,65500,1015116,6.45,93,5.2842,75.8245
+MLD0248,Maldives,Noonu Atoll,Overwater Bungalow,1,1,470,4.42,0.55,0.0,1.6,183,Outdoor Shower|Sun Deck|Private Pool|WiFi|AC,70764,1233255,5.74,84,7.5914,76.2808
+MLD0249,Maldives,Noonu Atoll,Water Villa,1,1,681,4.4,0.87,0.0,2.8,69,Direct Lagoon Access|Snorkeling Gear|Private Pool|Sun Deck|Glass Floor|WiFi,162189,2743388,5.91,91,6.8695,76.1973
+MLD0250,Maldives,Addu Atoll,Sunset Villa,1,1,431,4.49,0.8,0.0,0.3,595,Private Pool|Sun Deck|Direct Lagoon Access|Kayak|AC|Snorkeling Gear,94389,1537413,6.14,92,4.8443,73.1674
+MLD0251,Maldives,Addu Atoll,Water Villa,3,3,463,4.31,0.78,0.0,2.8,500,Outdoor Shower|Glass Floor|Snorkeling Gear|AC|Sun Deck|WiFi|Butler Service|Direct Lagoon Access|Kayak,98862,1808583,5.47,86,4.4245,74.8975
+MLD0252,Maldives,Baa Atoll,Garden Room,3,3,317,4.33,0.8,0.0,2.7,273,Snorkeling Gear|Butler Service|WiFi|AC|Outdoor Shower|Direct Lagoon Access|Kayak,69423,1061935,6.54,93,8.0287,75.7524
+MLD0253,Maldives,Baa Atoll,Water Villa,3,3,722,4.27,0.57,0.0,1.3,430,Outdoor Shower|WiFi|Butler Service|Private Pool|Snorkeling Gear,112659,1881138,5.99,85,5.7264,73.5707
+MLD0254,Maldives,Ari Atoll,Garden Room,1,1,292,4.49,0.57,0.0,1.2,407,Snorkeling Gear|Outdoor Shower|Sun Deck|Kayak|Glass Floor|AC|WiFi,45563,764108,5.96,86,4.8576,73.5954
+MLD0255,Maldives,Vaavu Atoll,Water Villa,2,2,534,4.86,0.9,0.0,1.3,382,Outdoor Shower|Butler Service|Snorkeling Gear|Direct Lagoon Access|Kayak|AC|WiFi,131564,2140819,6.15,97,6.3263,75.3738
+MLD0256,Maldives,Vaavu Atoll,Sunset Villa,2,2,435,4.92,0.75,0.0,1.7,317,WiFi|Snorkeling Gear|Outdoor Shower|Direct Lagoon Access|Sun Deck|Private Pool|AC,89311,1532182,5.83,93,8.6696,75.6782
+MLD0257,Maldives,Addu Atoll,Overwater Bungalow,1,1,388,4.47,0.71,0.0,1.2,452,AC|Sun Deck|Butler Service|Kayak|Snorkeling Gear|WiFi,75413,1307206,5.77,88,7.7839,75.4254
+MLD0258,Maldives,Baa Atoll,Garden Room,1,1,321,4.42,0.86,0.0,2.7,169,Outdoor Shower|Butler Service|WiFi|AC|Kayak|Glass Floor,75571,1224799,6.17,92,7.1389,72.9163
+MLD0259,Maldives,Addu Atoll,Sunset Villa,1,1,440,4.63,0.65,0.0,2.4,508,Outdoor Shower|AC|Glass Floor|Direct Lagoon Access|Sun Deck|Kayak,78292,1341826,5.83,88,3.4664,72.6216
+MLD0260,Maldives,Noonu Atoll,Sunset Villa,3,3,485,4.66,0.86,0.0,3.3,330,Private Pool|Direct Lagoon Access|Sun Deck|Kayak|Outdoor Shower|AC|WiFi|Glass Floor|Snorkeling Gear,114181,1913980,5.97,93,7.2766,74.2572
+MLD0261,Maldives,Noonu Atoll,Beach Villa,3,3,413,4.36,0.68,0.0,2.3,467,Snorkeling Gear|WiFi|Direct Lagoon Access|Butler Service|Sun Deck|Outdoor Shower,76880,1157853,6.64,91,7.0572,75.8421
+MLD0262,Maldives,Vaavu Atoll,Water Villa,3,3,582,4.56,0.85,0.0,2.8,165,WiFi|Kayak|Direct Lagoon Access|Outdoor Shower|Sun Deck|Glass Floor,135424,2161435,6.27,94,4.2678,75.2155
+MLD0263,Maldives,Baa Atoll,Garden Room,1,1,285,4.33,0.66,0.0,3.2,126,Kayak|Outdoor Shower|Butler Service|WiFi|Sun Deck|Snorkeling Gear|Glass Floor|AC|Private Pool,51492,890498,5.78,86,8.9018,75.5681
+MLD0264,Maldives,Baa Atoll,Garden Room,1,1,317,4.37,0.82,0.0,0.3,184,Butler Service|Outdoor Shower|Glass Floor|Snorkeling Gear|Sun Deck,71159,1226487,5.8,89,5.285,73.887
+MLD0265,Maldives,North Male Atoll,Sunset Villa,3,3,748,4.88,0.56,0.0,2.2,357,Glass Floor|Butler Service|Kayak|Private Pool|Snorkeling Gear|WiFi|Sun Deck,114668,1860615,6.16,91,4.9096,75.8282
+MLD0266,Maldives,South Male Atoll,Water Villa,1,1,679,4.95,0.61,0.0,2.4,338,Butler Service|WiFi|Outdoor Shower|Direct Lagoon Access|Private Pool|Glass Floor,113385,1954797,5.8,90,3.7654,73.799
+MLD0267,Maldives,Lhaviyani Atoll,Overwater Bungalow,2,2,660,4.81,0.67,0.0,2.0,542,Glass Floor|Private Pool|Outdoor Shower|Direct Lagoon Access|Butler Service|AC|Kayak|WiFi|Snorkeling Gear,121052,1840668,6.58,95,3.4612,74.4433
+MLD0268,Maldives,North Male Atoll,Garden Room,2,2,263,4.87,0.8,0.0,3.3,355,Private Pool|Snorkeling Gear|WiFi|Butler Service|Sun Deck|AC,57597,997094,5.78,93,8.5828,74.7181
+MLD0269,Maldives,North Male Atoll,Water Villa,3,3,927,4.98,0.77,0.0,0.3,399,Direct Lagoon Access|AC|Private Pool|Kayak|WiFi|Glass Floor|Sun Deck|Outdoor Shower,195400,3402437,5.74,93,8.3383,75.6823
+MLD0270,Maldives,Ari Atoll,Garden Room,2,2,267,4.74,0.9,0.0,0.5,360,Private Pool|WiFi|Outdoor Shower|Butler Service|Glass Floor|Sun Deck|Snorkeling Gear|Direct Lagoon Access,65782,1133039,5.81,94,3.9838,75.0604
+MLD0271,Maldives,Baa Atoll,Water Villa,3,3,867,4.32,0.62,0.0,2.3,96,Sun Deck|Snorkeling Gear|Glass Floor|Butler Service|Outdoor Shower|Private Pool|Kayak,147152,2270178,6.48,89,3.8563,75.841
+MLD0272,Maldives,Noonu Atoll,Sunset Villa,1,1,469,4.59,0.88,0.0,0.9,392,Butler Service|Direct Lagoon Access|Snorkeling Gear|Private Pool|Sun Deck,112982,1841466,6.14,94,6.2452,75.5214
+MLD0273,Maldives,South Male Atoll,Beach Villa,3,3,471,4.93,0.82,0.0,1.0,82,Direct Lagoon Access|Kayak|Private Pool|AC|Glass Floor|Butler Service,105728,1594663,6.63,99,4.6864,73.0662
+MLD0274,Maldives,Baa Atoll,Sunset Villa,3,3,670,4.73,0.57,0.0,3.0,93,AC|Direct Lagoon Access|Sun Deck|Private Pool|Kayak|Glass Floor|WiFi|Butler Service,104545,1654858,6.32,91,5.0256,75.1717
+MLD0275,Maldives,Baa Atoll,Overwater Bungalow,3,3,685,4.55,0.57,0.0,1.5,91,Private Pool|Outdoor Shower|Snorkeling Gear|Direct Lagoon Access|Kayak,106886,1875795,5.7,85,8.4062,74.154
+MLD0276,Maldives,Addu Atoll,Water Villa,3,3,528,4.76,0.88,0.0,1.1,72,Snorkeling Gear|Glass Floor|Kayak|AC|Sun Deck|WiFi|Direct Lagoon Access|Outdoor Shower|Butler Service,127195,2094539,6.07,95,7.5718,74.9388
+MLD0277,Maldives,Vaavu Atoll,Beach Villa,3,3,309,4.7,0.62,0.0,1.9,565,Direct Lagoon Access|Butler Service|Snorkeling Gear|Sun Deck|Kayak,52445,879171,5.97,89,8.1334,74.35
+MLD0278,Maldives,Ari Atoll,Overwater Bungalow,3,3,607,4.38,0.86,0.0,0.8,176,Snorkeling Gear|Butler Service|AC|Outdoor Shower|Direct Lagoon Access,142903,2346405,6.09,91,3.3102,75.5932
+MLD0279,Maldives,Addu Atoll,Sunset Villa,2,2,402,4.48,0.68,0.0,3.0,553,Outdoor Shower|Sun Deck|WiFi|Direct Lagoon Access|Snorkeling Gear|Butler Service|Glass Floor|AC|Private Pool,74832,1260613,5.94,88,7.0251,76.0882
+MLD0280,Maldives,North Male Atoll,Water Villa,2,2,1008,4.46,0.88,0.0,0.3,450,Direct Lagoon Access|Private Pool|Kayak|Snorkeling Gear|Butler Service|Sun Deck,242827,3947424,6.15,93,8.2706,73.5985
+MLD0281,Maldives,South Male Atoll,Garden Room,1,1,224,4.44,0.76,0.0,1.6,336,AC|Kayak|Direct Lagoon Access|WiFi|Butler Service,46603,811938,5.74,88,8.2644,75.1968
+MLD0282,Maldives,Vaavu Atoll,Water Villa,3,3,547,4.95,0.64,0.0,0.7,184,AC|Glass Floor|WiFi|Outdoor Shower|Snorkeling Gear|Butler Service|Direct Lagoon Access|Private Pool,95834,1466250,6.54,95,5.9437,72.955
+MLD0283,Maldives,North Male Atoll,Water Villa,2,2,802,4.44,0.65,0.0,2.2,404,Glass Floor|AC|Outdoor Shower|Snorkeling Gear|Kayak|Sun Deck|Direct Lagoon Access|Private Pool,142706,2529105,5.64,86,7.3294,73.5499
+MLD0284,Maldives,Addu Atoll,Overwater Bungalow,1,1,416,4.97,0.55,0.0,3.1,164,Outdoor Shower|Butler Service|Kayak|Sun Deck|Private Pool|Snorkeling Gear|Direct Lagoon Access,62634,981209,6.38,93,8.631,73.8692
+MLD0285,Maldives,Baa Atoll,Beach Villa,1,1,481,4.77,0.76,0.0,1.2,212,Outdoor Shower|Glass Floor|Butler Service|Sun Deck|Kayak,100072,1685823,5.94,92,7.1149,72.6693
+MLD0286,Maldives,North Male Atoll,Garden Room,2,2,256,4.57,0.6,0.0,2.4,521,WiFi|Sun Deck|Kayak|Direct Lagoon Access|Outdoor Shower|Snorkeling Gear,42048,660722,6.36,90,5.03,73.2907
+MLD0287,Maldives,Addu Atoll,Garden Room,1,1,183,4.29,0.56,0.0,0.4,250,Private Pool|AC|Direct Lagoon Access|Kayak|Butler Service|Snorkeling Gear|Sun Deck|Outdoor Shower,28054,510046,5.5,82,2.996,75.3339
+MLD0288,Maldives,Vaavu Atoll,Beach Villa,2,2,305,4.29,0.73,0.0,1.7,134,Private Pool|WiFi|Butler Service|Glass Floor|AC|Outdoor Shower|Snorkeling Gear|Sun Deck,60950,1107579,5.5,85,8.6138,75.6184
+MLD0289,Maldives,Baa Atoll,Sunset Villa,2,2,649,4.56,0.67,0.0,3.3,467,AC|Butler Service|Kayak|WiFi|Snorkeling Gear|Private Pool|Outdoor Shower,119035,2024749,5.88,88,6.0535,73.4276
+MLD0290,Maldives,Noonu Atoll,Garden Room,1,1,190,4.96,0.66,0.0,1.7,578,AC|Snorkeling Gear|Kayak|Glass Floor|Sun Deck|Butler Service,34328,528038,6.5,96,7.8585,72.6105
+MLD0291,Maldives,Noonu Atoll,Sunset Villa,2,2,545,4.31,0.86,0.0,2.6,252,Butler Service|AC|Snorkeling Gear|Sun Deck|WiFi|Outdoor Shower,128307,1995033,6.43,93,5.9607,73.7506
+MLD0292,Maldives,Ari Atoll,Garden Room,3,3,235,4.89,0.69,0.0,1.5,551,Private Pool|AC|Direct Lagoon Access|Snorkeling Gear|Glass Floor|WiFi|Butler Service|Kayak,44389,690972,6.42,95,4.6815,75.9865
+MLD0293,Maldives,Vaavu Atoll,Garden Room,3,3,192,4.96,0.88,0.0,0.7,382,Direct Lagoon Access|Glass Floor|Outdoor Shower|Sun Deck|Kayak|Butler Service|AC,46253,721132,6.41,99,8.0387,74.071
+MLD0294,Maldives,North Male Atoll,Garden Room,1,1,255,4.42,0.76,0.0,2.8,585,Private Pool|AC|Sun Deck|Outdoor Shower|WiFi|Snorkeling Gear,53053,819384,6.47,92,2.7738,76.1884
+MLD0295,Maldives,Baa Atoll,Water Villa,2,2,903,4.67,0.82,0.0,1.6,72,AC|Sun Deck|Snorkeling Gear|Outdoor Shower|Kayak|Direct Lagoon Access|Private Pool|WiFi,202701,3552981,5.71,91,4.6026,73.4764
+MLD0296,Maldives,Ari Atoll,Sunset Villa,3,3,625,4.54,0.89,0.0,1.4,219,Snorkeling Gear|Outdoor Shower|Sun Deck|AC|Private Pool|Butler Service|WiFi,152273,2751942,5.53,90,8.5307,73.4674
+MLD0297,Maldives,Baa Atoll,Water Villa,1,1,915,4.55,0.87,0.0,1.7,467,Outdoor Shower|Direct Lagoon Access|AC|Snorkeling Gear|Sun Deck,217919,3809445,5.72,91,5.2688,73.4112
+MLD0298,Maldives,Addu Atoll,Sunset Villa,1,1,368,4.54,0.81,0.0,2.2,301,Glass Floor|AC|Direct Lagoon Access|Butler Service|Snorkeling Gear|Outdoor Shower|Kayak|WiFi|Sun Deck,81599,1411290,5.78,90,3.9763,74.4257
+MLD0299,Maldives,Baa Atoll,Sunset Villa,1,1,544,4.85,0.9,0.0,1.5,387,Private Pool|Direct Lagoon Access|Kayak|Outdoor Shower|Butler Service|WiFi|Snorkeling Gear,134028,2015318,6.65,100,3.1885,75.1101
+MLD0300,Maldives,Baa Atoll,Water Villa,3,3,868,4.83,0.64,0.0,2.7,45,Sun Deck|Private Pool|Outdoor Shower|AC|Butler Service|Snorkeling Gear|Direct Lagoon Access|WiFi,152074,2629858,5.78,90,4.2597,74.682
+MLD0301,Maldives,Lhaviyani Atoll,Water Villa,3,3,644,4.56,0.86,0.0,1.6,153,Private Pool|Sun Deck|Kayak|AC|Outdoor Shower|Direct Lagoon Access|Snorkeling Gear|Glass Floor|Butler Service,151614,2698510,5.62,90,6.1318,73.2675
+MLD0302,Maldives,Baa Atoll,Overwater Bungalow,3,3,717,4.6,0.69,0.0,0.6,432,Snorkeling Gear|Direct Lagoon Access|AC|Butler Service|Outdoor Shower|Private Pool,135432,2219599,6.1,90,2.5093,72.8951
+MLD0303,Maldives,Noonu Atoll,Overwater Bungalow,2,2,536,4.44,0.87,0.0,1.4,469,Sun Deck|Private Pool|Outdoor Shower|AC|Snorkeling Gear|Direct Lagoon Access|Kayak|Glass Floor,127655,2237306,5.71,90,5.7117,75.3163
+MLD0304,Maldives,Baa Atoll,Overwater Bungalow,2,2,650,4.95,0.74,0.0,2.9,500,Snorkeling Gear|Private Pool|Sun Deck|Glass Floor|AC|Direct Lagoon Access,131674,2135333,6.17,95,2.7015,75.1948
+MLD0305,Maldives,North Male Atoll,Overwater Bungalow,1,1,639,4.58,0.62,0.0,2.3,29,Butler Service|Kayak|AC|Sun Deck|Snorkeling Gear|Glass Floor,108454,1980883,5.48,85,5.2508,75.77
+MLD0306,Maldives,Lhaviyani Atoll,Garden Room,1,1,241,4.6,0.88,0.0,3.1,513,Sun Deck|Direct Lagoon Access|Private Pool|Kayak|WiFi|Glass Floor|Outdoor Shower|AC,58057,1022926,5.68,91,4.0738,74.68
+MLD0307,Maldives,North Male Atoll,Water Villa,3,3,825,4.56,0.72,0.0,2.9,165,Kayak|AC|Butler Service|Snorkeling Gear|Direct Lagoon Access,162608,2924791,5.56,87,4.9023,72.5708
+MLD0308,Maldives,North Male Atoll,Sunset Villa,2,2,748,4.34,0.77,0.0,0.3,352,Sun Deck|AC|Outdoor Shower|Direct Lagoon Access|Glass Floor|WiFi|Butler Service,157669,2575001,6.12,90,8.9017,72.9028
+MLD0309,Maldives,Ari Atoll,Water Villa,2,2,762,4.45,0.87,0.0,3.1,199,Direct Lagoon Access|WiFi|Glass Floor|Private Pool|Snorkeling Gear|Sun Deck|AC|Outdoor Shower,181480,2865992,6.33,94,2.5683,75.0086
+MLD0310,Maldives,South Male Atoll,Overwater Bungalow,2,2,571,4.74,0.56,0.0,0.6,229,Snorkeling Gear|Kayak|WiFi|Outdoor Shower|AC,87534,1513280,5.78,87,3.4866,75.9304
+MLD0311,Maldives,Lhaviyani Atoll,Water Villa,2,2,625,4.37,0.9,0.0,1.6,327,Snorkeling Gear|WiFi|Kayak|Sun Deck|Private Pool,153984,2670578,5.77,90,3.2786,74.9395
+MLD0312,Maldives,North Male Atoll,Beach Villa,1,1,561,4.45,0.84,0.0,2.2,179,Snorkeling Gear|Glass Floor|Outdoor Shower|AC|Butler Service|Kayak|WiFi,129002,2102355,6.14,92,5.9035,74.807
+MLD0313,Maldives,Vaavu Atoll,Garden Room,3,3,180,4.52,0.67,0.0,1.5,21,WiFi|Snorkeling Gear|Direct Lagoon Access|Kayak|Private Pool|AC|Outdoor Shower|Butler Service|Sun Deck,33014,578968,5.7,87,5.3778,76.2613
+MLD0314,Maldives,Lhaviyani Atoll,Overwater Bungalow,2,2,563,4.53,0.83,0.0,2.0,391,Outdoor Shower|Butler Service|Direct Lagoon Access|Private Pool|Sun Deck|Glass Floor|WiFi|Snorkeling Gear,127921,2152070,5.94,91,2.3734,74.0944
+MLD0315,Maldives,South Male Atoll,Water Villa,2,2,670,5.0,0.66,0.0,3.1,279,WiFi|Private Pool|Direct Lagoon Access|Butler Service|Glass Floor,121052,2088645,5.8,92,4.3864,74.6741
+MLD0316,Maldives,Vaavu Atoll,Beach Villa,1,1,386,4.91,0.61,0.0,1.3,250,Glass Floor|Butler Service|Private Pool|Kayak|Outdoor Shower,64457,1038880,6.2,92,2.2943,74.893
+MLD0317,Maldives,Vaavu Atoll,Sunset Villa,3,3,498,4.51,0.81,0.0,2.3,230,WiFi|Kayak|Private Pool|AC|Sun Deck|Snorkeling Gear|Glass Floor|Butler Service|Outdoor Shower,110425,1794645,6.15,92,2.9874,75.3373
+MLD0318,Maldives,South Male Atoll,Garden Room,3,3,266,4.75,0.56,0.0,0.9,600,Private Pool|Kayak|Glass Floor|Snorkeling Gear|Outdoor Shower|AC|Direct Lagoon Access|Sun Deck,40778,621114,6.57,92,5.9927,75.5259
+MLD0319,Maldives,North Male Atoll,Overwater Bungalow,2,2,662,4.87,0.74,0.0,2.5,250,Glass Floor|Snorkeling Gear|WiFi|Private Pool|AC|Butler Service|Direct Lagoon Access,134105,2445808,5.48,90,2.5858,76.1049
+MLD0320,Maldives,Vaavu Atoll,Overwater Bungalow,3,3,444,4.51,0.85,0.0,3.2,58,Kayak|Outdoor Shower|Glass Floor|Sun Deck|Direct Lagoon Access,103313,1724078,5.99,92,6.1587,75.3326
+MLD0321,Maldives,Lhaviyani Atoll,Water Villa,1,1,792,4.3,0.83,0.0,1.8,338,AC|Glass Floor|Sun Deck|WiFi|Direct Lagoon Access|Butler Service|Outdoor Shower|Snorkeling Gear|Private Pool,179952,2969582,6.06,90,4.9673,74.5368
+MLD0322,Maldives,Noonu Atoll,Garden Room,1,1,249,4.64,0.88,0.0,0.8,378,Outdoor Shower|AC|Glass Floor|Butler Service|Kayak|Direct Lagoon Access|Snorkeling Gear|Sun Deck|WiFi,59984,1044549,5.74,92,7.6857,75.2165
+MLD0323,Maldives,Addu Atoll,Overwater Bungalow,3,3,464,4.65,0.85,0.0,2.9,53,Butler Service|AC|Sun Deck|Glass Floor|Snorkeling Gear|Outdoor Shower|Direct Lagoon Access,107967,1663515,6.49,96,7.9401,74.1563
+MLD0324,Maldives,Noonu Atoll,Sunset Villa,3,3,458,4.9,0.7,0.0,2.9,220,Kayak|AC|Butler Service|Outdoor Shower|WiFi|Direct Lagoon Access,87764,1393518,6.3,94,2.0275,74.4818
+MLD0325,Maldives,Addu Atoll,Overwater Bungalow,2,2,396,4.8,0.65,0.0,1.7,599,Sun Deck|Kayak|Private Pool|WiFi|Glass Floor,70463,1077387,6.54,94,4.0066,75.626
+MLD0326,Maldives,North Male Atoll,Water Villa,3,3,806,4.72,0.87,0.0,2.4,571,Snorkeling Gear|AC|Glass Floor|Private Pool|Butler Service|Sun Deck,191959,3398328,5.65,92,2.7628,73.5029
+MLD0327,Maldives,Addu Atoll,Sunset Villa,3,3,453,4.77,0.77,0.0,2.4,202,Snorkeling Gear|AC|Outdoor Shower|Sun Deck|Private Pool|Direct Lagoon Access|Kayak|Glass Floor,95487,1564141,6.1,93,2.3119,75.6378
+MLD0328,Maldives,North Male Atoll,Sunset Villa,1,1,711,4.58,0.86,0.0,1.3,108,Butler Service|Direct Lagoon Access|WiFi|Sun Deck|Snorkeling Gear|Kayak|Outdoor Shower|Glass Floor,167387,2675024,6.26,94,8.1096,75.688
+MLD0329,Maldives,Ari Atoll,Overwater Bungalow,1,1,653,4.3,0.63,0.0,2.4,83,WiFi|Direct Lagoon Access|Snorkeling Gear|Sun Deck|AC,112618,1833812,6.14,87,7.8553,76.2998
+MLD0330,Maldives,South Male Atoll,Water Villa,2,2,786,4.5,0.83,0.0,1.4,317,Outdoor Shower|AC|Kayak|Private Pool|Sun Deck,178589,2778309,6.43,94,2.2338,74.0429
+MLD0331,Maldives,Noonu Atoll,Garden Room,2,2,247,4.39,0.62,0.0,3.4,52,WiFi|Outdoor Shower|Glass Floor|AC|Kayak|Sun Deck,41922,632324,6.63,90,7.5005,73.7855
+MLD0332,Maldives,Vaavu Atoll,Overwater Bungalow,2,2,431,4.93,0.6,0.0,2.0,442,AC|Private Pool|WiFi|Kayak|Snorkeling Gear|Outdoor Shower|Sun Deck,70792,1126549,6.28,93,2.4563,72.6997
+MLD0333,Maldives,Noonu Atoll,Garden Room,1,1,195,4.26,0.82,0.0,1.8,261,Private Pool|Glass Floor|Direct Lagoon Access|Snorkeling Gear|Butler Service|WiFi|Kayak|Outdoor Shower,43773,706626,6.19,90,4.9286,76.2158
+MLD0334,Maldives,South Male Atoll,Garden Room,2,2,270,4.77,0.86,0.0,1.3,231,Snorkeling Gear|Glass Floor|Private Pool|Butler Service|Outdoor Shower|WiFi|Kayak,63565,1034226,6.15,95,6.296,74.9945
+MLD0335,Maldives,Addu Atoll,Overwater Bungalow,1,1,448,4.52,0.9,0.0,2.9,484,Kayak|Private Pool|Glass Floor|Sun Deck|WiFi|Direct Lagoon Access,110376,1815678,6.08,93,7.091,73.5782
+MLD0336,Maldives,Lhaviyani Atoll,Sunset Villa,2,2,475,4.48,0.69,0.0,0.3,176,Private Pool|WiFi|Direct Lagoon Access|AC|Sun Deck|Snorkeling Gear|Glass Floor|Outdoor Shower|Butler Service,89722,1589513,5.64,87,4.5144,74.8217
+MLD0337,Maldives,North Male Atoll,Water Villa,3,3,785,4.34,0.86,0.0,2.2,507,Outdoor Shower|Direct Lagoon Access|Butler Service|Kayak|Private Pool|Sun Deck|Snorkeling Gear,184809,3357538,5.5,88,8.9913,73.9874
+MLD0338,Maldives,Ari Atoll,Overwater Bungalow,2,2,611,4.89,0.9,0.0,2.3,515,Outdoor Shower|Private Pool|WiFi|Direct Lagoon Access|Kayak|Butler Service,150535,2657013,5.67,94,7.4722,73.9214
+MLD0339,Maldives,Ari Atoll,Garden Room,3,3,266,4.87,0.79,0.0,0.3,586,Direct Lagoon Access|Butler Service|Sun Deck|Kayak|AC,57526,927454,6.2,95,3.0113,73.4319
+MLD0340,Maldives,North Male Atoll,Garden Room,2,2,336,4.23,0.63,0.0,1.2,495,Outdoor Shower|Private Pool|AC|Glass Floor|WiFi|Sun Deck|Snorkeling Gear,57947,988360,5.86,85,5.7387,73.3731
+MLD0341,Maldives,North Male Atoll,Water Villa,2,2,809,4.39,0.73,0.0,1.1,150,Outdoor Shower|Direct Lagoon Access|Sun Deck|Private Pool|Butler Service|AC|Snorkeling Gear|Glass Floor|Kayak,161669,2935695,5.51,86,5.2471,72.7352
+MLD0342,Maldives,South Male Atoll,Overwater Bungalow,1,1,641,4.46,0.78,0.0,1.1,569,Kayak|Butler Service|Snorkeling Gear|Glass Floor|AC,136870,2313442,5.92,90,7.4051,76.212
+MLD0343,Maldives,Noonu Atoll,Sunset Villa,2,2,460,4.47,0.71,0.0,3.3,160,Direct Lagoon Access|Butler Service|Outdoor Shower|Private Pool|WiFi|Glass Floor|Kayak|AC,89407,1609739,5.55,86,2.6291,73.0277
+MLD0344,Maldives,Lhaviyani Atoll,Beach Villa,3,3,419,4.29,0.67,0.0,0.7,553,Private Pool|AC|Kayak|WiFi|Glass Floor|Sun Deck|Butler Service|Snorkeling Gear,76850,1315682,5.84,86,8.6465,76.4869
+MLD0345,Maldives,North Male Atoll,Water Villa,1,1,866,4.68,0.85,0.0,0.6,500,Snorkeling Gear|Glass Floor|Kayak|Direct Lagoon Access|AC|Sun Deck|WiFi,201507,3485779,5.78,92,4.8619,73.3246
+MLD0346,Maldives,Ari Atoll,Overwater Bungalow,1,1,631,4.26,0.79,0.0,1.0,499,Sun Deck|Kayak|Direct Lagoon Access|Glass Floor|AC|Outdoor Shower|WiFi|Private Pool,136462,2188580,6.24,90,2.8476,75.9586
+MLD0347,Maldives,South Male Atoll,Sunset Villa,1,1,539,4.66,0.75,0.0,1.6,71,Outdoor Shower|AC|Snorkeling Gear|Kayak|Butler Service|Glass Floor,110663,1730965,6.39,94,7.2159,73.0082
+MLD0348,Maldives,Addu Atoll,Overwater Bungalow,2,2,397,4.77,0.62,0.0,1.2,140,Private Pool|Snorkeling Gear|AC|Sun Deck|Outdoor Shower|WiFi|Direct Lagoon Access|Butler Service,67381,1117453,6.03,90,5.1455,75.3343
+MLD0349,Maldives,Vaavu Atoll,Sunset Villa,3,3,467,4.72,0.8,0.0,1.2,77,Butler Service|Snorkeling Gear|WiFi|Sun Deck|Private Pool|Outdoor Shower|AC|Direct Lagoon Access,102273,1643982,6.22,94,5.066,73.7298
+MLD0350,Maldives,South Male Atoll,Beach Villa,3,3,481,4.85,0.61,0.0,0.2,359,AC|WiFi|Outdoor Shower|Butler Service|Snorkeling Gear,80321,1216270,6.6,94,3.7084,72.9572
+MLD0351,Maldives,Lhaviyani Atoll,Sunset Villa,3,3,545,4.89,0.81,0.0,0.9,490,WiFi|Glass Floor|Sun Deck|Snorkeling Gear|AC|Kayak|Direct Lagoon Access,120847,1973552,6.12,95,5.5553,75.7408
+MLD0352,Maldives,Noonu Atoll,Overwater Bungalow,3,3,606,4.93,0.73,0.0,2.5,535,AC|Sun Deck|Direct Lagoon Access|Butler Service|Kayak|Outdoor Shower|WiFi|Glass Floor,121102,1861661,6.51,97,5.957,73.4948
+MLD0353,Maldives,Ari Atoll,Water Villa,2,2,764,4.71,0.64,0.0,0.4,540,Kayak|Snorkeling Gear|AC|Butler Service|Direct Lagoon Access|Outdoor Shower,133853,2012361,6.65,94,2.1551,72.5334
+MLD0354,Maldives,Addu Atoll,Water Villa,2,2,477,4.39,0.63,0.0,3.5,565,Outdoor Shower|Snorkeling Gear|Butler Service|Kayak|AC|Glass Floor|Direct Lagoon Access|WiFi|Sun Deck,82265,1317887,6.24,88,2.8919,74.6823
+MLD0355,Maldives,Noonu Atoll,Beach Villa,2,2,426,4.74,0.65,0.0,2.1,197,Sun Deck|Butler Service|Direct Lagoon Access|AC|Outdoor Shower|Kayak|Glass Floor|Private Pool|Snorkeling Gear,75801,1317638,5.75,89,7.0967,75.1662
+MLD0356,Maldives,Vaavu Atoll,Water Villa,1,1,667,4.9,0.75,0.0,1.6,83,Glass Floor|WiFi|Kayak|Sun Deck|Butler Service|Direct Lagoon Access|AC|Snorkeling Gear,136943,2347007,5.83,93,7.7275,72.5226
+MLD0357,Maldives,Lhaviyani Atoll,Overwater Bungalow,2,2,689,4.35,0.71,0.0,3.1,533,Outdoor Shower|Private Pool|Direct Lagoon Access|Glass Floor|Butler Service|Snorkeling Gear|WiFi|AC|Kayak,133916,2109195,6.35,90,5.3376,73.0303
+MLD0358,Maldives,Addu Atoll,Beach Villa,2,2,305,4.34,0.68,0.0,1.4,406,Outdoor Shower|Glass Floor|Direct Lagoon Access|Snorkeling Gear|Kayak,56776,1039601,5.46,84,8.9637,72.9591
+MLD0359,Maldives,Noonu Atoll,Overwater Bungalow,1,1,587,4.24,0.56,0.0,0.5,120,Direct Lagoon Access|AC|Private Pool|Glass Floor|Outdoor Shower|Butler Service,89987,1639409,5.49,81,8.586,73.2757
+MLD0360,Maldives,Lhaviyani Atoll,Beach Villa,1,1,377,4.39,0.73,0.0,2.1,450,Snorkeling Gear|Private Pool|Sun Deck|Glass Floor|Outdoor Shower|Butler Service|WiFi|Direct Lagoon Access,75339,1185734,6.35,91,7.2964,73.7382
+MLD0361,Maldives,Ari Atoll,Beach Villa,1,1,513,4.73,0.7,0.0,2.8,235,Kayak|WiFi|AC|Outdoor Shower|Direct Lagoon Access|Glass Floor|Private Pool|Butler Service|Sun Deck,98304,1742574,5.64,89,4.0334,73.8589
+MLD0362,Maldives,Baa Atoll,Garden Room,1,1,317,4.33,0.56,0.0,1.7,107,Kayak|Private Pool|Butler Service|Sun Deck|WiFi|AC|Glass Floor|Direct Lagoon Access|Outdoor Shower,48596,858725,5.66,83,7.4017,76.1781
+MLD0363,Maldives,Ari Atoll,Garden Room,1,1,263,4.28,0.76,0.0,2.8,13,Glass Floor|Butler Service|Sun Deck|Direct Lagoon Access|Kayak|Private Pool,54717,837777,6.53,91,3.2086,72.5492
+MLD0364,Maldives,Ari Atoll,Water Villa,2,2,802,4.91,0.78,0.0,3.4,463,Kayak|Outdoor Shower|Glass Floor|Direct Lagoon Access|Sun Deck|Private Pool|WiFi|AC|Butler Service,171247,2604686,6.57,98,8.321,75.7563
+MLD0365,Maldives,Baa Atoll,Garden Room,3,3,264,4.98,0.65,0.0,3.1,360,Private Pool|Sun Deck|WiFi|Direct Lagoon Access|AC|Snorkeling Gear|Glass Floor|Butler Service,46976,842553,5.58,90,7.3036,74.7539
+MLD0366,Maldives,Noonu Atoll,Overwater Bungalow,2,2,487,4.63,0.67,0.0,2.8,396,Kayak|Outdoor Shower|Glass Floor|WiFi|Direct Lagoon Access|Butler Service|AC|Sun Deck|Private Pool,89322,1565555,5.71,88,8.3743,72.5593
+MLD0367,Maldives,Baa Atoll,Garden Room,1,1,306,4.95,0.83,0.0,0.6,246,AC|Kayak|Outdoor Shower|Butler Service|Direct Lagoon Access|Glass Floor,69527,1061742,6.55,99,2.1459,75.015
+MLD0368,Maldives,Addu Atoll,Sunset Villa,2,2,421,4.99,0.69,0.0,1.3,32,Kayak|Snorkeling Gear|Direct Lagoon Access|Sun Deck|AC,79522,1358348,5.85,92,7.7793,76.2471
+MLD0369,Maldives,Addu Atoll,Sunset Villa,2,2,442,4.54,0.77,0.0,3.0,101,Outdoor Shower|Private Pool|Glass Floor|Snorkeling Gear|AC|Kayak|WiFi,93168,1549884,6.01,91,3.5168,73.1789
+MLD0370,Maldives,Addu Atoll,Water Villa,2,2,459,4.77,0.59,0.0,1.0,234,WiFi|AC|Kayak|Snorkeling Gear|Direct Lagoon Access|Sun Deck,74134,1185619,6.25,91,5.9227,74.0918
+MLD0371,Maldives,Ari Atoll,Overwater Bungalow,2,2,684,4.24,0.59,0.0,1.8,266,Private Pool|Snorkeling Gear|Direct Lagoon Access|AC|Glass Floor|Kayak|WiFi,110475,1781212,6.2,86,4.0707,72.7681
+MLD0372,Maldives,South Male Atoll,Sunset Villa,2,2,604,4.75,0.59,0.0,0.4,429,Butler Service|WiFi|Kayak|Outdoor Shower|Snorkeling Gear|Glass Floor|Direct Lagoon Access|Private Pool,97554,1780319,5.48,86,6.7682,74.1698
+MLD0373,Maldives,Lhaviyani Atoll,Beach Villa,3,3,445,4.81,0.82,0.0,1.8,190,Snorkeling Gear|Direct Lagoon Access|Private Pool|WiFi|AC,99891,1641503,6.09,95,2.0772,76.2062
+MLD0374,Maldives,Lhaviyani Atoll,Sunset Villa,2,2,557,4.36,0.87,0.0,3.2,113,Butler Service|Snorkeling Gear|Private Pool|Outdoor Shower|Direct Lagoon Access|WiFi|Glass Floor|Sun Deck,132657,2427262,5.47,88,8.1184,76.4911
+MLD0375,Maldives,Lhaviyani Atoll,Beach Villa,3,3,388,4.87,0.84,0.0,1.0,166,Glass Floor|Sun Deck|AC|Kayak|Direct Lagoon Access,89221,1367591,6.52,98,8.8559,73.6841
+MLD0376,Maldives,Baa Atoll,Beach Villa,1,1,545,4.2,0.56,0.0,1.7,148,Butler Service|WiFi|Private Pool|Sun Deck|Outdoor Shower|Glass Floor|Snorkeling Gear,83549,1319716,6.33,86,6.8289,74.7623
+MLD0377,Maldives,Baa Atoll,Overwater Bungalow,2,2,611,4.33,0.69,0.0,0.8,261,Butler Service|Snorkeling Gear|AC|WiFi|Kayak|Sun Deck,115410,2035918,5.67,85,4.9125,72.8737
+MLD0378,Maldives,Vaavu Atoll,Beach Villa,3,3,348,4.27,0.6,0.0,1.0,149,Snorkeling Gear|Butler Service|Private Pool|Glass Floor|Kayak,57159,1021151,5.6,83,8.4723,75.805
+MLD0379,Maldives,North Male Atoll,Water Villa,2,2,855,4.42,0.74,0.0,2.6,267,Glass Floor|Outdoor Shower|Sun Deck|WiFi|Snorkeling Gear|Kayak|Butler Service|AC|Direct Lagoon Access,173202,3171544,5.46,86,2.921,72.6972
+MLD0380,Maldives,Addu Atoll,Beach Villa,3,3,333,4.87,0.85,0.0,2.4,432,Butler Service|Private Pool|Snorkeling Gear|Sun Deck|WiFi|Kayak|AC|Outdoor Shower,77485,1408681,5.5,92,5.577,76.1553
+MLD0381,Maldives,Addu Atoll,Garden Room,2,2,205,4.88,0.66,0.0,0.8,160,Private Pool|AC|Glass Floor|Direct Lagoon Access|Kayak|Outdoor Shower|Snorkeling Gear,37038,623241,5.94,91,5.1711,76.011
+MLD0382,Maldives,Vaavu Atoll,Sunset Villa,3,3,396,4.41,0.81,0.0,0.5,459,WiFi|Outdoor Shower|Snorkeling Gear|Direct Lagoon Access|Private Pool|Sun Deck,87808,1411006,6.22,92,4.7101,74.9904
+MLD0383,Maldives,Lhaviyani Atoll,Garden Room,2,2,215,4.89,0.71,0.0,3.2,159,Glass Floor|AC|Snorkeling Gear|Kayak|Direct Lagoon Access|Outdoor Shower|Private Pool|WiFi,41788,691991,6.04,93,3.9253,73.0673
+MLD0384,Maldives,South Male Atoll,Water Villa,2,2,613,4.63,0.59,0.0,1.5,89,AC|Glass Floor|Outdoor Shower|Kayak|Snorkeling Gear,99007,1679578,5.89,88,3.9298,73.2009
+MLD0385,Maldives,Lhaviyani Atoll,Water Villa,3,3,779,4.96,0.59,0.0,0.7,21,Glass Floor|Private Pool|Kayak|Sun Deck|Butler Service|AC|Direct Lagoon Access|Snorkeling Gear|Outdoor Shower,125818,2289893,5.49,88,2.2645,76.4105
+MLD0386,Maldives,South Male Atoll,Beach Villa,3,3,358,4.9,0.66,0.0,3.3,423,WiFi|Private Pool|Sun Deck|Kayak|Direct Lagoon Access|Outdoor Shower|Butler Service|Glass Floor|AC,64682,1038566,6.23,93,6.5801,72.8201
+MLD0387,Maldives,Noonu Atoll,Sunset Villa,2,2,457,4.82,0.74,0.0,3.3,458,Kayak|AC|WiFi|Butler Service|Private Pool|Glass Floor|Sun Deck,92577,1520963,6.09,93,8.0887,74.2958
+MLD0388,Maldives,Vaavu Atoll,Garden Room,3,3,229,4.97,0.67,0.0,3.1,348,Sun Deck|Kayak|Direct Lagoon Access|Glass Floor|Snorkeling Gear,42001,748683,5.61,90,3.4748,74.9972
+MLD0389,Maldives,Vaavu Atoll,Water Villa,1,1,523,4.87,0.61,0.0,0.4,52,Snorkeling Gear|Direct Lagoon Access|Outdoor Shower|Butler Service|Kayak|Sun Deck,87334,1426519,6.12,92,6.0385,75.9197
+MLD0390,Maldives,North Male Atoll,Water Villa,1,1,1028,4.55,0.57,0.0,2.7,570,Snorkeling Gear|Outdoor Shower|Kayak|Glass Floor|Direct Lagoon Access|Sun Deck,160407,2708297,5.92,87,5.1352,73.7371
+MLD0391,Maldives,Lhaviyani Atoll,Beach Villa,1,1,420,4.47,0.81,0.0,2.0,77,Butler Service|Private Pool|WiFi|AC|Snorkeling Gear,93130,1669153,5.58,88,5.8048,73.453
+MLD0392,Maldives,Ari Atoll,Garden Room,1,1,287,4.65,0.62,0.0,2.3,274,Direct Lagoon Access|Kayak|Glass Floor|Outdoor Shower|Butler Service|WiFi|AC|Sun Deck,48711,788747,6.18,90,7.9108,74.3132
+MLD0393,Maldives,Noonu Atoll,Water Villa,3,3,705,4.28,0.69,0.0,3.4,241,Kayak|Sun Deck|WiFi|Outdoor Shower|Glass Floor|Direct Lagoon Access,133166,2356355,5.65,85,3.1196,73.6111
+MLD0394,Maldives,North Male Atoll,Garden Room,2,2,285,4.72,0.81,0.0,2.7,317,AC|Sun Deck|WiFi|Snorkeling Gear|Kayak|Outdoor Shower|Private Pool,63195,1055330,5.99,93,7.6757,74.2483
+MLD0395,Maldives,Lhaviyani Atoll,Overwater Bungalow,1,1,532,4.65,0.88,0.0,2.8,439,Snorkeling Gear|Kayak|Sun Deck|Glass Floor|Direct Lagoon Access|Private Pool|Butler Service|AC|Outdoor Shower,128159,2169604,5.91,93,6.5276,76.2222
+MLD0396,Maldives,Noonu Atoll,Water Villa,1,1,646,4.47,0.89,0.0,3.0,456,Butler Service|Glass Floor|Direct Lagoon Access|Outdoor Shower|Kayak|Private Pool,157390,2530329,6.22,94,5.2465,74.1603
+MLD0397,Maldives,Addu Atoll,Garden Room,1,1,161,4.97,0.69,0.0,3.1,513,Glass Floor|Private Pool|AC|Butler Service|Sun Deck|Outdoor Shower|Direct Lagoon Access|Snorkeling Gear,30411,475360,6.4,96,5.8351,72.5958
+MLD0398,Maldives,Addu Atoll,Sunset Villa,1,1,437,4.66,0.77,0.0,0.4,344,Outdoor Shower|Snorkeling Gear|WiFi|Direct Lagoon Access|Glass Floor|Kayak|Butler Service|Private Pool,92114,1446509,6.37,94,2.5203,73.6557
+MLD0399,Maldives,Addu Atoll,Overwater Bungalow,1,1,467,4.65,0.76,0.0,2.0,514,Direct Lagoon Access|Private Pool|Butler Service|WiFi|Snorkeling Gear,97159,1545809,6.29,93,3.7116,73.0482
+MLD0400,Maldives,South Male Atoll,Beach Villa,1,1,464,4.69,0.62,0.0,0.8,385,Glass Floor|Butler Service|Private Pool|Direct Lagoon Access|Sun Deck,78752,1410458,5.58,87,7.1991,75.1376

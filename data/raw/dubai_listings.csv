@@ -1,0 +1,601 @@
+id,city,area,property_type,bedrooms,bathrooms,nightly_price_usd,review_score,occupancy_rate,distance_to_beach_km,distance_to_airport_km,num_reviews,amenities,annual_revenue_usd,property_price_usd,roi_pct,investment_score,latitude,longitude
+DXB0001,Dubai,JVC,Apartment,2,1,173,4.94,0.79,4.8,9.7,21,Parking|Gym|Kitchen|AC|WiFi,35917,402632,8.92,100,24.7349,55.4197
+DXB0002,Dubai,Dubai Marina,Apartment,1,1,232,4.65,0.46,7.8,11.4,234,Doorman|Pool|WiFi|Washer|Balcony|AC|Sea View|Kitchen,28046,385539,7.27,83,24.8091,55.01
+DXB0003,Dubai,DIFC,Studio,0,1,136,4.43,0.65,2.4,9.2,199,Washer|AC|Parking|Gym|Sea View|Pool|Kitchen,23232,300145,7.74,88,24.8753,55.1198
+DXB0004,Dubai,JVC,Studio,2,3,118,4.74,0.54,4.2,6.4,155,Pool|Sea View|Gym|WiFi|Doorman|AC,16746,215128,7.78,88,25.0645,55.0023
+DXB0005,Dubai,DIFC,Studio,4,3,250,4.94,0.9,6.5,7.9,124,Pool|WiFi|AC|Doorman,59130,695801,8.5,100,25.1105,55.1641
+DXB0006,Dubai,JVC,Penthouse,2,2,532,4.39,0.47,7.3,24.9,364,Parking|Washer|Kitchen|Gym|Sea View|Doorman,65711,761947,8.62,88,24.887,55.212
+DXB0007,Dubai,JVC,Townhouse,1,2,254,4.02,0.91,6.2,31.8,357,Parking|Sea View|Balcony|Doorman|Washer,60744,859413,7.07,86,25.0587,55.4531
+DXB0008,Dubai,Deira,Villa,2,1,296,4.04,0.47,2.7,13.1,113,Pool|Washer|Balcony|Parking|Doorman,36561,441750,8.28,84,25.1972,55.1141
+DXB0009,Dubai,DIFC,Studio,1,2,168,4.45,0.52,6.4,34.6,387,Balcony|Sea View|Parking|Kitchen|Gym|Washer|Doorman,22958,250347,9.17,92,25.1633,55.0192
+DXB0010,Dubai,DIFC,Penthouse,4,4,1226,4.78,0.78,5.9,7.2,83,WiFi|Parking|Sea View|Pool|Balcony|Washer,251310,3397024,7.4,91,24.9151,54.9695
+DXB0011,Dubai,Palm Jumeirah,Penthouse,4,3,1952,4.55,0.61,0.6,14.8,398,Balcony|Sea View|AC|Kitchen|Pool|Washer|Parking,312921,3689709,8.48,94,25.1378,55.2825
+DXB0012,Dubai,JBR,Apartment,2,2,281,4.37,0.51,5.7,21.8,264,Sea View|Pool|AC|Doorman|Gym,37662,507606,7.42,83,25.1626,55.1963
+DXB0013,Dubai,JVC,Studio,4,5,161,4.31,0.46,1.0,24.1,5,Parking|Washer|Doorman|AC|Balcony,19463,209088,9.31,92,24.8886,55.2051
+DXB0014,Dubai,DIFC,Studio,3,2,283,4.1,0.64,6.1,7.3,128,Washer|AC|WiFi|Pool,47598,546568,8.71,89,24.8739,54.9967
+DXB0015,Dubai,DIFC,Apartment,0,1,244,4.77,0.75,7.0,10.6,140,Gym|Kitchen|Parking|Doorman|Washer|WiFi|Balcony,48092,655916,7.33,90,25.2355,55.2236
+DXB0016,Dubai,Deira,Townhouse,3,2,287,4.88,0.6,1.0,17.8,236,WiFi|AC|Balcony|Washer|Sea View|Parking|Doorman|Kitchen,45254,519505,8.71,97,25.1908,55.4164
+DXB0017,Dubai,JVC,Villa,1,1,320,4.41,0.65,1.9,15.1,41,Pool|Kitchen|WiFi|AC|Gym|Doorman,54662,605354,9.03,94,25.2657,55.0939
+DXB0018,Dubai,Dubai Marina,Villa,0,1,453,4.64,0.62,7.8,12.6,114,Gym|Kitchen|WiFi|Parking|Washer|Sea View,73810,1050625,7.03,85,24.9983,55.0805
+DXB0019,Dubai,Deira,Villa,4,5,421,3.84,0.74,4.1,13.4,186,WiFi|Sea View|Balcony|Gym|Pool|Washer|Doorman,81873,885706,9.24,92,25.245,55.0437
+DXB0020,Dubai,Dubai Hills,Penthouse,3,4,751,4.39,0.91,2.0,27.8,178,Gym|Pool|Balcony|Washer,179600,2360933,7.61,92,24.8426,55.3369
+DXB0021,Dubai,JVC,Villa,1,1,360,4.56,0.75,4.3,30.1,231,Sea View|Parking|Balcony|Gym|Kitchen|WiFi|Doorman|Pool,70956,777932,9.12,98,24.8925,55.0119
+DXB0022,Dubai,Deira,Apartment,0,1,78,4.51,0.77,0.2,11.8,210,Pool|Gym|WiFi|Kitchen|Sea View|Washer|AC|Doorman,15784,198016,7.97,100,25.0871,55.0046
+DXB0023,Dubai,Dubai Marina,Villa,3,2,833,4.26,0.89,1.2,8.4,84,AC|Sea View|Doorman|WiFi|Washer|Kitchen|Balcony,194832,2319280,8.4,96,25.2548,55.4264
+DXB0024,Dubai,Downtown Dubai,Studio,1,1,158,4.59,0.83,4.5,12.3,276,Kitchen|Pool|Washer|Doorman|Balcony|AC|WiFi|Parking,34464,434632,7.93,93,24.7559,55.4383
+DXB0025,Dubai,Palm Jumeirah,Apartment,4,3,591,4.56,0.61,2.9,31.9,296,Gym|Doorman|WiFi|Sea View|Pool,94742,1264553,7.49,87,25.2323,55.3679
+DXB0026,Dubai,Downtown Dubai,Townhouse,4,3,709,3.9,0.53,7.2,5.3,207,Gym|Balcony|Washer|Parking|Doorman|Kitchen|Sea View|WiFi,98752,1273813,7.75,81,24.7609,55.2981
+DXB0027,Dubai,Palm Jumeirah,Studio,3,3,262,3.99,0.71,5.6,11.7,280,Pool|Sea View|Gym|Doorman,48886,638933,7.65,85,25.1273,55.0423
+DXB0028,Dubai,Downtown Dubai,Townhouse,2,1,483,4.7,0.76,6.8,22.0,283,Gym|WiFi|Washer|Parking|Doorman|Kitchen,96469,1262880,7.64,91,24.7562,55.1206
+DXB0029,Dubai,Business Bay,Townhouse,4,3,483,4.09,0.91,3.2,23.9,149,AC|Gym|Parking|Sea View|Pool|Washer|Kitchen|WiFi,115508,1613667,7.16,87,25.1769,55.2016
+DXB0030,Dubai,DIFC,Villa,2,1,829,4.39,0.54,5.8,5.7,329,Kitchen|Sea View|AC|Balcony|Pool|Washer,117645,1373846,8.56,89,25.0873,55.0063
+DXB0031,Dubai,Dubai Hills,Studio,0,1,109,4.94,0.88,3.0,32.8,366,Parking|AC|Doorman|Washer|WiFi|Kitchen,25208,269296,9.36,100,24.9569,55.48
+DXB0032,Dubai,Dubai Hills,Townhouse,0,1,273,4.82,0.59,3.1,14.5,194,Parking|Kitchen|Pool|Balcony,42329,584850,7.24,87,24.8017,55.2341
+DXB0033,Dubai,DIFC,Townhouse,1,1,509,4.64,0.72,0.9,34.7,188,Pool|AC|Washer|Balcony|Doorman,96311,1245424,7.73,92,24.7841,55.211
+DXB0034,Dubai,Downtown Dubai,Villa,0,1,568,4.69,0.78,5.6,13.8,96,Balcony|Parking|WiFi|Doorman|Gym|Washer|Sea View|Pool,116431,1394039,8.35,95,25.1856,55.3861
+DXB0035,Dubai,JBR,Penthouse,1,1,777,4.9,0.69,4.1,24.5,118,Gym|Balcony|Pool|Kitchen|WiFi,140895,1918794,7.34,90,25.1212,55.3775
+DXB0036,Dubai,Downtown Dubai,Penthouse,2,2,1139,4.21,0.63,0.8,6.1,147,WiFi|Pool|Doorman|Sea View|Parking,188577,2412569,7.82,88,24.9794,55.2256
+DXB0037,Dubai,JVC,Studio,2,3,112,4.51,0.46,0.4,15.8,140,Balcony|Kitchen|Washer|Pool|Doorman|Parking|Gym|AC,13539,185616,7.29,87,24.7762,55.2133
+DXB0038,Dubai,Dubai Marina,Apartment,4,4,389,4.06,0.74,0.8,20.9,135,Washer|Balcony|Gym|WiFi|AC|Sea View,75650,818443,9.24,96,25.0244,55.2825
+DXB0039,Dubai,Dubai Marina,Penthouse,0,1,641,4.97,0.69,2.7,13.1,68,WiFi|Washer|Balcony|Pool|Kitchen|Parking|AC|Doorman,116234,1581590,7.35,91,24.9634,54.9471
+DXB0040,Dubai,Business Bay,Townhouse,2,3,334,4.96,0.84,5.6,10.2,345,Washer|Balcony|AC|Sea View|Gym|Doorman|WiFi,73731,896464,8.22,98,24.7939,55.0501
+DXB0041,Dubai,Dubai Hills,Villa,4,5,731,4.66,0.76,2.3,27.1,225,Balcony|Kitchen|Pool|Parking|Doorman|Gym,146001,2074053,7.04,89,25.0326,55.267
+DXB0042,Dubai,DIFC,Townhouse,2,2,527,4.1,0.62,6.1,8.5,150,Sea View|WiFi|Doorman|Balcony|Washer|Gym|Pool,85867,916972,9.36,92,24.7276,54.9244
+DXB0043,Dubai,Deira,Townhouse,2,1,249,4.64,0.67,0.9,19.2,28,AC|WiFi|Kitchen|Gym|Pool,43843,546659,8.02,93,24.8039,55.1603
+DXB0044,Dubai,Downtown Dubai,Penthouse,4,3,1319,4.54,0.75,0.5,23.8,340,Balcony|WiFi|Doorman|Kitchen|Sea View|Gym|AC,259975,3127447,8.31,97,25.0019,55.4139
+DXB0045,Dubai,Dubai Marina,Apartment,3,2,330,4.0,0.48,5.2,22.6,67,Kitchen|Sea View|Pool|AC|Gym,41628,446436,9.32,89,25.2641,55.2453
+DXB0046,Dubai,Silicon Oasis,Villa,3,4,406,4.57,0.67,4.4,16.6,233,Kitchen|Washer|Sea View|AC|Doorman|Balcony|WiFi|Parking,71487,1011934,7.06,86,25.2767,55.4432
+DXB0047,Dubai,Palm Jumeirah,Penthouse,3,3,1399,3.88,0.5,0.2,25.5,145,AC|Kitchen|Sea View|Washer|Gym,183829,2018288,9.11,97,24.7427,55.0914
+DXB0048,Dubai,Silicon Oasis,Apartment,2,1,159,3.83,0.83,2.3,25.9,201,Washer|Doorman|Gym|Sea View|Balcony|Kitchen,34682,383864,9.03,93,25.0774,55.4265
+DXB0049,Dubai,Palm Jumeirah,Villa,0,1,707,4.76,0.58,1.5,29.2,204,Washer|Kitchen|Sea View|WiFi|Pool|Gym|Balcony,107764,1448327,7.44,88,25.2943,55.1476
+DXB0050,Dubai,DIFC,Apartment,4,4,415,4.73,0.61,7.5,17.9,254,Pool|Washer|AC|Balcony|WiFi|Kitchen|Gym,66528,921017,7.22,86,25.1505,55.3527
+DXB0051,Dubai,Downtown Dubai,Studio,3,3,210,4.88,0.69,6.6,31.9,89,Balcony|Washer|Doorman|Kitchen,38080,450303,8.46,95,24.9335,54.9065
+DXB0052,Dubai,Silicon Oasis,Villa,4,5,538,3.91,0.6,7.6,22.2,224,Balcony|Pool|Gym|Washer,84832,1203747,7.05,79,25.0791,55.1691
+DXB0053,Dubai,Palm Jumeirah,Penthouse,1,1,1032,4.19,0.77,6.0,28.7,394,Balcony|Washer|WiFi|Sea View|Parking|Kitchen,208831,2838728,7.36,86,24.7547,55.1967
+DXB0054,Dubai,Dubai Hills,Studio,3,3,146,4.46,0.66,7.1,8.5,119,Sea View|Pool|Kitchen|Parking,25323,302380,8.37,91,24.7858,55.3569
+DXB0055,Dubai,JVC,Apartment,0,1,124,3.92,0.49,5.6,29.7,347,Pool|Parking|WiFi|Gym|Sea View,15968,174017,9.18,87,25.1237,54.9488
+DXB0056,Dubai,JVC,Townhouse,1,1,219,4.98,0.63,3.0,33.4,60,Washer|Parking|Gym|Balcony|Sea View|Kitchen,36259,495769,7.31,90,25.2916,55.352
+DXB0057,Dubai,DIFC,Apartment,2,3,312,3.9,0.82,4.5,32.2,361,Balcony|WiFi|Gym|AC|Washer|Sea View|Pool,67235,821332,8.19,89,24.7667,55.1956
+DXB0058,Dubai,Business Bay,Townhouse,0,1,222,4.36,0.48,1.0,24.5,194,Washer|Kitchen|Balcony|Doorman,28004,309885,9.04,92,25.1476,55.25
+DXB0059,Dubai,JVC,Townhouse,2,1,342,4.25,0.58,7.0,33.9,227,Sea View|Gym|Balcony|Parking|Washer|WiFi|Kitchen,52129,597580,8.72,89,24.7073,55.4819
+DXB0060,Dubai,Palm Jumeirah,Townhouse,2,3,570,4.87,0.7,7.9,21.6,130,Sea View|Doorman|Balcony|Kitchen|Washer|AC|Parking|Gym,104857,1143123,9.17,99,25.2816,55.2139
+DXB0061,Dubai,JVC,Studio,3,2,145,4.63,0.66,5.1,32.0,254,Doorman|Balcony|Washer|Pool|WiFi|Parking|Gym,25150,322327,7.8,90,24.7273,55.0686
+DXB0062,Dubai,Downtown Dubai,Studio,2,2,232,4.87,0.66,5.0,10.6,128,Doorman|AC|Pool|Kitchen|Gym|Sea View,40240,469407,8.57,95,24.9782,55.112
+DXB0063,Dubai,Dubai Hills,Penthouse,4,3,984,3.89,0.91,7.9,21.1,359,Sea View|Doorman|Pool|Kitchen|Parking|Gym|WiFi,235322,3116394,7.55,87,24.8857,55.3883
+DXB0064,Dubai,Downtown Dubai,Studio,4,4,287,4.0,0.88,6.6,26.8,185,Kitchen|Doorman|Washer|WiFi|Sea View|AC|Parking,66373,941617,7.05,85,25.068,55.1509
+DXB0065,Dubai,Silicon Oasis,Studio,2,2,108,4.84,0.47,0.3,29.3,279,Gym|WiFi|Washer|Pool|Sea View,13340,160570,8.31,96,25.2924,54.9903
+DXB0066,Dubai,Palm Jumeirah,Villa,1,2,848,4.26,0.91,6.8,19.1,189,AC|Kitchen|Doorman|Pool|Gym|Parking|Washer,202798,2792271,7.26,89,24.9489,55.064
+DXB0067,Dubai,Palm Jumeirah,Studio,0,1,153,4.84,0.83,8.0,21.7,390,Parking|AC|Pool|Sea View|Kitchen|Doorman|Gym|Washer,33373,479316,6.96,90,25.1614,55.4669
+DXB0068,Dubai,Silicon Oasis,Apartment,0,1,106,4.1,0.66,1.1,23.2,134,Sea View|Doorman|Kitchen|Parking|Gym|Pool,18385,261116,7.04,83,24.8372,55.303
+DXB0069,Dubai,Silicon Oasis,Apartment,0,1,99,4.23,0.5,5.4,28.2,132,Gym|Pool|Parking|Doorman|AC|Sea View|Kitchen,13009,163603,7.95,84,25.0121,55.4113
+DXB0070,Dubai,JVC,Townhouse,3,4,355,4.47,0.86,3.3,5.9,296,Doorman|WiFi|Balcony|Kitchen|Sea View|Parking|Washer|Gym,80233,892797,8.99,99,25.1531,55.2722
+DXB0071,Dubai,DIFC,Apartment,4,5,458,4.06,0.51,0.2,22.7,46,WiFi|Doorman|AC|Washer,61385,732919,8.38,95,24.9353,55.1625
+DXB0072,Dubai,Palm Jumeirah,Villa,1,2,925,4.22,0.69,6.3,23.7,357,Parking|Pool|Balcony|WiFi,167732,2031576,8.26,89,25.2174,55.4697
+DXB0073,Dubai,DIFC,Penthouse,2,1,966,4.91,0.68,2.1,34.4,124,AC|Doorman|Sea View|Pool|Washer,172628,2131396,8.1,94,24.9956,55.0973
+DXB0074,Dubai,Business Bay,Townhouse,1,1,338,4.09,0.49,1.1,9.6,77,Kitchen|WiFi|Parking|Sea View,43525,483353,9.0,89,24.7833,55.2845
+DXB0075,Dubai,JVC,Apartment,1,1,136,4.21,0.87,3.8,10.2,261,Doorman|AC|Sea View|Pool|WiFi|Parking|Washer|Gym,31094,408213,7.62,90,24.8154,54.9245
+DXB0076,Dubai,Deira,Penthouse,3,2,473,4.13,0.53,0.8,18.8,350,Pool|Balcony|Washer|AC|Parking|Doorman|Kitchen|WiFi,65881,729789,9.03,91,24.8238,55.1186
+DXB0077,Dubai,DIFC,Townhouse,0,1,360,4.63,0.47,6.4,7.5,147,Doorman|Pool|Parking|WiFi|AC|Balcony,44466,577152,7.7,85,25.2241,55.4525
+DXB0078,Dubai,Palm Jumeirah,Townhouse,3,4,669,4.13,0.83,6.0,11.3,87,Gym|Sea View|Washer|WiFi|Parking|Kitchen|Pool,145925,1651426,8.84,94,24.9223,55.1907
+DXB0079,Dubai,JBR,Penthouse,3,3,1015,4.24,0.67,6.0,12.6,64,Kitchen|Pool|Sea View|Doorman|Parking|Washer|AC,178717,1923453,9.29,94,25.128,55.4371
+DXB0080,Dubai,Dubai Hills,Townhouse,0,1,241,4.44,0.5,3.6,12.3,231,Sea View|Balcony|Pool|Gym|AC|Parking|WiFi|Washer,31667,399711,7.92,86,24.8615,55.1264
+DXB0081,Dubai,Dubai Marina,Villa,2,3,578,4.19,0.55,2.7,31.7,327,AC|Sea View|Kitchen|Pool|Balcony,83544,925175,9.03,90,25.0562,55.3075
+DXB0082,Dubai,DIFC,Villa,1,1,734,4.4,0.49,4.3,27.4,336,Pool|Kitchen|Balcony|Doorman|Gym|Sea View|WiFi|AC,94519,1212268,7.8,84,24.959,54.9765
+DXB0083,Dubai,Palm Jumeirah,Penthouse,2,3,1234,4.24,0.75,4.6,34.6,79,Balcony|Sea View|Kitchen|Gym|WiFi|AC,243221,2909011,8.36,91,25.0635,55.0423
+DXB0084,Dubai,Dubai Hills,Villa,4,5,634,3.98,0.57,1.4,13.6,141,Gym|AC|Balcony|Parking|Kitchen,94971,1075511,8.83,89,24.804,55.4381
+DXB0085,Dubai,Dubai Marina,Studio,2,3,157,4.43,0.64,7.9,16.9,395,Sea View|Parking|Doorman|AC|WiFi|Kitchen|Balcony|Washer,26406,291658,9.05,94,25.2817,55.4193
+DXB0086,Dubai,Deira,Penthouse,3,3,575,4.11,0.53,5.4,21.7,27,WiFi|Balcony|Doorman|Kitchen|Sea View,80088,1130054,7.09,79,25.043,55.068
+DXB0087,Dubai,JBR,Penthouse,3,3,1059,4.02,0.6,3.5,12.3,174,Sea View|Pool|Parking|AC|Balcony,166983,2092053,7.98,85,24.7689,55.2664
+DXB0088,Dubai,JVC,Penthouse,0,1,375,4.5,0.52,3.9,6.6,245,Pool|Parking|Balcony|Sea View|Washer|Gym|Doorman,51246,646838,7.92,87,24.902,54.9806
+DXB0089,Dubai,Business Bay,Studio,4,5,181,4.99,0.6,6.5,25.4,321,Gym|Washer|Balcony|Parking|Kitchen|WiFi|Pool,28540,330490,8.64,95,25.1561,55.2574
+DXB0090,Dubai,JVC,Villa,2,1,446,4.29,0.61,7.4,34.0,90,Balcony|Gym|Kitchen|WiFi,71497,982356,7.28,83,24.7746,55.3385
+DXB0091,Dubai,Business Bay,Apartment,0,1,177,4.02,0.48,6.0,30.3,79,AC|Washer|Kitchen|WiFi,22327,285323,7.83,81,24.7839,55.3772
+DXB0092,Dubai,Downtown Dubai,Townhouse,3,4,542,4.0,0.53,6.5,20.7,322,Parking|Doorman|Gym|AC|WiFi,75492,990417,7.62,81,24.9153,55.4263
+DXB0093,Dubai,Downtown Dubai,Penthouse,4,3,1316,4.78,0.66,3.1,14.0,9,Sea View|AC|Doorman|Parking|Washer,228258,2821280,8.09,93,25.1486,55.2016
+DXB0094,Dubai,Silicon Oasis,Studio,4,3,118,4.88,0.63,4.4,23.7,222,Sea View|Washer|AC|Kitchen,19537,273992,7.13,88,24.7701,55.4639
+DXB0095,Dubai,Business Bay,Penthouse,2,1,810,4.2,0.52,6.4,21.0,363,Sea View|Gym|WiFi|Doorman|AC|Parking|Washer,110691,1433479,7.72,83,25.2363,55.3732
+DXB0096,Dubai,Business Bay,Apartment,3,3,244,4.17,0.57,6.0,22.1,151,Doorman|Pool|Sea View|Balcony,36550,392940,9.3,92,25.1575,55.4261
+DXB0097,Dubai,Downtown Dubai,Townhouse,2,1,486,4.79,0.5,6.8,16.9,326,Doorman|AC|Parking|Washer|Pool,63860,709043,9.01,94,25.1784,54.99
+DXB0098,Dubai,Dubai Marina,Studio,3,2,193,4.67,0.79,5.2,21.3,72,Washer|Parking|Gym|Kitchen|Balcony|WiFi|Sea View|Pool,40069,530005,7.56,91,24.8511,55.1074
+DXB0099,Dubai,Deira,Studio,4,5,109,4.89,0.72,3.3,33.4,416,Parking|AC|Sea View|Balcony|Doorman|Washer,20625,254874,8.09,95,24.792,55.2517
+DXB0100,Dubai,JVC,Penthouse,0,1,401,4.53,0.46,7.0,22.0,12,Balcony|Kitchen|Washer|Pool|WiFi,48476,684503,7.08,81,25.118,55.4535
+DXB0101,Dubai,Business Bay,Townhouse,0,1,276,3.98,0.72,4.9,27.1,246,AC|Balcony|Washer|Pool|Sea View|Gym,52224,637942,8.19,88,25.2606,55.4553
+DXB0102,Dubai,Dubai Marina,Townhouse,4,4,591,3.94,0.91,6.7,32.6,28,WiFi|Gym|Sea View|Washer|Parking|Doorman|Pool|AC,141336,1567767,9.02,95,25.2219,55.2113
+DXB0103,Dubai,Dubai Marina,Studio,3,2,216,4.28,0.48,2.7,5.1,237,WiFi|Kitchen|Parking|Doorman,27247,371532,7.33,81,24.9001,55.1389
+DXB0104,Dubai,JBR,Townhouse,3,4,495,4.9,0.61,2.8,18.6,148,Balcony|Gym|Sea View|AC|WiFi,79352,1062573,7.47,89,24.8348,55.1715
+DXB0105,Dubai,Dubai Marina,Studio,1,1,134,4.01,0.68,3.4,15.9,36,WiFi|Washer|Gym|Kitchen|Parking|AC|Balcony,23946,336577,7.11,82,25.0484,55.2794
+DXB0106,Dubai,Dubai Hills,Studio,1,1,102,4.6,0.53,7.7,17.4,407,Gym|WiFi|Pool|Sea View|Parking|Doorman|AC,14207,158870,8.94,92,24.7512,55.4981
+DXB0107,Dubai,DIFC,Villa,0,1,540,4.51,0.48,6.0,31.9,408,Doorman|WiFi|Kitchen|Parking|Gym,68118,777373,8.76,90,24.8231,55.0144
+DXB0108,Dubai,DIFC,Apartment,2,1,279,4.37,0.72,0.6,18.6,18,Kitchen|AC|Parking|Pool|Washer,52791,714433,7.39,90,25.0146,55.1645
+DXB0109,Dubai,Palm Jumeirah,Apartment,2,1,384,4.47,0.52,1.5,33.4,63,Washer|Pool|Parking|Sea View|Kitchen|Gym|WiFi|Balcony,52476,727144,7.22,84,24.924,55.0624
+DXB0110,Dubai,JVC,Penthouse,3,3,730,4.29,0.46,1.3,24.8,406,Doorman|Gym|Sea View|AC|Kitchen|Balcony|Pool|Parking,88248,1174572,7.51,83,24.7163,55.0332
+DXB0111,Dubai,Deira,Studio,3,4,97,4.61,0.46,0.9,10.4,356,Pool|Sea View|Balcony|WiFi,11726,159763,7.34,85,25.0916,55.0429
+DXB0112,Dubai,JVC,Penthouse,3,2,616,4.09,0.79,6.9,16.9,145,Washer|Parking|Gym|Sea View,127889,1756981,7.28,85,25.1009,55.023
+DXB0113,Dubai,DIFC,Townhouse,4,5,675,4.88,0.46,0.8,5.8,225,Balcony|Kitchen|AC|WiFi|Sea View|Washer,81599,930602,8.77,95,24.8089,55.2498
+DXB0114,Dubai,JVC,Apartment,4,5,234,4.87,0.83,2.8,16.4,237,Balcony|Sea View|WiFi|Kitchen|Parking,51041,591965,8.62,99,25.0542,55.0608
+DXB0115,Dubai,Dubai Hills,Penthouse,0,1,498,4.29,0.71,3.5,33.5,51,Washer|AC|Doorman|Gym|Sea View|WiFi|Pool,92921,1089893,8.53,92,25.1582,54.9841
+DXB0116,Dubai,JVC,Apartment,3,2,233,4.38,0.87,6.4,5.7,173,Parking|Kitchen|Pool|AC|Balcony|Washer,53272,650960,8.18,94,24.8612,55.225
+DXB0117,Dubai,JVC,Penthouse,2,3,624,4.11,0.52,6.7,20.8,84,Pool|AC|Kitchen|Parking|Doorman|Sea View|Gym,85273,1220812,6.98,78,24.803,55.0634
+DXB0118,Dubai,Silicon Oasis,Villa,0,1,205,4.9,0.51,4.7,21.6,341,Washer|Gym|AC|Sea View|Kitchen|WiFi|Pool|Parking,27476,320170,8.58,93,25.0909,55.3978
+DXB0119,Dubai,Business Bay,Apartment,1,1,178,3.81,0.51,7.2,22.9,341,Washer|Doorman|Pool|Gym|Balcony|AC,23857,331662,7.19,77,25.0603,55.299
+DXB0120,Dubai,Dubai Hills,Apartment,1,2,162,4.9,0.65,3.1,6.4,219,Gym|Kitchen|WiFi|Sea View,27673,347876,7.95,93,24.7998,55.3428
+DXB0121,Dubai,Silicon Oasis,Studio,1,1,70,4.52,0.57,3.2,15.7,30,Washer|Gym|Pool|Kitchen|Balcony|AC,10486,122766,8.54,91,25.1314,55.0783
+DXB0122,Dubai,JVC,Studio,3,4,143,4.37,0.76,7.5,11.4,181,Sea View|Doorman|Balcony|Parking|Gym|AC|Pool,28561,381922,7.48,88,24.7187,55.0574
+DXB0123,Dubai,Dubai Hills,Apartment,2,3,222,3.86,0.68,4.8,28.1,109,Sea View|Kitchen|AC|Pool|Gym|WiFi|Balcony|Doorman,39672,471240,8.42,87,24.764,54.9451
+DXB0124,Dubai,Business Bay,Villa,1,1,521,4.39,0.77,3.5,29.6,94,Washer|Gym|Pool|WiFi|Doorman|Balcony,105427,1217577,8.66,94,25.1796,55.3168
+DXB0125,Dubai,Palm Jumeirah,Penthouse,4,5,1640,4.51,0.62,0.8,9.1,384,Kitchen|Doorman|Washer|Pool|WiFi,267215,3758359,7.11,87,25.2701,55.1676
+DXB0126,Dubai,Dubai Marina,Penthouse,0,1,543,4.45,0.86,5.9,24.8,332,Washer|Balcony|Kitchen|Doorman,122722,1675107,7.33,90,25.1154,55.4095
+DXB0127,Dubai,Dubai Hills,Studio,0,1,89,4.39,0.55,7.9,6.2,358,Washer|Parking|Sea View|Balcony,12864,182221,7.06,82,25.1233,55.4551
+DXB0128,Dubai,JBR,Apartment,3,2,266,4.48,0.88,0.4,13.9,386,Balcony|Doorman|Gym|WiFi|Parking,61516,814492,7.55,96,25.2546,55.4826
+DXB0129,Dubai,JBR,Villa,2,1,714,4.37,0.86,6.8,29.9,183,Kitchen|Gym|WiFi|Balcony,161370,1907656,8.46,95,24.7222,55.2578
+DXB0130,Dubai,JBR,Villa,1,1,482,3.94,0.49,5.6,26.7,394,AC|WiFi|Parking|Doorman|Gym,62068,738580,8.4,84,24.7392,55.0892
+DXB0131,Dubai,JVC,Villa,3,3,531,4.75,0.6,5.0,23.5,39,Doorman|Sea View|Washer|Balcony|Kitchen|Parking|Gym|WiFi,83728,1167789,7.17,86,24.8398,54.9146
+DXB0132,Dubai,Silicon Oasis,Penthouse,2,2,533,3.83,0.86,4.3,29.0,193,Pool|Washer|Gym|Parking|WiFi|Kitchen|Doorman|AC,120462,1704116,7.07,84,25.2988,55.1104
+DXB0133,Dubai,Business Bay,Apartment,0,1,169,4.28,0.68,5.1,34.5,338,Kitchen|Balcony|Sea View|AC|Doorman|Pool|WiFi|Parking,30201,419833,7.19,84,25.161,55.1507
+DXB0134,Dubai,Downtown Dubai,Studio,4,4,266,4.69,0.56,1.0,13.6,131,Parking|Pool|Sea View|Kitchen|Doorman|Balcony|Gym|AC,39147,467996,8.36,93,24.8778,55.0402
+DXB0135,Dubai,Silicon Oasis,Penthouse,4,5,552,3.82,0.91,3.5,25.4,311,Parking|Washer|Kitchen|Doorman|WiFi|Sea View|Balcony|AC,132010,1592862,8.29,91,24.831,55.47
+DXB0136,Dubai,Dubai Marina,Studio,0,1,130,3.91,0.65,7.0,19.0,375,Kitchen|Balcony|AC|Parking,22207,314623,7.06,80,25.068,55.0002
+DXB0137,Dubai,DIFC,Villa,2,1,929,4.08,0.89,5.2,20.4,367,Parking|Washer|AC|Kitchen|Balcony|WiFi|Gym|Doorman,217286,2803861,7.75,90,24.8384,55.0059
+DXB0138,Dubai,JVC,Studio,4,4,147,4.02,0.82,2.9,34.1,265,Parking|Kitchen|Gym|Washer|Balcony|WiFi,31678,343450,9.22,95,25.2303,55.4567
+DXB0139,Dubai,JBR,Apartment,2,2,289,4.01,0.64,6.1,9.6,75,WiFi|Washer|Sea View|Gym|Balcony,48607,643317,7.56,83,25.1895,55.0347
+DXB0140,Dubai,Palm Jumeirah,Apartment,2,1,363,4.44,0.73,4.7,31.3,197,Kitchen|Doorman|Pool|Washer|Parking|AC|Gym|Balcony,69639,763806,9.12,96,24.8594,54.9777
+DXB0141,Dubai,Palm Jumeirah,Villa,1,2,921,4.95,0.86,6.5,21.5,150,Parking|Sea View|Pool|WiFi|Doorman|Gym|Balcony|Washer,208153,2723090,7.64,95,24.7522,55.1451
+DXB0142,Dubai,Silicon Oasis,Villa,4,3,462,4.11,0.79,4.0,11.6,241,Sea View|WiFi|Washer|Doorman|AC|Kitchen,95917,1048270,9.15,95,25.11,54.9457
+DXB0143,Dubai,Business Bay,Penthouse,4,5,1150,4.39,0.68,4.8,15.4,195,Parking|WiFi|Doorman|Balcony|Sea View|Pool|Kitchen,205510,2819094,7.29,86,25.1068,55.2394
+DXB0144,Dubai,Deira,Apartment,4,3,167,4.85,0.82,5.3,31.0,228,Gym|Parking|AC|WiFi|Sea View|Doorman,35988,497163,7.24,92,25.125,55.4022
+DXB0145,Dubai,JVC,Villa,3,3,556,4.62,0.74,6.0,31.4,196,Balcony|Pool|Doorman|AC,108126,1213149,8.91,97,25.2231,54.9175
+DXB0146,Dubai,Downtown Dubai,Penthouse,0,1,746,3.95,0.61,6.0,29.5,337,Pool|Washer|Gym|Balcony|Kitchen,119590,1342739,8.91,89,25.1993,55.2045
+DXB0147,Dubai,JBR,Villa,1,1,447,4.14,0.74,7.9,12.8,45,Sea View|Parking|Doorman|WiFi|AC|Pool,86929,1129582,7.7,87,25.0804,55.224
+DXB0148,Dubai,Dubai Marina,Studio,1,1,163,3.93,0.81,4.4,15.3,29,Doorman|Kitchen|Balcony|Pool|Parking|Gym|Washer|Sea View,34697,493954,7.02,83,25.0796,55.4592
+DXB0149,Dubai,Downtown Dubai,Penthouse,4,4,1198,4.92,0.77,0.6,26.2,268,Gym|Sea View|Pool|Washer,242422,2849334,8.51,100,24.7404,55.2493
+DXB0150,Dubai,DIFC,Villa,1,1,644,4.55,0.47,7.0,34.1,273,Pool|Washer|WiFi|AC|Sea View|Gym|Doorman,79544,1135537,7.0,81,25.1498,54.9781
+DXB0151,Dubai,JBR,Apartment,4,5,362,3.83,0.46,2.7,28.1,134,Kitchen|Doorman|Pool|WiFi|Balcony|Sea View|Washer|Gym,43761,545149,8.03,81,25.11,55.1675
+DXB0152,Dubai,Dubai Marina,Studio,0,1,112,5.0,0.65,3.7,28.8,284,Gym|Washer|Parking|Pool|Sea View,19132,215017,8.9,98,25.1162,55.0325
+DXB0153,Dubai,JBR,Villa,3,4,643,4.62,0.76,2.3,9.5,108,Parking|Doorman|Gym|Washer|WiFi|Pool|Kitchen,128425,1822446,7.05,88,24.9594,55.4662
+DXB0154,Dubai,Dubai Marina,Villa,0,1,439,4.57,0.64,2.3,17.3,151,Kitchen|Balcony|Sea View|Parking|Pool|Gym,73836,1056956,6.99,85,25.2365,55.038
+DXB0155,Dubai,JBR,Apartment,2,2,230,3.84,0.76,3.0,19.2,230,Washer|Balcony|Kitchen|Doorman,45937,636978,7.21,83,25.2809,55.0113
+DXB0156,Dubai,Dubai Hills,Studio,1,1,133,4.73,0.81,6.8,23.8,225,Washer|Kitchen|AC|Balcony|Pool|WiFi|Doorman,28311,381599,7.42,91,24.7787,54.9195
+DXB0157,Dubai,DIFC,Villa,4,4,1216,4.54,0.82,3.9,8.8,233,Gym|Doorman|Washer|Sea View|Parking|Balcony,262043,2899481,9.04,98,25.1113,55.1582
+DXB0158,Dubai,DIFC,Penthouse,1,2,819,4.39,0.48,4.7,28.9,145,Washer|Sea View|Pool|Doorman|Parking|AC|WiFi,103312,1201903,8.6,88,24.8862,55.1731
+DXB0159,Dubai,Dubai Marina,Apartment,3,3,269,3.89,0.63,3.9,13.7,39,Parking|Pool|Doorman|Balcony|AC|WiFi|Kitchen|Washer,44537,573417,7.77,83,25.117,55.4161
+DXB0160,Dubai,Downtown Dubai,Studio,2,2,221,3.85,0.68,0.9,34.6,75,Pool|Parking|Sea View|Kitchen|Balcony|WiFi|Doorman|Washer,39494,455471,8.67,90,24.7855,55.1993
+DXB0161,Dubai,Deira,Studio,3,3,109,4.64,0.71,0.2,20.5,270,WiFi|Gym|Pool|Washer|Kitchen|Doorman,20338,240990,8.44,100,24.7527,55.1104
+DXB0162,Dubai,Dubai Hills,Townhouse,0,1,206,3.89,0.64,1.1,25.7,67,Sea View|WiFi|AC|Washer|Kitchen|Gym,34648,441876,7.84,85,25.1804,55.0201
+DXB0163,Dubai,Palm Jumeirah,Apartment,3,2,416,3.93,0.75,5.7,33.1,158,Gym|Washer|Kitchen|Sea View|Pool|AC|Parking,81994,880898,9.31,93,24.7312,55.2248
+DXB0164,Dubai,Palm Jumeirah,Villa,2,3,1052,4.85,0.79,6.4,29.4,18,Gym|WiFi|Parking|Doorman|Kitchen,218408,2598605,8.4,97,24.7481,55.4369
+DXB0165,Dubai,JBR,Townhouse,4,4,568,4.78,0.66,5.2,26.9,274,Kitchen|Parking|Gym|Pool|Doorman|WiFi|AC,98518,1241229,7.94,92,24.749,54.9362
+DXB0166,Dubai,Dubai Hills,Penthouse,4,3,887,3.99,0.86,1.8,15.1,269,Washer|Gym|Sea View|WiFi|Doorman,200469,2863598,7.0,85,24.8093,55.3738
+DXB0167,Dubai,JBR,Villa,4,5,880,4.4,0.71,5.8,34.9,89,Parking|Doorman|Balcony|AC|Pool|Washer|Gym|WiFi,164197,1885262,8.71,93,25.2849,55.2902
+DXB0168,Dubai,Palm Jumeirah,Studio,1,1,200,4.62,0.48,0.3,18.9,325,AC|Gym|Doorman|Kitchen|Washer|Sea View|Parking|Pool,25229,292437,8.63,96,25.221,55.3363
+DXB0169,Dubai,Business Bay,Townhouse,4,3,558,4.31,0.61,3.0,6.2,26,Parking|Doorman|Kitchen|Washer|AC|Balcony|Sea View|WiFi,89452,1281730,6.98,82,25.2202,55.2472
+DXB0170,Dubai,Dubai Marina,Apartment,0,1,177,4.67,0.68,7.0,17.7,284,AC|WiFi|Balcony|Doorman|Washer|Pool|Kitchen|Parking,31631,442917,7.14,87,24.8661,55.2554
+DXB0171,Dubai,Business Bay,Studio,3,2,205,4.05,0.74,5.1,8.9,217,AC|Sea View|Gym|Washer|Pool|Kitchen|WiFi,39867,533188,7.48,85,25.1295,55.4454
+DXB0172,Dubai,Silicon Oasis,Penthouse,1,1,362,4.09,0.91,1.5,19.8,268,Parking|Washer|Kitchen|Sea View|Doorman|WiFi|Gym|AC,86572,1197199,7.23,88,24.8483,55.4224
+DXB0173,Dubai,Deira,Apartment,2,1,133,4.42,0.62,4.8,16.7,153,Gym|AC|Sea View|Doorman|Balcony|Pool|Kitchen,21670,243532,8.9,93,25.2816,55.0549
+DXB0174,Dubai,Dubai Hills,Townhouse,3,2,440,4.19,0.81,1.1,18.6,260,Washer|Doorman|WiFi|Balcony|Gym,93662,1335791,7.01,87,24.8416,54.9441
+DXB0175,Dubai,Deira,Penthouse,3,3,473,4.42,0.61,6.6,12.5,303,Pool|Gym|Balcony|AC|WiFi|Kitchen|Sea View,75826,928173,8.17,89,25.0703,55.3241
+DXB0176,Dubai,JBR,Apartment,0,1,151,4.0,0.47,5.9,19.2,73,Doorman|Sea View|AC|Kitchen|Pool|Washer|WiFi,18651,244594,7.63,80,25.2065,55.3834
+DXB0177,Dubai,Business Bay,Studio,3,3,187,4.84,0.55,1.0,6.7,288,Balcony|Pool|WiFi|Parking,27029,314525,8.59,95,25.0187,55.462
+DXB0178,Dubai,Business Bay,Apartment,3,4,235,3.95,0.66,7.5,20.2,411,Kitchen|AC|Gym|Sea View|Pool|WiFi|Parking,40760,481399,8.47,87,24.7249,54.989
+DXB0179,Dubai,JBR,Townhouse,2,1,481,4.96,0.45,7.6,31.0,28,Doorman|Kitchen|Balcony|AC|Pool,56883,740713,7.68,87,24.9728,55.2094
+DXB0180,Dubai,Dubai Marina,Villa,2,2,673,4.6,0.52,0.3,26.1,320,Sea View|Parking|Kitchen|Doorman|AC|Balcony|Gym|WiFi,91969,1083371,8.49,96,24.8211,55.3041
+DXB0181,Dubai,Business Bay,Townhouse,2,3,445,3.91,0.77,3.6,10.3,61,Kitchen|Sea View|AC|WiFi|Pool|Parking|Doorman|Balcony,90048,1249914,7.2,83,25.1156,55.4029
+DXB0182,Dubai,Dubai Hills,Townhouse,2,3,408,4.62,0.68,5.0,22.1,405,Doorman|Sea View|AC|Washer,72911,1012252,7.2,87,24.7182,55.4586
+DXB0183,Dubai,DIFC,Townhouse,1,2,476,4.61,0.55,5.3,24.5,327,Doorman|Sea View|Parking|AC,68801,832629,8.26,90,24.764,55.2947
+DXB0184,Dubai,DIFC,Penthouse,1,2,1035,3.86,0.91,3.3,28.5,165,Pool|Gym|WiFi|Doorman|Sea View,247518,3438106,7.2,86,25.0402,55.3431
+DXB0185,Dubai,Dubai Hills,Villa,3,4,702,4.28,0.6,5.4,27.9,377,Balcony|Kitchen|Sea View|Doorman|Washer,110691,1511422,7.32,83,25.1787,55.1613
+DXB0186,Dubai,Dubai Marina,Villa,4,3,986,3.94,0.71,0.1,16.0,186,Washer|Sea View|Balcony|Parking|Gym|WiFi|Kitchen|AC,183976,2178680,8.44,100,24.9377,55.3173
+DXB0187,Dubai,Business Bay,Townhouse,3,2,440,4.34,0.56,3.0,7.2,399,AC|Kitchen|Doorman|Gym|Parking,64754,743199,8.71,90,25.0621,55.3009
+DXB0188,Dubai,Business Bay,Villa,3,3,707,4.36,0.63,6.9,19.4,207,Washer|Kitchen|AC|Parking|Pool|Sea View|WiFi,117054,1471551,7.95,88,24.7154,55.1047
+DXB0189,Dubai,JBR,Villa,2,1,607,4.28,0.72,4.3,27.9,114,Gym|Washer|Sea View|Kitchen|Parking|WiFi,114854,1482150,7.75,88,25.1878,55.3309
+DXB0190,Dubai,Downtown Dubai,Townhouse,2,3,580,3.82,0.54,0.2,31.9,120,Parking|Gym|WiFi|Kitchen|Pool|AC,82309,1074382,7.66,90,24.8461,55.4562
+DXB0191,Dubai,Downtown Dubai,Apartment,0,1,177,4.92,0.62,0.9,12.7,213,Sea View|Gym|Parking|Pool|AC|Kitchen,28840,358972,8.03,94,24.8709,55.0844
+DXB0192,Dubai,Silicon Oasis,Penthouse,1,1,436,4.45,0.6,4.9,13.2,278,AC|Pool|Gym|Washer|Doorman|Sea View,68748,915075,7.51,86,24.9481,54.9731
+DXB0193,Dubai,Dubai Marina,Villa,3,2,712,4.62,0.54,4.2,8.2,153,Balcony|Sea View|Parking|Washer,101041,1342221,7.53,86,25.0404,55.0539
+DXB0194,Dubai,Dubai Marina,Apartment,2,3,307,4.38,0.83,4.4,24.0,263,Gym|Washer|AC|WiFi|Kitchen|Sea View|Balcony|Pool,66964,722394,9.27,98,25.2708,55.261
+DXB0195,Dubai,Silicon Oasis,Studio,1,1,88,4.86,0.56,1.8,17.3,382,Parking|Sea View|AC|Washer|Gym|Pool,12951,167277,7.74,90,25.2039,55.44
+DXB0196,Dubai,JBR,Studio,4,5,214,4.08,0.82,2.3,17.7,49,Parking|Balcony|Kitchen|AC|Doorman,46116,632241,7.29,86,25.1005,54.9573
+DXB0197,Dubai,Dubai Hills,Apartment,1,1,187,4.34,0.73,1.4,30.9,390,Washer|WiFi|Pool|Parking|Kitchen|Gym|Doorman,35875,480304,7.47,88,24.83,54.9574
+DXB0198,Dubai,Business Bay,Studio,2,3,134,4.57,0.74,4.4,16.7,162,Pool|AC|Washer|Sea View|Gym|Doorman|Kitchen|Balcony,26059,299543,8.7,95,25.0567,55.1981
+DXB0199,Dubai,Palm Jumeirah,Penthouse,4,5,2018,3.96,0.78,3.3,26.5,73,Gym|AC|Washer|Kitchen|Doorman|Sea View,413658,5059347,8.18,89,25.1155,55.4948
+DXB0200,Dubai,Silicon Oasis,Villa,3,4,373,3.92,0.79,4.7,7.4,391,Washer|Balcony|Sea View|Kitchen|AC|Gym|Doorman|Parking,77439,902405,8.58,90,24.7514,55.4365
+DXB0201,Dubai,DIFC,Apartment,4,4,392,4.19,0.56,2.9,20.6,279,Washer|Gym|Kitchen|Pool|AC|Doorman|Sea View|Parking,57690,627975,9.19,91,24.7406,55.3802
+DXB0202,Dubai,Palm Jumeirah,Villa,2,3,911,4.45,0.86,5.2,14.7,237,Gym|WiFi|Sea View|Pool|AC|Kitchen|Balcony,205893,2599109,7.92,93,24.8998,55.3017
+DXB0203,Dubai,Palm Jumeirah,Townhouse,3,3,884,4.59,0.71,5.9,6.8,6,Pool|Kitchen|Sea View|Washer|Parking|Doorman|WiFi|Gym,164944,2040278,8.08,92,25.0374,55.4746
+DXB0204,Dubai,Downtown Dubai,Townhouse,0,1,307,4.63,0.54,4.3,18.5,214,Washer|Gym|Pool|Sea View|WiFi|Balcony|Parking,43567,478694,9.1,94,25.1537,55.1085
+DXB0205,Dubai,Palm Jumeirah,Villa,3,3,1212,4.75,0.89,2.0,9.6,339,Sea View|Balcony|Kitchen|Pool|Washer|AC|Gym,283477,3436431,8.25,98,25.2955,55.4562
+DXB0206,Dubai,JBR,Apartment,1,2,213,4.81,0.69,5.0,27.7,242,Kitchen|Parking|WiFi|Balcony|Pool|Washer|Doorman,38624,423289,9.12,98,24.7766,55.3956
+DXB0207,Dubai,Deira,Penthouse,4,4,651,4.65,0.47,2.5,15.8,101,WiFi|Sea View|Washer|Gym|Parking,80409,933683,8.61,90,24.7526,55.4622
+DXB0208,Dubai,JVC,Apartment,3,4,213,4.17,0.64,3.6,20.5,309,WiFi|Doorman|Gym|Pool,35825,461327,7.77,86,25.2516,55.1982
+DXB0209,Dubai,Dubai Marina,Penthouse,4,5,1377,4.82,0.55,7.5,29.5,124,WiFi|Pool|Balcony|Doorman,199032,2201567,9.04,95,24.9284,55.4268
+DXB0210,Dubai,Deira,Villa,0,1,250,4.77,0.82,2.5,17.1,78,AC|WiFi|Washer|Doorman|Balcony|Parking|Gym|Kitchen,53874,588759,9.15,100,24.8041,55.317
+DXB0211,Dubai,Deira,Villa,3,3,376,4.97,0.75,6.6,30.9,289,Pool|Kitchen|Parking|Washer|Balcony|WiFi,74110,824249,8.99,100,25.2537,55.1922
+DXB0212,Dubai,Silicon Oasis,Apartment,2,3,149,4.72,0.53,4.1,9.4,99,Kitchen|Washer|Balcony|WiFi|Gym|Parking|Sea View,20753,251526,8.25,90,24.9205,54.9409
+DXB0213,Dubai,Deira,Penthouse,1,1,322,3.96,0.9,4.4,18.0,290,Parking|Sea View|Pool|AC|WiFi|Washer,76159,1085025,7.02,85,24.8871,55.2037
+DXB0214,Dubai,Deira,Villa,3,2,387,3.93,0.75,1.8,24.5,279,WiFi|Washer|Gym|Doorman|Parking|Pool,76278,987682,7.72,86,24.7912,54.9368
+DXB0215,Dubai,Downtown Dubai,Apartment,2,2,332,4.35,0.48,8.0,25.9,111,Doorman|Pool|Gym|Sea View|AC|Washer|Balcony|WiFi,41880,454049,9.22,91,25.2902,55.0435
+DXB0216,Dubai,JBR,Studio,0,1,100,3.95,0.59,0.9,6.9,365,Gym|Sea View|WiFi|Washer|AC,15505,204985,7.56,83,25.0057,55.498
+DXB0217,Dubai,Downtown Dubai,Penthouse,1,2,930,4.54,0.59,5.0,17.8,162,AC|Balcony|Sea View|Doorman|Washer|Parking,144198,1817097,7.94,88,24.7784,55.432
+DXB0218,Dubai,Business Bay,Studio,4,4,205,4.03,0.62,3.4,27.0,28,Gym|Sea View|Washer|Doorman|Parking|Kitchen|WiFi,33402,458552,7.28,82,25.1616,54.9066
+DXB0219,Dubai,DIFC,Villa,1,1,658,4.38,0.46,2.2,9.1,122,Kitchen|Balcony|AC|Gym|Doorman|Parking,79544,1071942,7.42,82,25.0212,55.0291
+DXB0220,Dubai,Dubai Hills,Townhouse,1,1,256,4.09,0.91,6.4,19.6,380,Washer|AC|Sea View|Doorman|Balcony|WiFi|Kitchen|Pool,61222,870786,7.03,86,24.7658,55.2288
+DXB0221,Dubai,JBR,Villa,1,2,518,4.81,0.5,4.0,14.7,216,Sea View|Parking|Pool|AC|Doorman|Washer|Balcony|WiFi,68065,761490,8.94,94,25.1424,55.1856
+DXB0222,Dubai,Palm Jumeirah,Villa,0,1,635,4.27,0.67,6.3,33.7,321,Pool|WiFi|Sea View|Parking|Doorman,111808,1561993,7.16,84,25.1721,55.0892
+DXB0223,Dubai,DIFC,Penthouse,3,2,1331,4.33,0.57,6.7,32.1,13,Kitchen|Doorman|Balcony|Pool,199378,2147121,9.29,93,24.9769,55.2823
+DXB0224,Dubai,Deira,Studio,4,4,126,4.87,0.75,5.0,20.6,54,Kitchen|Balcony|Parking|Pool,24835,270079,9.2,100,24.7901,55.3425
+DXB0225,Dubai,Deira,Villa,1,1,282,4.62,0.47,0.8,7.2,240,Kitchen|AC|Washer|Parking|WiFi|Pool|Balcony|Gym,34832,463656,7.51,86,24.7428,54.9073
+DXB0226,Dubai,DIFC,Villa,1,1,767,4.69,0.62,2.4,28.2,198,Pool|Gym|Balcony|WiFi,124972,1491714,8.38,93,25.0968,55.0111
+DXB0227,Dubai,Deira,Penthouse,0,1,271,3.92,0.76,6.1,5.6,227,Parking|Gym|Sea View|Balcony,54126,628886,8.61,90,24.7493,55.4807
+DXB0228,Dubai,JBR,Townhouse,0,1,263,4.72,0.74,3.1,8.6,28,WiFi|Doorman|Sea View|Parking,51146,582877,8.77,97,25.069,55.3648
+DXB0229,Dubai,JVC,Studio,4,5,167,4.44,0.47,7.8,13.8,305,Parking|Washer|Pool|Gym,20627,280943,7.34,82,25.288,55.2611
+DXB0230,Dubai,Palm Jumeirah,Penthouse,0,1,902,4.7,0.83,5.3,15.1,174,Doorman|WiFi|Balcony|Washer|AC,196748,2184957,9.0,100,25.2569,55.0348
+DXB0231,Dubai,Dubai Hills,Villa,0,1,346,4.32,0.66,4.9,12.2,314,Pool|Gym|Balcony|Kitchen|Doorman|Parking,60013,849876,7.06,83,24.7729,55.0185
+DXB0232,Dubai,DIFC,Townhouse,3,3,703,4.57,0.58,6.5,30.4,187,AC|Sea View|Kitchen|Gym,107154,1484633,7.22,85,25.2514,55.0513
+DXB0233,Dubai,Deira,Penthouse,3,2,565,4.35,0.85,5.9,24.7,83,Balcony|Gym|AC|Doorman|Kitchen|Pool|Sea View|Washer,126210,1708464,7.39,89,24.8065,55.227
+DXB0234,Dubai,Dubai Hills,Villa,3,3,722,4.92,0.47,1.4,26.8,394,Gym|Doorman|Pool|Parking|WiFi|Balcony,89179,991580,8.99,95,25.1907,55.0281
+DXB0235,Dubai,Business Bay,Apartment,1,1,195,4.81,0.79,4.4,20.3,50,Balcony|Sea View|Doorman|Pool|Kitchen,40484,519766,7.79,94,24.8785,55.239
+DXB0236,Dubai,JBR,Townhouse,0,1,296,4.85,0.75,6.1,18.8,291,Washer|Balcony|Pool|Parking|WiFi|Doorman|Sea View|Kitchen,58342,654905,8.91,99,24.7056,55.048
+DXB0237,Dubai,Downtown Dubai,Townhouse,4,3,726,4.99,0.5,3.3,11.1,37,Parking|Doorman|AC|Kitchen|Balcony|WiFi|Gym,95396,1299796,7.34,87,25.0331,55.3398
+DXB0238,Dubai,Palm Jumeirah,Penthouse,2,2,1366,4.03,0.62,6.3,5.2,309,Sea View|Gym|Washer|Parking|Kitchen|WiFi,222571,2827397,7.87,84,25.1566,54.9212
+DXB0239,Dubai,DIFC,Villa,3,2,1015,4.04,0.9,3.0,9.5,199,AC|Pool|Balcony|Parking|Doorman,240068,2845044,8.44,93,24.8834,55.426
+DXB0240,Dubai,JBR,Penthouse,2,2,965,4.24,0.66,5.8,22.8,95,Parking|AC|Washer|Kitchen|Sea View|Gym|WiFi|Balcony,167377,2334614,7.17,83,24.9349,55.1476
+DXB0241,Dubai,Dubai Hills,Studio,2,3,152,3.8,0.74,2.9,7.8,63,Doorman|WiFi|Washer|Kitchen|Parking|Balcony|Sea View,29560,402112,7.35,83,25.0529,55.1886
+DXB0242,Dubai,DIFC,Villa,4,5,1126,3.88,0.72,4.5,23.1,229,Kitchen|Pool|Sea View|Washer|Gym,213057,2711678,7.86,85,25.1059,55.383
+DXB0243,Dubai,Business Bay,Apartment,3,4,254,4.79,0.68,0.7,15.0,409,Parking|AC|WiFi|Doorman|Washer|Gym|Sea View,45391,492246,9.22,100,25.1709,55.3246
+DXB0244,Dubai,Dubai Hills,Apartment,3,4,274,4.42,0.66,1.3,18.0,60,Doorman|Balcony|Kitchen|AC|Pool|Parking|Washer,47525,563443,8.43,92,24.7532,55.0324
+DXB0245,Dubai,Downtown Dubai,Studio,1,2,175,4.68,0.92,7.5,17.6,137,Pool|Balcony|Washer|Kitchen|WiFi|Doorman|AC|Sea View,42311,551508,7.67,94,25.0817,55.3714
+DXB0246,Dubai,Downtown Dubai,Townhouse,4,5,602,4.29,0.84,3.1,22.6,17,Doorman|WiFi|Sea View|Parking|Kitchen|Washer|Gym|AC,132893,1696980,7.83,91,24.8107,55.1173
+DXB0247,Dubai,Silicon Oasis,Apartment,2,2,137,3.83,0.46,6.7,20.5,180,Gym|Parking|Washer|Kitchen,16562,192931,8.58,83,24.8792,55.4644
+DXB0248,Dubai,Silicon Oasis,Villa,4,4,445,4.32,0.86,6.8,29.1,168,Sea View|Gym|Doorman|Washer|Balcony|WiFi,100574,1138787,8.83,96,24.9749,55.1898
+DXB0249,Dubai,JVC,Studio,0,1,71,3.9,0.79,4.0,26.9,414,Pool|Washer|Gym|Kitchen,14740,180759,8.15,88,25.1593,54.9953
+DXB0250,Dubai,Palm Jumeirah,Villa,4,3,1364,3.96,0.8,5.3,7.1,332,Parking|Washer|Balcony|WiFi|Gym|Sea View|Kitchen|Pool,286767,4075620,7.04,83,24.7342,55.0693
+DXB0251,Dubai,Dubai Hills,Penthouse,0,1,446,4.1,0.88,2.1,27.8,390,WiFi|Sea View|Balcony|Doorman|Pool|Gym|AC|Kitchen,103144,1201092,8.59,94,24.9698,55.366
+DXB0252,Dubai,JVC,Townhouse,0,1,174,4.39,0.47,0.6,9.2,139,Washer|Doorman|WiFi|Sea View|Pool,21492,301407,7.13,84,25.0195,55.1467
+DXB0253,Dubai,Silicon Oasis,Townhouse,2,3,229,4.88,0.46,5.3,21.8,349,Doorman|Balcony|Gym|Parking|Kitchen|WiFi|Sea View,27683,394143,7.02,84,25.2621,54.9314
+DXB0254,Dubai,Business Bay,Townhouse,4,3,507,4.11,0.79,7.9,24.6,98,Washer|Gym|WiFi|Parking|Pool,105259,1219635,8.63,92,24.8189,55.2392
+DXB0255,Dubai,JBR,Villa,4,4,831,4.97,0.74,2.9,9.5,289,Doorman|Parking|Balcony|WiFi|Gym|Sea View|Washer,161606,1786208,9.05,100,24.8352,55.0506
+DXB0256,Dubai,Palm Jumeirah,Penthouse,2,1,1459,4.47,0.7,1.0,26.7,9,Washer|Sea View|Pool|Balcony|Parking,268398,3717453,7.22,88,24.7406,55.3247
+DXB0257,Dubai,Silicon Oasis,Villa,1,1,304,3.9,0.67,3.9,33.4,90,Kitchen|Sea View|Balcony|Washer|WiFi|Doorman|AC|Gym,53527,602000,8.89,90,25.21,55.3014
+DXB0258,Dubai,JVC,Townhouse,0,1,198,4.29,0.76,4.4,20.4,404,Pool|AC|WiFi|Kitchen|Parking|Gym,39546,429411,9.21,96,25.1838,55.1755
+DXB0259,Dubai,Silicon Oasis,Townhouse,3,4,242,4.74,0.54,2.1,14.9,230,Gym|Doorman|AC|Balcony|Sea View|Parking|Pool|Washer,34343,386106,8.89,94,25.1541,55.2116
+DXB0260,Dubai,Deira,Villa,3,2,359,4.85,0.86,7.0,18.5,49,AC|Pool|Sea View|Parking|Balcony,81137,934738,8.68,100,25.291,55.3632
+DXB0261,Dubai,Silicon Oasis,Apartment,1,1,103,3.88,0.67,7.3,19.9,296,Washer|Balcony|Parking|AC|Gym|Doorman|Kitchen|Pool,18136,229332,7.91,84,24.7633,55.2941
+DXB0262,Dubai,JBR,Townhouse,2,3,461,4.26,0.81,7.7,20.7,389,Parking|Washer|AC|Doorman|Sea View|Balcony|Pool|WiFi,98132,1117638,8.78,94,24.8723,55.3757
+DXB0263,Dubai,Dubai Hills,Apartment,2,3,221,4.56,0.83,3.2,21.0,131,Parking|WiFi|Doorman|Washer|Sea View,48205,677598,7.11,89,24.7948,55.3175
+DXB0264,Dubai,Dubai Hills,Penthouse,1,2,653,4.18,0.85,7.3,34.5,211,Balcony|Doorman|Sea View|Pool|Washer|Kitchen,145867,1701304,8.57,94,24.7844,55.0212
+DXB0265,Dubai,Deira,Studio,2,2,81,4.87,0.76,1.3,23.5,412,Washer|Pool|Gym|Doorman|WiFi|Parking|Kitchen,16178,198605,8.15,96,24.7501,55.4294
+DXB0266,Dubai,Deira,Penthouse,1,1,409,4.41,0.9,3.4,25.0,177,Sea View|AC|Washer|Balcony|Parking,96737,1384830,6.99,89,25.0808,54.9996
+DXB0267,Dubai,Deira,Townhouse,1,2,209,4.31,0.53,0.2,20.8,68,Washer|Pool|Kitchen|Sea View|Doorman|WiFi|Balcony,29110,370398,7.86,94,25.1316,55.4342
+DXB0268,Dubai,Palm Jumeirah,Penthouse,3,2,1346,4.68,0.54,6.9,21.2,133,WiFi|Parking|AC|Gym|Kitchen|Pool|Washer,191014,2616221,7.3,85,25.1261,55.0886
+DXB0269,Dubai,JVC,Studio,1,1,99,4.79,0.67,2.9,29.8,114,AC|WiFi|Balcony|Washer|Pool|Sea View|Doorman,17432,217522,8.01,92,24.9011,55.0043
+DXB0270,Dubai,Silicon Oasis,Apartment,1,2,128,4.79,0.5,2.0,15.4,180,Kitchen|Sea View|Pool|Doorman|Washer,16819,187656,8.96,94,24.9702,55.3493
+DXB0271,Dubai,JVC,Penthouse,1,1,523,4.55,0.62,6.7,34.4,417,WiFi|Balcony|Gym|Washer,85216,1056025,8.07,89,25.0805,54.9758
+DXB0272,Dubai,JVC,Apartment,2,2,190,4.19,0.77,0.7,30.7,40,Parking|Balcony|Doorman|Washer|Kitchen|Gym,38448,433724,8.86,96,24.8363,55.4022
+DXB0273,Dubai,Deira,Townhouse,0,1,140,4.57,0.78,4.1,11.4,82,Sea View|Washer|WiFi|Kitchen|Balcony,28698,337773,8.5,95,24.7199,55.0824
+DXB0274,Dubai,Dubai Hills,Townhouse,3,2,439,4.93,0.86,6.2,24.9,378,Gym|Parking|Doorman|AC,99218,1347547,7.36,94,24.8562,55.4443
+DXB0275,Dubai,Dubai Hills,Studio,3,3,177,4.47,0.5,3.6,30.9,312,WiFi|AC|Gym|Sea View|Kitchen,23258,287268,8.1,87,25.028,55.1282
+DXB0276,Dubai,DIFC,Townhouse,2,3,617,3.93,0.65,0.4,32.5,205,AC|WiFi|Kitchen|Washer,105396,1412269,7.46,87,24.868,55.415
+DXB0277,Dubai,Business Bay,Apartment,1,1,183,4.89,0.8,6.5,33.9,189,Gym|WiFi|Sea View|Washer|AC|Pool|Balcony,38474,411384,9.35,100,25.136,55.0829
+DXB0278,Dubai,JBR,Villa,3,4,808,4.14,0.86,1.0,21.2,305,Washer|Kitchen|Parking|Balcony|WiFi|Pool|AC,182614,2422160,7.54,90,24.7579,55.0451
+DXB0279,Dubai,JVC,Apartment,2,1,154,4.36,0.59,4.8,14.0,369,Pool|Balcony|AC|Washer,23878,280319,8.52,90,25.1459,54.9289
+DXB0280,Dubai,Deira,Penthouse,3,4,588,4.82,0.76,4.8,10.6,266,Gym|Kitchen|Parking|Sea View|Pool|Balcony|Washer,117440,1640770,7.16,90,24.7474,55.0437
+DXB0281,Dubai,Downtown Dubai,Villa,4,4,1110,3.84,0.72,8.0,20.6,130,Doorman|Gym|AC|Washer|WiFi|Kitchen|Pool,210030,2905526,7.23,82,24.7382,55.3988
+DXB0282,Dubai,JVC,Penthouse,0,1,412,3.94,0.49,7.3,29.9,367,Doorman|Pool|AC|Washer|Balcony|Gym|Kitchen|WiFi,53054,696838,7.61,80,25.2274,55.2431
+DXB0283,Dubai,Palm Jumeirah,Apartment,1,1,332,4.32,0.6,3.5,23.1,388,Kitchen|Doorman|AC|Gym|Parking|Balcony,52350,708141,7.39,84,25.2355,55.166
+DXB0284,Dubai,Business Bay,Apartment,0,1,161,4.56,0.73,5.7,20.4,259,AC|Kitchen|Gym|Parking|Washer|Doorman|Pool,30887,355675,8.68,95,24.7625,55.1307
+DXB0285,Dubai,Silicon Oasis,Townhouse,2,1,239,4.58,0.9,4.8,20.2,121,Doorman|Parking|Washer|Gym|Kitchen|Pool|AC,56528,758237,7.46,92,25.0805,54.9426
+DXB0286,Dubai,Deira,Apartment,0,1,83,4.23,0.67,0.5,13.3,96,Pool|Sea View|Washer|WiFi|Gym,14614,162947,8.97,96,25.2829,55.0988
+DXB0287,Dubai,Dubai Marina,Townhouse,3,2,522,4.04,0.74,2.3,20.5,195,WiFi|Balcony|Washer|Parking|Pool|AC,101514,1157384,8.77,92,24.7033,54.9046
+DXB0288,Dubai,JVC,Townhouse,0,1,183,3.84,0.5,2.8,22.2,149,Kitchen|Pool|Balcony|Doorman|WiFi,24046,327860,7.33,78,25.0076,55.0761
+DXB0289,Dubai,Business Bay,Studio,0,1,117,4.28,0.49,5.0,15.4,242,Pool|Washer|WiFi|Parking|AC|Balcony|Gym,15066,166508,9.05,90,25.0044,55.4245
+DXB0290,Dubai,JBR,Townhouse,3,2,489,4.64,0.92,1.1,16.8,360,WiFi|Parking|Pool|Doorman|Sea View|Gym|Kitchen|Balcony,118228,1377976,8.58,100,24.9531,55.1466
+DXB0291,Dubai,Dubai Marina,Studio,0,1,135,4.66,0.74,2.5,33.7,35,AC|Gym|WiFi|Doorman|Kitchen|Sea View|Balcony,26254,360053,7.29,89,25.1927,54.9009
+DXB0292,Dubai,Palm Jumeirah,Studio,0,1,183,3.86,0.57,0.6,25.6,48,Kitchen|Balcony|Washer|WiFi|Sea View,27413,353333,7.76,84,24.7687,55.1303
+DXB0293,Dubai,DIFC,Apartment,4,3,426,4.24,0.51,3.4,7.1,138,Gym|Pool|Balcony|Washer|Doorman|Sea View|Parking,57096,767480,7.44,82,24.7481,55.1129
+DXB0294,Dubai,JBR,Penthouse,2,2,951,4.6,0.77,3.0,5.3,84,AC|WiFi|Gym|Sea View|Balcony|Doorman|Pool,192441,2473103,7.78,92,25.0817,55.448
+DXB0295,Dubai,JVC,Villa,3,3,543,4.85,0.79,1.1,7.0,162,Balcony|Gym|Washer|Doorman|Kitchen|WiFi,112733,1579299,7.14,92,25.0204,54.9853
+DXB0296,Dubai,Silicon Oasis,Studio,0,1,55,4.31,0.59,3.9,6.3,80,AC|Pool|WiFi|Balcony|Parking,8528,109069,7.82,86,24.7738,55.2352
+DXB0297,Dubai,JVC,Villa,2,2,429,4.68,0.76,6.8,17.9,289,Pool|AC|Kitchen|Balcony|Gym|Doorman|WiFi|Washer,85683,1132888,7.56,91,25.1038,55.0652
+DXB0298,Dubai,Deira,Villa,0,1,212,4.75,0.66,6.4,30.7,404,Parking|Gym|Pool|Sea View,36771,504097,7.29,88,25.25,55.1586
+DXB0299,Dubai,Downtown Dubai,Villa,1,1,603,4.5,0.62,4.8,25.7,335,Gym|AC|Doorman|Pool|Balcony|Sea View,98250,1303871,7.54,87,24.9247,55.0001
+DXB0300,Dubai,Silicon Oasis,Villa,0,1,235,3.97,0.87,2.8,5.8,298,Pool|Sea View|Doorman|Gym,53729,601992,8.93,95,25.0875,55.2821
+DXB0301,Dubai,Dubai Hills,Penthouse,3,2,800,3.89,0.64,2.6,23.2,233,Balcony|Parking|Washer|Gym|Doorman|Kitchen|AC,134554,1771296,7.6,83,24.9188,55.0307
+DXB0302,Dubai,Palm Jumeirah,Apartment,4,5,605,4.34,0.77,1.2,5.8,148,WiFi|AC|Sea View|Doorman|Kitchen|Balcony|Pool|Washer,122425,1523697,8.03,92,25.0033,55.4784
+DXB0303,Dubai,Dubai Hills,Villa,3,2,608,3.85,0.46,3.2,5.7,405,WiFi|Kitchen|Pool|Doorman|Washer|Parking|Balcony|AC,73500,825044,8.91,85,25.1537,55.1751
+DXB0304,Dubai,Silicon Oasis,Studio,4,5,120,4.88,0.5,7.7,31.7,117,Balcony|AC|Parking|Pool|Sea View|Kitchen,15768,186100,8.47,92,25.0618,55.396
+DXB0305,Dubai,Dubai Marina,Studio,0,1,137,4.15,0.9,3.2,15.2,410,Washer|WiFi|Parking|Pool|Gym|Doorman|Sea View|Kitchen,32403,391126,8.28,93,25.0248,54.9925
+DXB0306,Dubai,Dubai Marina,Villa,4,4,915,4.45,0.81,6.7,14.1,307,Parking|Doorman|WiFi|AC|Kitchen|Washer,194774,2391173,8.15,93,24.8556,55.0168
+DXB0307,Dubai,Dubai Marina,Studio,4,5,208,4.21,0.58,7.7,15.4,94,Doorman|WiFi|Sea View|AC|Parking,31704,403161,7.86,85,25.0483,54.9835
+DXB0308,Dubai,Silicon Oasis,Apartment,0,1,94,4.55,0.68,3.3,31.4,5,Doorman|WiFi|Pool|AC|Kitchen,16798,241084,6.97,85,25.074,55.2416
+DXB0309,Dubai,JBR,Townhouse,1,1,363,4.04,0.64,0.4,21.3,365,Parking|Washer|Pool|Sea View|Gym|AC,61054,757576,8.06,90,24.8366,55.4784
+DXB0310,Dubai,Palm Jumeirah,Apartment,4,4,593,4.67,0.7,7.0,28.7,159,Washer|Balcony|Gym|Parking,109088,1212507,9.0,97,24.7749,55.3765
+DXB0311,Dubai,JBR,Villa,1,2,490,4.85,0.89,1.3,34.4,119,Sea View|Washer|Parking|Kitchen|AC|Balcony|Doorman,114607,1416546,8.09,99,24.99,55.4181
+DXB0312,Dubai,DIFC,Villa,3,3,970,4.25,0.58,1.7,16.6,399,Parking|Doorman|Pool|Washer|AC|WiFi,147851,1993289,7.42,84,25.0068,55.1954
+DXB0313,Dubai,DIFC,Apartment,1,2,276,4.84,0.91,3.3,27.9,386,Doorman|WiFi|Gym|Kitchen|Sea View|Parking,66005,906130,7.28,94,25.0441,55.4736
+DXB0314,Dubai,JVC,Villa,2,2,410,3.93,0.85,3.6,31.8,112,Gym|Washer|Sea View|Pool|Parking,91586,1263991,7.25,85,24.7375,55.4301
+DXB0315,Dubai,Downtown Dubai,Apartment,2,2,301,4.41,0.74,7.4,19.3,380,Pool|Doorman|Balcony|WiFi,58536,626141,9.35,97,25.1126,55.3336
+DXB0316,Dubai,Dubai Hills,Villa,3,3,666,3.96,0.59,2.9,13.4,88,Washer|Kitchen|Balcony|Pool|WiFi|AC|Gym,103265,1408704,7.33,81,24.8264,55.4745
+DXB0317,Dubai,Silicon Oasis,Apartment,0,1,82,5.0,0.77,6.6,5.4,180,Washer|AC|Gym|Pool,16593,194633,8.53,98,25.1427,55.4005
+DXB0318,Dubai,Palm Jumeirah,Penthouse,1,2,1179,3.97,0.8,6.2,28.0,319,Kitchen|Gym|Washer|AC,247873,3245780,7.64,86,25.2076,55.2682
+DXB0319,Dubai,Silicon Oasis,Apartment,3,4,147,4.39,0.49,3.3,7.0,174,Doorman|Balcony|Parking|Pool|Kitchen,18929,230019,8.23,87,24.9093,54.9666
+DXB0320,Dubai,Downtown Dubai,Villa,3,4,975,4.94,0.48,7.6,14.0,297,Kitchen|AC|Doorman|Parking|Gym|Pool|Sea View|Washer,122990,1547788,7.95,89,24.7461,55.2004
+DXB0321,Dubai,Deira,Penthouse,1,1,408,4.65,0.47,0.7,13.9,250,Pool|Balcony|Gym|Parking|Washer|AC,50395,611582,8.24,91,24.8394,55.0686
+DXB0322,Dubai,Downtown Dubai,Apartment,0,1,223,4.92,0.64,7.3,19.3,162,AC|Gym|Sea View|Balcony|Pool,37507,443731,8.45,95,24.8356,55.2843
+DXB0323,Dubai,Dubai Hills,Penthouse,3,4,961,4.52,0.62,5.2,31.7,194,Gym|Kitchen|Balcony|Doorman|Parking|WiFi,156581,1735850,9.02,94,25.0019,55.1696
+DXB0324,Dubai,Palm Jumeirah,Penthouse,0,1,903,4.55,0.48,5.5,26.4,82,Sea View|AC|WiFi|Balcony|Parking|Kitchen|Pool,113908,1313615,8.67,90,25.1935,55.3824
+DXB0325,Dubai,JVC,Apartment,2,3,183,4.42,0.52,6.2,19.9,279,Doorman|WiFi|Pool|Balcony|Kitchen|AC|Washer,25008,291163,8.59,89,24.8706,54.9803
+DXB0326,Dubai,Silicon Oasis,Townhouse,1,1,208,3.87,0.8,2.6,20.3,414,Gym|Balcony|Pool|AC|Kitchen|Washer,43730,464653,9.41,95,24.7281,55.0657
+DXB0327,Dubai,DIFC,Townhouse,1,1,478,3.88,0.84,0.1,27.2,221,Parking|Doorman|WiFi|Balcony|Gym|Washer|Pool,105519,1218807,8.66,100,24.8898,54.9611
+DXB0328,Dubai,JVC,Penthouse,1,2,479,4.12,0.85,2.6,31.8,49,Doorman|AC|Washer|Sea View|Pool,106999,1453421,7.36,88,24.9603,55.446
+DXB0329,Dubai,Dubai Hills,Townhouse,3,4,405,4.96,0.49,5.5,16.6,305,AC|Kitchen|Sea View|Balcony|Pool|Doorman,52153,650703,8.01,90,25.0796,55.3223
+DXB0330,Dubai,Deira,Penthouse,0,1,255,4.0,0.79,5.4,27.8,407,Parking|Gym|Kitchen|AC|Pool,52941,754286,7.02,83,25.2705,55.3215
+DXB0331,Dubai,Business Bay,Townhouse,2,2,366,3.93,0.82,5.2,15.8,211,Balcony|Sea View|Kitchen|Pool|Gym|Parking,78872,852267,9.25,94,25.2741,55.2002
+DXB0332,Dubai,Palm Jumeirah,Townhouse,4,5,862,4.35,0.55,3.0,6.6,142,Pool|Balcony|Washer|Sea View|Gym|Doorman|WiFi,124593,1496586,8.33,88,25.1605,55.1499
+DXB0333,Dubai,JBR,Apartment,2,2,276,4.82,0.55,5.3,31.4,158,AC|Sea View|Gym|Balcony|Kitchen|Washer,39893,494516,8.07,90,24.8294,55.3067
+DXB0334,Dubai,Silicon Oasis,Studio,2,3,99,4.15,0.51,5.2,14.5,393,Doorman|Gym|WiFi|Sea View|Kitchen|Balcony|AC,13269,177735,7.47,81,25.0869,55.1371
+DXB0335,Dubai,Deira,Studio,0,1,64,4.04,0.87,2.4,6.7,296,Gym|AC|Balcony|Doorman|Kitchen,14633,175657,8.33,92,24.7669,55.2095
+DXB0336,Dubai,Dubai Marina,Villa,1,1,523,4.8,0.46,3.1,5.6,189,WiFi|Pool|Sea View|Kitchen,63224,751736,8.41,90,24.7746,55.1482
+DXB0337,Dubai,Downtown Dubai,Studio,2,2,204,4.29,0.7,4.8,18.9,247,Balcony|Gym|Pool|Kitchen|Parking|WiFi|AC|Sea View,37528,400132,9.38,96,25.2781,55.2114
+DXB0338,Dubai,DIFC,Townhouse,2,2,569,4.17,0.81,6.2,34.3,30,AC|Gym|Doorman|Pool|WiFi,121122,1523698,7.95,90,24.7753,54.9102
+DXB0339,Dubai,Palm Jumeirah,Townhouse,1,1,595,4.77,0.51,2.2,13.8,404,WiFi|AC|Balcony|Kitchen|Pool,79747,852561,9.35,96,25.1639,55.2108
+DXB0340,Dubai,Dubai Marina,Penthouse,1,2,716,4.25,0.45,2.5,34.2,417,Doorman|Pool|WiFi|Parking|AC,84674,1104930,7.66,82,25.2082,54.9142
+DXB0341,Dubai,Business Bay,Studio,3,3,204,4.74,0.82,3.7,14.1,324,Sea View|AC|WiFi|Doorman|Parking|Kitchen,43961,532698,8.25,96,24.7394,55.0369
+DXB0342,Dubai,Dubai Hills,Townhouse,0,1,222,4.38,0.8,3.8,33.7,177,Washer|Kitchen|AC|Parking|Doorman|Pool|WiFi|Sea View,46673,506025,9.22,98,25.2656,55.3711
+DXB0343,Dubai,Business Bay,Studio,2,2,179,4.45,0.9,0.7,11.8,343,WiFi|Parking|Doorman|Pool|AC|Sea View,42337,507887,8.34,98,24.8175,54.9845
+DXB0344,Dubai,JBR,Villa,0,1,435,4.74,0.72,1.3,24.1,180,AC|Doorman|Balcony|WiFi|Sea View|Pool|Gym,82309,1124894,7.32,90,24.9329,55.3045
+DXB0345,Dubai,Downtown Dubai,Townhouse,3,4,552,4.21,0.88,2.4,31.7,97,Kitchen|AC|Parking|Balcony|Washer|Doorman,127658,1581358,8.07,92,25.1246,54.9373
+DXB0346,Dubai,Business Bay,Apartment,3,2,244,3.81,0.75,3.6,33.7,186,Kitchen|Parking|Washer|Sea View|Pool|Gym,48092,535193,8.99,91,25.0178,55.0451
+DXB0347,Dubai,Downtown Dubai,Studio,3,3,238,4.62,0.49,2.3,18.8,32,AC|Doorman|Sea View|Balcony|Pool|WiFi,30648,418380,7.33,84,25.0279,55.1597
+DXB0348,Dubai,DIFC,Townhouse,4,3,621,4.0,0.66,1.8,30.3,216,WiFi|Kitchen|Gym|Balcony|Washer|Doorman|Parking,107711,1164617,9.25,93,25.2887,55.3759
+DXB0349,Dubai,Dubai Marina,Villa,1,1,622,4.09,0.9,1.7,34.8,403,Balcony|Sea View|Parking|Kitchen|Washer|Gym,147115,2087983,7.05,87,25.127,55.4887
+DXB0350,Dubai,JVC,Penthouse,2,3,613,4.11,0.66,4.8,23.7,112,Washer|Pool|Kitchen|WiFi|Parking,106324,1158831,9.18,92,25.2887,55.0141
+DXB0351,Dubai,Palm Jumeirah,Townhouse,1,1,598,4.89,0.89,7.7,34.3,224,Parking|Balcony|Kitchen|WiFi,139867,1759593,7.95,97,25.1544,54.997
+DXB0352,Dubai,Silicon Oasis,Penthouse,0,1,318,4.66,0.57,5.2,9.9,7,WiFi|Washer|Pool|Parking|AC|Gym|Sea View|Balcony,47635,625198,7.62,87,25.0391,55.363
+DXB0353,Dubai,Downtown Dubai,Villa,2,2,765,3.81,0.45,2.9,11.9,28,Gym|Balcony|AC|Doorman|Pool,90469,1275453,7.09,76,25.0806,55.0332
+DXB0354,Dubai,Business Bay,Studio,3,4,172,4.82,0.79,0.9,5.9,188,Doorman|Kitchen|Washer|WiFi|Sea View|Gym|Parking|AC,35709,436815,8.17,97,24.9885,55.2975
+DXB0355,Dubai,Downtown Dubai,Villa,3,2,790,4.15,0.64,7.4,6.3,306,WiFi|Parking|Doorman|Washer|Pool,132872,1906674,6.97,81,25.1566,55.123
+DXB0356,Dubai,Deira,Villa,0,1,218,4.71,0.88,7.6,15.7,29,Balcony|AC|Pool|Kitchen,50416,644781,7.82,95,25.1725,55.0506
+DXB0357,Dubai,JVC,Apartment,0,1,122,4.23,0.76,2.0,32.5,285,Balcony|Sea View|Doorman|Pool,24367,276406,8.82,94,24.7611,55.2036
+DXB0358,Dubai,Business Bay,Penthouse,1,1,596,3.85,0.47,1.5,13.5,271,AC|Balcony|Gym|Washer,73616,1021451,7.21,78,25.2703,55.249
+DXB0359,Dubai,Business Bay,Townhouse,4,5,510,4.5,0.69,6.1,15.6,406,Balcony|Gym|Kitchen|Parking|Pool,92479,1080558,8.56,93,25.2365,55.4679
+DXB0360,Dubai,JVC,Penthouse,1,2,559,4.3,0.82,3.9,11.1,214,AC|Kitchen|WiFi|Parking|Washer,120462,1504664,8.01,91,25.0547,55.0117
+DXB0361,Dubai,Business Bay,Villa,0,1,370,4.83,0.55,0.7,33.2,61,WiFi|Sea View|Washer|Gym|Pool|Kitchen|AC,53480,582064,9.19,98,25.0042,55.1456
+DXB0362,Dubai,DIFC,Penthouse,1,1,984,4.8,0.61,5.6,24.6,242,Gym|Doorman|AC|Washer|Kitchen|WiFi|Parking|Balcony,157743,2132166,7.4,88,24.791,55.4255
+DXB0363,Dubai,Dubai Marina,Apartment,1,1,228,4.14,0.65,0.4,28.0,393,Washer|Doorman|Balcony|Kitchen|Pool|Sea View,38947,432487,9.01,96,24.7,55.1499
+DXB0364,Dubai,Dubai Marina,Apartment,1,2,227,3.87,0.91,1.9,14.1,380,Washer|Doorman|Sea View|AC|Parking,54287,638727,8.5,93,24.8382,54.9009
+DXB0365,Dubai,JVC,Studio,2,1,128,4.96,0.56,5.3,30.5,202,Balcony|Doorman|Sea View|Parking,18838,252563,7.46,89,24.9536,55.0818
+DXB0366,Dubai,Silicon Oasis,Penthouse,1,1,379,4.66,0.83,1.5,32.1,252,Pool|Parking|Gym|WiFi|AC,82669,993353,8.32,97,25.184,55.4909
+DXB0367,Dubai,DIFC,Penthouse,1,2,969,4.27,0.73,5.3,21.3,230,Washer|Pool|Parking|WiFi|Balcony|Kitchen|Doorman,185897,2029848,9.16,95,25.1256,55.0004
+DXB0368,Dubai,Dubai Marina,Apartment,2,3,293,4.5,0.9,0.4,23.0,272,Pool|Kitchen|WiFi|Washer|Parking|AC,69300,805264,8.61,100,24.8779,55.3287
+DXB0369,Dubai,DIFC,Apartment,3,4,407,3.92,0.69,4.1,33.0,318,Sea View|Washer|Balcony|Gym|AC,73802,886347,8.33,87,25.1965,55.3183
+DXB0370,Dubai,Dubai Marina,Apartment,1,2,239,4.35,0.88,5.6,30.9,174,Sea View|Parking|Gym|Balcony|WiFi|Kitchen|Doorman,55272,738361,7.49,90,24.8644,55.3842
+DXB0371,Dubai,Business Bay,Apartment,4,3,283,4.21,0.61,7.8,26.0,260,Balcony|Doorman|WiFi|Pool|Sea View|Washer|AC|Kitchen,45367,627744,7.23,82,25.1362,55.2372
+DXB0372,Dubai,Silicon Oasis,Studio,0,1,73,4.4,0.63,1.4,27.0,290,Gym|Balcony|Kitchen|Pool,12086,164047,7.37,86,24.9306,54.9151
+DXB0373,Dubai,Deira,Apartment,0,1,99,3.81,0.78,7.8,12.0,32,AC|Kitchen|WiFi|Washer|Balcony|Sea View|Parking|Gym,20293,248919,8.15,87,25.1229,55.3903
+DXB0374,Dubai,Downtown Dubai,Penthouse,2,3,1034,4.96,0.47,4.1,30.9,118,Doorman|Sea View|Washer|Kitchen|WiFi|Pool|AC|Parking,127716,1701075,7.51,87,24.8076,55.38
+DXB0375,Dubai,Dubai Marina,Studio,2,3,183,4.28,0.51,6.9,14.3,89,Kitchen|Doorman|Washer|Sea View|Pool|Balcony,24527,275065,8.92,89,24.874,55.4228
+DXB0376,Dubai,Silicon Oasis,Villa,3,2,442,4.76,0.57,5.0,30.0,239,Doorman|WiFi|Kitchen|Pool|Sea View|Gym,66210,845439,7.83,89,25.2437,54.9073
+DXB0377,Dubai,Downtown Dubai,Studio,0,1,143,3.86,0.71,2.4,15.6,342,Doorman|Gym|Sea View|WiFi,26682,314192,8.49,88,25.0728,55.1004
+DXB0378,Dubai,DIFC,Townhouse,1,1,481,4.29,0.48,6.3,18.0,304,Kitchen|Pool|Balcony|Sea View,60675,709691,8.55,87,25.1113,55.0995
+DXB0379,Dubai,Silicon Oasis,Townhouse,1,2,173,4.25,0.89,5.2,24.0,201,Parking|Doorman|Gym|WiFi|Washer|AC|Kitchen|Balcony,40463,531807,7.61,90,24.8194,55.151
+DXB0380,Dubai,Dubai Hills,Townhouse,1,1,323,3.92,0.58,2.3,34.4,313,Washer|AC|Sea View|Balcony|Gym|Doorman|WiFi,49233,602862,8.17,85,24.7405,55.2112
+DXB0381,Dubai,Deira,Studio,4,4,108,4.96,0.5,3.3,26.1,72,WiFi|Doorman|Kitchen|AC|Washer|Parking|Balcony|Sea View,14191,190047,7.47,88,24.9536,55.1079
+DXB0382,Dubai,Palm Jumeirah,Townhouse,4,5,853,4.12,0.55,3.9,13.6,350,Gym|Washer|Sea View|AC|Balcony|WiFi,123293,1434144,8.6,87,25.0941,55.4811
+DXB0383,Dubai,Deira,Studio,3,2,108,3.89,0.49,7.6,7.8,389,Gym|Pool|Balcony|Doorman|Kitchen|Washer|Sea View|WiFi,13907,163266,8.52,84,25.0594,55.2742
+DXB0384,Dubai,Palm Jumeirah,Studio,2,1,276,4.12,0.46,7.7,25.3,236,AC|WiFi|Pool|Parking,33365,385895,8.65,86,25.124,55.266
+DXB0385,Dubai,JVC,Townhouse,4,3,378,4.13,0.73,6.9,8.2,218,Balcony|WiFi|AC|Washer|Doorman|Pool|Kitchen|Gym,72517,1027947,7.05,83,24.7929,55.4668
+DXB0386,Dubai,JBR,Townhouse,0,1,300,4.86,0.55,4.7,25.4,391,WiFi|Sea View|Doorman|Washer|Balcony|Parking,43362,574732,7.54,88,24.9449,54.9092
+DXB0387,Dubai,DIFC,Townhouse,4,3,738,4.1,0.66,7.7,30.2,100,AC|Sea View|Parking|Washer|Pool,128005,1551598,8.25,88,24.8131,55.3035
+DXB0388,Dubai,Palm Jumeirah,Townhouse,0,1,503,3.92,0.45,3.5,27.5,87,Balcony|AC|Kitchen|Gym,59485,652690,9.11,86,25.2487,55.1604
+DXB0389,Dubai,DIFC,Studio,0,1,134,4.32,0.79,0.2,23.4,256,Parking|Pool|Doorman|Sea View|AC|Kitchen|Balcony,27820,357082,7.79,99,25.0826,55.0452
+DXB0390,Dubai,DIFC,Townhouse,2,1,575,3.91,0.54,7.0,5.4,86,Kitchen|WiFi|Parking|AC|Pool|Balcony,81599,1093036,7.47,80,24.849,55.0286
+DXB0391,Dubai,Dubai Hills,Townhouse,4,4,447,4.1,0.48,3.7,23.2,174,Washer|WiFi|Kitchen|Doorman,56386,754036,7.48,80,25.1037,54.9487
+DXB0392,Dubai,JBR,Studio,2,1,191,4.81,0.83,6.6,21.3,333,Kitchen|Sea View|Pool|Doorman|Washer|Parking|WiFi|Balcony,41662,588378,7.08,91,24.8202,55.2701
+DXB0393,Dubai,DIFC,Townhouse,1,1,483,4.69,0.7,0.6,32.6,17,Balcony|Gym|Doorman|Parking|AC|Sea View,88853,1067717,8.32,96,25.0507,55.223
+DXB0394,Dubai,Deira,Studio,4,5,112,4.24,0.87,5.4,18.6,54,Sea View|Pool|AC|Washer|Gym|Parking|Kitchen,25607,347684,7.37,89,25.0781,55.049
+DXB0395,Dubai,Palm Jumeirah,Townhouse,4,3,934,4.31,0.66,5.2,6.9,58,WiFi|Doorman|Balcony|Sea View,162000,2290040,7.07,83,25.1948,55.0754
+DXB0396,Dubai,Downtown Dubai,Townhouse,3,4,585,3.83,0.59,4.1,19.7,174,Parking|Pool|Sea View|Washer,90705,982849,9.23,89,25.2563,54.9632
+DXB0397,Dubai,Dubai Marina,Apartment,0,1,194,4.29,0.76,2.2,9.8,137,AC|Kitchen|Gym|Doorman|Sea View,38747,434861,8.91,95,24.7423,55.0114
+DXB0398,Dubai,Dubai Hills,Penthouse,3,4,881,4.86,0.83,5.5,13.7,333,Balcony|Washer|Pool|WiFi|Kitchen|Sea View|AC,192167,2121354,9.06,100,24.8859,55.05
+DXB0399,Dubai,DIFC,Apartment,4,3,434,4.44,0.62,2.9,28.7,407,Washer|Kitchen|Gym|Parking,70714,971051,7.28,85,24.8847,55.4483
+DXB0400,Dubai,Business Bay,Townhouse,0,1,295,4.19,0.62,4.1,31.3,74,Balcony|Doorman|Pool|WiFi|Gym|AC|Washer,48066,680336,7.07,82,24.7615,55.1356
+DXB0401,Dubai,Dubai Hills,Townhouse,2,3,366,4.4,0.54,6.9,30.1,77,AC|Washer|Pool|Doorman|Balcony,51940,683714,7.6,84,25.2153,55.349
+DXB0402,Dubai,JVC,Apartment,0,1,118,4.53,0.53,5.4,25.8,335,Balcony|Kitchen|Gym|Parking|Sea View|Doorman|Washer|WiFi,16436,185681,8.85,91,24.8378,54.9705
+DXB0403,Dubai,Deira,Villa,1,1,253,3.8,0.79,5.9,9.8,348,Doorman|AC|WiFi|Pool|Gym,52526,659516,7.96,86,24.7501,54.9115
+DXB0404,Dubai,DIFC,Apartment,4,4,389,4.87,0.56,2.9,11.7,187,Gym|AC|Doorman|Parking|Pool|Sea View|WiFi|Kitchen,57248,630876,9.07,96,25.0115,55.2647
+DXB0405,Dubai,Palm Jumeirah,Villa,0,1,610,3.87,0.63,2.0,33.8,304,Gym|WiFi|Washer|Kitchen|Balcony|Parking|AC|Sea View,100994,1156212,8.73,88,25.0698,55.2341
+DXB0406,Dubai,Palm Jumeirah,Townhouse,4,4,858,4.31,0.7,5.6,10.2,369,Balcony|Parking|Pool|Kitchen|Gym|Washer,157838,2092624,7.54,87,25.0001,55.1472
+DXB0407,Dubai,Dubai Hills,Studio,2,1,160,4.56,0.7,1.0,8.5,287,Sea View|Doorman|Kitchen|Parking|Balcony|WiFi,29434,379585,7.75,91,24.9023,54.9857
+DXB0408,Dubai,JVC,Villa,4,3,635,4.05,0.63,7.2,20.2,377,Parking|Kitchen|WiFi|Doorman|Washer|Pool,105133,1197590,8.78,89,24.9516,54.9109
+DXB0409,Dubai,JVC,Apartment,4,5,261,3.88,0.67,4.5,25.7,287,Doorman|Balcony|WiFi|Pool,45956,596582,7.7,83,24.852,54.906
+DXB0410,Dubai,Business Bay,Townhouse,4,4,555,4.44,0.84,6.6,19.6,380,Washer|Balcony|WiFi|Kitchen|AC,122517,1689200,7.25,89,24.9002,55.3749
+DXB0411,Dubai,Business Bay,Villa,3,4,673,4.02,0.85,7.1,7.3,76,Gym|Balcony|Washer|AC|Pool|Doorman|Kitchen|Parking,150335,1860194,8.08,90,24.9327,55.3821
+DXB0412,Dubai,Silicon Oasis,Villa,1,2,336,4.04,0.48,7.0,21.3,140,Parking|Sea View|Washer|Pool|Gym|WiFi|Kitchen|Balcony,42384,512222,8.27,84,25.2808,54.9399
+DXB0413,Dubai,JBR,Villa,0,1,439,3.89,0.63,6.5,34.9,28,Kitchen|Washer|Balcony|WiFi|Sea View,72683,890405,8.16,85,25.0354,55.0927
+DXB0414,Dubai,Dubai Marina,Studio,0,1,110,4.22,0.63,0.6,18.9,339,AC|Doorman|Parking|WiFi|Washer|Balcony|Sea View|Kitchen,18212,218743,8.33,91,25.1336,55.294
+DXB0415,Dubai,JVC,Townhouse,2,2,319,3.81,0.55,5.3,5.2,254,Kitchen|Balcony|Washer|Doorman|Parking,46108,573582,8.04,82,25.1827,55.3637
+DXB0416,Dubai,Silicon Oasis,Townhouse,0,1,162,3.88,0.81,4.7,27.6,334,Sea View|Parking|WiFi|Pool|AC,34485,467525,7.38,85,25.1818,55.2108
+DXB0417,Dubai,Business Bay,Villa,1,1,435,4.61,0.74,6.0,10.8,373,Washer|Gym|WiFi|Sea View|Parking,84595,952713,8.88,96,25.2342,55.35
+DXB0418,Dubai,JVC,Penthouse,3,3,786,4.71,0.73,5.3,22.4,27,Doorman|Parking|Balcony|Pool|Gym,150789,2104898,7.16,88,25.0794,54.9939
+DXB0419,Dubai,Palm Jumeirah,Townhouse,4,3,873,4.66,0.58,1.7,12.2,137,Kitchen|Pool|Parking|Doorman|Gym,133066,1570425,8.47,92,24.8289,55.1549
+DXB0420,Dubai,Palm Jumeirah,Townhouse,3,4,864,4.41,0.54,0.7,16.5,92,Pool|AC|Gym|Sea View|WiFi|Kitchen|Washer|Balcony,122612,1622842,7.56,87,25.1931,55.2957
+DXB0421,Dubai,Downtown Dubai,Penthouse,4,3,1481,4.13,0.78,2.2,24.1,307,Parking|Kitchen|AC|Gym|Washer|Doorman|WiFi|Sea View,303581,4294611,7.07,85,24.8947,55.0617
+DXB0422,Dubai,JVC,Villa,3,3,476,4.63,0.55,4.8,24.9,355,Gym|Pool|WiFi|AC|Balcony,68801,799287,8.61,92,25.189,55.3668
+DXB0423,Dubai,Dubai Hills,Villa,4,3,776,4.03,0.49,5.6,18.0,342,Sea View|Pool|Gym|Kitchen|WiFi,99927,1199754,8.33,84,24.7187,55.0557
+DXB0424,Dubai,Palm Jumeirah,Townhouse,4,3,757,4.86,0.56,4.5,25.0,122,Kitchen|Balcony|Washer|Doorman|Pool|AC|WiFi,111406,1199973,9.28,97,24.8938,55.4388
+DXB0425,Dubai,Silicon Oasis,Penthouse,2,3,536,4.19,0.87,8.0,30.3,311,Gym|Balcony|Parking|Sea View|WiFi|Doorman|Pool|AC,122549,1681410,7.29,88,24.8494,55.246
+DXB0426,Dubai,Deira,Penthouse,2,1,392,3.91,0.92,2.7,29.2,8,Pool|Kitchen|Gym|AC,94776,1272907,7.45,88,25.2148,55.4986
+DXB0427,Dubai,Dubai Hills,Villa,2,2,498,3.85,0.64,1.1,15.8,138,Gym|Parking|Balcony|Washer|AC|Kitchen,83760,896994,9.34,92,25.1702,55.2397
+DXB0428,Dubai,Deira,Penthouse,4,4,566,4.59,0.56,0.2,23.7,194,AC|Balcony|WiFi|Sea View|Doorman|Washer|Kitchen|Pool,83297,1123787,7.41,95,25.1574,54.9234
+DXB0429,Dubai,Deira,Townhouse,3,3,289,4.54,0.71,5.0,22.6,387,Doorman|Washer|Balcony|Kitchen|Gym|Pool,53924,747744,7.21,87,25.0486,55.4944
+DXB0430,Dubai,Downtown Dubai,Penthouse,1,1,915,4.33,0.78,3.2,22.9,319,Kitchen|Balcony|Washer|Doorman|AC,187560,2153805,8.71,94,25.2569,55.4575
+DXB0431,Dubai,Dubai Marina,Villa,3,4,750,4.43,0.55,8.0,24.5,227,Gym|Parking|Sea View|AC,108405,1550646,6.99,82,25.1826,55.3291
+DXB0432,Dubai,JVC,Apartment,2,1,185,3.86,0.66,5.4,16.2,151,Gym|Pool|Balcony|WiFi|AC|Washer,32088,422462,7.6,82,25.265,55.0004
+DXB0433,Dubai,DIFC,Apartment,1,2,270,4.63,0.78,5.2,9.7,104,Sea View|Pool|WiFi|Balcony|Washer|AC|Parking,55346,645187,8.58,96,25.0816,55.2596
+DXB0434,Dubai,Dubai Marina,Townhouse,4,5,542,4.65,0.66,5.4,10.1,340,Doorman|Parking|Pool|Kitchen|Gym,94009,1294046,7.26,87,24.7115,55.3675
+DXB0435,Dubai,Dubai Marina,Villa,0,1,465,4.64,0.84,6.4,21.1,382,Washer|Balcony|Kitchen|AC|Gym|Sea View|Pool,102650,1460550,7.03,89,24.9931,55.1411
+DXB0436,Dubai,JVC,Apartment,4,4,215,4.49,0.58,7.4,22.8,211,Doorman|Washer|Kitchen|Balcony|Parking|Gym|AC|WiFi,32771,419861,7.81,87,24.913,54.9312
+DXB0437,Dubai,DIFC,Apartment,2,1,278,4.31,0.49,4.9,31.5,416,Kitchen|Gym|Doorman|AC|Parking|Washer|Pool,35799,498632,7.18,81,25.0954,55.0267
+DXB0438,Dubai,Deira,Studio,4,5,133,4.86,0.54,5.9,29.1,402,Sea View|Balcony|Doorman|Kitchen|Gym|Parking,18874,220815,8.55,93,25.2983,54.918
+DXB0439,Dubai,Silicon Oasis,Penthouse,4,3,716,4.55,0.91,3.8,6.9,414,Gym|AC|Doorman|WiFi|Washer|Sea View|Kitchen,171230,2363437,7.24,91,24.9012,54.9402
+DXB0440,Dubai,JBR,Penthouse,2,3,960,4.78,0.85,7.5,16.6,288,Pool|AC|WiFi|Parking|Doorman|Sea View|Balcony|Washer,214445,2346916,9.14,100,24.7426,55.0265
+DXB0441,Dubai,Palm Jumeirah,Penthouse,2,2,1213,4.36,0.58,0.9,9.4,102,Doorman|AC|Parking|Washer|Balcony,184890,2080584,8.89,93,25.2838,55.3556
+DXB0442,Dubai,Silicon Oasis,Villa,1,2,342,4.33,0.58,6.4,14.0,321,AC|WiFi|Kitchen|Gym|Balcony,52129,617648,8.44,89,24.8395,54.9778
+DXB0443,Dubai,JBR,Villa,0,1,389,4.23,0.77,0.6,29.3,251,Sea View|Pool|Kitchen|Balcony,78716,898496,8.76,96,24.7882,55.1056
+DXB0444,Dubai,JBR,Townhouse,2,2,466,3.99,0.49,3.9,21.9,389,AC|Sea View|Parking|Balcony|Doorman|Kitchen|WiFi|Pool,60008,705638,8.5,85,25.1823,54.9823
+DXB0445,Dubai,DIFC,Villa,0,1,553,4.41,0.52,5.0,19.6,239,Sea View|Kitchen|Pool|AC|Parking|WiFi|Gym,75571,880489,8.58,89,24.7494,55.1758
+DXB0446,Dubai,JVC,Townhouse,3,3,330,4.79,0.48,3.4,26.8,56,Pool|WiFi|Balcony|AC,41628,513861,8.1,89,25.0446,55.3003
+DXB0447,Dubai,JBR,Studio,4,4,243,4.83,0.6,4.4,34.7,318,Kitchen|AC|WiFi|Parking|Sea View,38316,527818,7.26,87,25.2337,55.1229
+DXB0448,Dubai,JBR,Studio,1,1,127,4.39,0.8,4.0,30.1,97,WiFi|Balcony|Washer|Parking|Doorman|Kitchen|Sea View,26700,332066,8.04,92,24.9168,55.4159
+DXB0449,Dubai,DIFC,Villa,4,5,1050,4.19,0.66,6.1,10.9,200,Gym|AC|WiFi|Kitchen|Sea View,182120,2021078,9.01,92,25.2709,55.0053
+DXB0450,Dubai,Downtown Dubai,Villa,1,1,650,4.5,0.68,5.2,21.6,327,Parking|Balcony|Sea View|Gym,116158,1334290,8.71,94,24.9233,55.297
+DXB0451,Dubai,Deira,Townhouse,2,2,201,4.49,0.54,2.3,10.5,35,AC|Kitchen|Pool|WiFi|Sea View|Gym,28524,326462,8.74,91,25.1954,55.0714
+DXB0452,Dubai,Downtown Dubai,Studio,3,4,268,4.96,0.72,1.2,28.9,189,Sea View|Washer|AC|Parking,50710,610019,8.31,97,24.9204,54.9522
+DXB0453,Dubai,Deira,Townhouse,2,2,229,4.81,0.82,1.5,11.6,352,Balcony|Gym|Washer|Doorman,49349,648834,7.61,94,24.8309,55.4244
+DXB0454,Dubai,DIFC,Villa,4,5,999,4.12,0.45,7.0,23.8,233,Parking|AC|Washer|Doorman|Sea View|Kitchen|WiFi|Balcony,118142,1606404,7.35,79,25.1502,54.9912
+DXB0455,Dubai,JVC,Penthouse,4,4,790,4.22,0.49,3.9,6.2,41,Parking|Doorman|Washer|WiFi|Sea View|AC|Balcony,101730,1432132,7.1,80,24.8749,55.0245
+DXB0456,Dubai,JVC,Villa,2,1,415,4.89,0.67,3.8,9.6,143,Washer|AC|Kitchen|Sea View|Doorman|WiFi,73072,984803,7.42,90,24.9924,55.158
+DXB0457,Dubai,Silicon Oasis,Studio,4,5,132,5.0,0.81,3.2,10.1,343,Balcony|Parking|Kitchen|Doorman|Pool|Gym|AC,28099,385752,7.28,93,24.7183,55.0227
+DXB0458,Dubai,Business Bay,Apartment,1,1,186,4.41,0.74,7.3,20.0,399,Gym|Doorman|Kitchen|WiFi|AC|Pool|Washer,36172,453487,7.98,90,24.7301,54.9209
+DXB0459,Dubai,Dubai Hills,Townhouse,0,1,244,4.33,0.84,1.4,18.5,122,Doorman|Parking|Gym|Washer|WiFi|Kitchen,53863,577338,9.33,100,24.8425,54.9298
+DXB0460,Dubai,Downtown Dubai,Studio,3,4,254,3.93,0.74,2.3,16.4,344,Parking|Kitchen|Doorman|Pool|Balcony,49396,556970,8.87,91,25.1809,55.1353
+DXB0461,Dubai,JBR,Studio,3,3,211,3.95,0.81,2.0,22.0,310,AC|Kitchen|Sea View|Gym|Washer|Doorman|Balcony|Parking,44915,591316,7.6,87,25.2575,55.1324
+DXB0462,Dubai,Silicon Oasis,Townhouse,3,4,244,3.82,0.84,4.2,12.0,192,AC|Washer|Sea View|Doorman|Gym|Pool|WiFi|Kitchen,53863,728883,7.39,85,24.9071,54.9181
+DXB0463,Dubai,Dubai Hills,Studio,1,1,137,4.6,0.89,2.2,25.4,151,Pool|Kitchen|Parking|Sea View,32043,413931,7.74,94,24.8905,55.4089
+DXB0464,Dubai,Silicon Oasis,Townhouse,0,1,181,4.86,0.8,2.3,33.9,412,Sea View|AC|Pool|Balcony|WiFi|Parking|Gym,38053,444499,8.56,99,24.7062,55.3296
+DXB0465,Dubai,Dubai Marina,Townhouse,2,1,478,4.55,0.92,2.6,7.4,117,Kitchen|Balcony|Doorman|Gym|Sea View|WiFi|AC,115569,1375259,8.4,98,24.9657,55.0566
+DXB0466,Dubai,Business Bay,Apartment,3,4,260,4.8,0.89,1.6,32.9,277,Kitchen|AC|Doorman|Washer|Balcony,60812,731076,8.32,99,24.7371,54.9554
+DXB0467,Dubai,Business Bay,Penthouse,1,1,584,4.51,0.52,7.7,20.0,321,Parking|AC|Gym|Washer|WiFi,79807,981640,8.13,87,24.848,55.1826
+DXB0468,Dubai,Silicon Oasis,Studio,4,4,134,4.7,0.8,4.7,29.5,16,Washer|Pool|Parking|Kitchen|AC,28172,394869,7.13,90,25.1542,54.9334
+DXB0469,Dubai,Palm Jumeirah,Apartment,2,2,337,4.05,0.76,3.3,31.5,12,Sea View|Pool|WiFi|Kitchen|Gym,67308,816717,8.24,89,25.2373,55.4455
+DXB0470,Dubai,Silicon Oasis,Villa,2,2,340,4.63,0.58,1.6,15.3,46,Sea View|Washer|Doorman|Kitchen|Pool|Parking,51824,586511,8.84,94,24.958,55.3986
+DXB0471,Dubai,Palm Jumeirah,Apartment,2,2,351,4.68,0.7,2.4,14.0,133,Kitchen|Sea View|Parking|Gym,64570,805386,8.02,92,25.0576,55.1603
+DXB0472,Dubai,Dubai Hills,Apartment,0,1,130,3.94,0.71,7.2,27.0,106,Balcony|Sea View|WiFi|Washer|Pool,24256,289006,8.39,88,25.0952,55.4589
+DXB0473,Dubai,Silicon Oasis,Apartment,4,5,210,4.48,0.76,7.2,14.8,327,Sea View|Balcony|AC|Parking|Gym,41943,508483,8.25,93,24.7065,55.3959
+DXB0474,Dubai,Dubai Marina,Townhouse,4,3,654,3.93,0.72,3.8,34.4,62,Sea View|AC|WiFi|Parking|Pool|Gym,123747,1369899,9.03,92,24.8288,54.9403
+DXB0475,Dubai,Downtown Dubai,Penthouse,2,1,1049,4.69,0.47,5.3,8.1,9,AC|Gym|Balcony|Sea View|Kitchen,129568,1635290,7.92,87,24.8035,55.2408
+DXB0476,Dubai,Dubai Marina,Townhouse,3,4,493,4.93,0.83,7.9,34.1,321,Parking|Washer|Gym|Sea View|Balcony|WiFi|Pool|Doorman,107535,1247273,8.62,99,24.9587,55.1085
+DXB0477,Dubai,JBR,Apartment,0,1,145,3.86,0.78,3.7,23.4,167,Kitchen|Gym|Parking|WiFi|Doorman,29723,341055,8.72,91,24.8517,55.2466
+DXB0478,Dubai,Deira,Studio,3,4,101,4.79,0.84,3.9,15.9,133,Pool|Balcony|Washer|Sea View|Gym,22296,266227,8.37,97,25.1834,55.0969
+DXB0479,Dubai,Dubai Marina,Penthouse,3,4,958,3.9,0.67,3.9,11.6,183,Kitchen|Sea View|WiFi|AC|Gym|Balcony,168681,2324156,7.26,81,24.9286,55.385
+DXB0480,Dubai,JBR,Penthouse,2,3,922,4.26,0.67,2.5,8.6,5,Parking|Gym|Doorman|WiFi|Sea View|Washer|AC|Kitchen,162342,2292607,7.08,84,25.2602,55.3103
+DXB0481,Dubai,Deira,Penthouse,1,1,379,3.84,0.67,3.3,24.7,273,Washer|WiFi|Doorman|Sea View|Pool|AC|Kitchen|Balcony,66733,749383,8.91,89,25.2827,55.2373
+DXB0482,Dubai,Silicon Oasis,Townhouse,1,2,213,3.88,0.65,1.0,33.2,342,Washer|Balcony|Doorman|Pool|Kitchen|AC,36385,470203,7.74,85,25.0971,54.9461
+DXB0483,Dubai,JVC,Apartment,1,1,143,4.46,0.64,6.7,23.4,55,WiFi|Gym|Sea View|Kitchen,24051,329018,7.31,85,24.9241,55.0532
+DXB0484,Dubai,Dubai Marina,Townhouse,3,4,463,4.23,0.64,5.4,7.1,11,Kitchen|AC|Pool|Parking|Gym|Doorman|Sea View,77873,1019599,7.64,85,24.9372,55.0091
+DXB0485,Dubai,Downtown Dubai,Penthouse,0,1,610,4.79,0.47,3.4,31.4,193,Washer|Kitchen|Balcony|Sea View,75345,848066,8.88,93,25.0342,55.0388
+DXB0486,Dubai,Dubai Marina,Townhouse,2,3,450,4.68,0.9,1.8,33.0,270,Gym|AC|Doorman|Sea View,106434,1484561,7.17,92,25.2499,55.2812
+DXB0487,Dubai,JVC,Apartment,1,2,156,4.28,0.8,4.3,17.9,387,WiFi|Doorman|Kitchen|AC|Washer|Gym|Sea View,32797,431785,7.6,89,25.1389,55.3947
+DXB0488,Dubai,JVC,Townhouse,2,3,268,4.8,0.7,6.8,16.4,263,Balcony|Gym|Parking|Doorman|Kitchen|AC|WiFi,49301,603562,8.17,94,25.249,55.0507
+DXB0489,Dubai,JBR,Villa,4,5,927,4.38,0.69,2.5,14.8,376,Washer|Doorman|Kitchen|Balcony|Parking|WiFi|AC,168095,2147230,7.83,89,24.7236,55.0632
+DXB0490,Dubai,JBR,Townhouse,1,2,298,4.97,0.9,3.2,15.4,376,WiFi|Balcony|AC|Parking|Doorman|Washer|Sea View|Pool,70483,941398,7.49,96,25.1027,55.3833
+DXB0491,Dubai,Dubai Marina,Studio,4,3,272,4.28,0.82,2.2,5.8,400,Parking|AC|Pool|Doorman|Gym|Washer|Balcony|Sea View,58615,840466,6.97,86,25.0621,55.2957
+DXB0492,Dubai,Business Bay,Townhouse,4,5,549,3.94,0.89,1.5,11.7,140,Doorman|Parking|Gym|Pool|WiFi|Kitchen|Sea View|Balcony,128407,1664196,7.72,89,24.8843,55.2279
+DXB0493,Dubai,JBR,Townhouse,1,1,341,3.99,0.53,3.4,31.9,375,AC|Gym|Balcony|Doorman|Kitchen|Pool,47496,639525,7.43,80,24.7505,55.1359
+DXB0494,Dubai,JBR,Penthouse,1,1,616,3.82,0.76,4.9,12.0,399,Gym|AC|Pool|Washer|Kitchen|WiFi|Sea View|Balcony,123032,1382427,8.9,91,24.7142,55.401
+DXB0495,Dubai,JBR,Studio,3,3,224,3.96,0.56,7.0,17.6,161,WiFi|Pool|Balcony|Kitchen,32966,464796,7.09,79,24.7304,54.9236
+DXB0496,Dubai,Deira,Apartment,2,3,138,4.27,0.46,4.7,28.6,299,Parking|Washer|WiFi|Gym|Pool|Sea View|AC|Doorman,16683,177964,9.37,91,24.8839,54.9242
+DXB0497,Dubai,Deira,Apartment,1,1,115,4.28,0.91,4.4,26.3,297,Balcony|Parking|Kitchen|Sea View|Pool|WiFi,27502,320595,8.58,96,24.8629,55.4425
+DXB0498,Dubai,Dubai Marina,Townhouse,3,3,505,4.46,0.47,3.5,29.2,362,Balcony|Kitchen|Doorman|Sea View,62376,857443,7.27,82,24.8346,55.0356
+DXB0499,Dubai,Palm Jumeirah,Villa,3,4,1265,4.92,0.49,3.7,31.1,381,Sea View|Balcony|WiFi|AC|Kitchen,162897,1936919,8.41,92,24.7501,55.0267
+DXB0500,Dubai,Deira,Villa,1,1,303,3.86,0.68,3.6,16.8,221,Balcony|Washer|Gym|Pool|Kitchen|WiFi,54147,643212,8.42,87,25.018,54.9968
+DXB0501,Dubai,JBR,Studio,1,1,143,4.77,0.81,1.3,13.0,416,Doorman|Pool|AC|Gym|Parking|Sea View,30440,340462,8.94,100,24.9166,55.1451
+DXB0502,Dubai,Silicon Oasis,Townhouse,1,1,211,3.87,0.47,3.2,10.8,392,WiFi|Doorman|Washer|Gym,26062,345044,7.55,79,25.0849,55.0559
+DXB0503,Dubai,JVC,Apartment,0,1,134,4.87,0.59,1.9,12.2,246,Parking|AC|Pool|Doorman|Washer|Sea View|Balcony|Gym,20777,252802,8.22,93,25.1034,55.3956
+DXB0504,Dubai,Dubai Marina,Studio,1,2,158,4.79,0.64,1.3,15.8,362,WiFi|Doorman|AC|Sea View|Kitchen|Balcony|Gym|Parking,26574,355887,7.47,90,25.1028,55.0624
+DXB0505,Dubai,Dubai Marina,Penthouse,4,5,1049,4.99,0.52,7.9,28.8,243,Pool|AC|Parking|Doorman|Sea View|Gym|Washer|Balcony,143352,2048471,7.0,86,25.0957,55.2467
+DXB0506,Dubai,Dubai Marina,Apartment,3,4,350,4.15,0.67,5.0,17.8,123,Washer|Gym|Pool|Parking|Doorman|WiFi,61627,749814,8.22,88,24.8982,55.2385
+DXB0507,Dubai,Dubai Hills,Townhouse,0,1,265,4.04,0.89,5.5,21.7,292,Doorman|Kitchen|Gym|Sea View|Balcony|AC|WiFi,61981,849900,7.29,87,25.1677,54.9097
+DXB0508,Dubai,Dubai Marina,Apartment,1,2,246,3.85,0.87,7.9,11.3,182,Washer|Sea View|Balcony|Doorman|Gym|Pool,56244,659616,8.53,91,25.1592,55.0518
+DXB0509,Dubai,JBR,Studio,2,1,186,3.92,0.51,7.8,30.4,82,AC|Pool|Doorman|WiFi|Kitchen|Sea View|Parking|Washer,24929,327864,7.6,80,24.8946,55.3059
+DXB0510,Dubai,JBR,Penthouse,1,1,720,4.52,0.77,4.6,13.3,164,Kitchen|WiFi|Balcony|Gym|AC|Sea View|Doorman,145696,1782443,8.17,93,25.1611,55.0358
+DXB0511,Dubai,DIFC,Studio,3,4,267,4.08,0.74,6.0,6.8,163,WiFi|Parking|Doorman|Balcony|Gym,51924,594279,8.74,91,24.7786,55.2636
+DXB0512,Dubai,Deira,Villa,3,2,435,3.85,0.8,2.8,32.9,79,Parking|Washer|Gym|AC|Balcony|Pool|Sea View|WiFi,91454,1135811,8.05,88,24.8992,55.1792
+DXB0513,Dubai,Dubai Marina,Studio,3,3,179,3.9,0.57,0.3,17.8,72,Sea View|AC|Parking|Balcony|Gym|Pool,26813,348372,7.7,88,25.0289,55.0048
+DXB0514,Dubai,Palm Jumeirah,Apartment,4,5,496,4.6,0.9,0.5,22.3,188,Doorman|WiFi|Kitchen|Gym|Washer|Pool,117314,1638166,7.16,95,25.0384,55.2002
+DXB0515,Dubai,JVC,Penthouse,1,2,435,3.91,0.73,2.8,17.2,88,Sea View|Washer|Parking|Balcony|WiFi|Kitchen|AC|Pool,83452,1173732,7.11,82,24.786,55.3288
+DXB0516,Dubai,Downtown Dubai,Villa,0,1,478,4.43,0.78,7.2,25.3,348,AC|Balcony|WiFi|Washer,97982,1332136,7.36,88,25.1078,55.4676
+DXB0517,Dubai,Downtown Dubai,Villa,0,1,479,3.8,0.58,1.8,24.0,212,Doorman|Sea View|Washer|Balcony|WiFi|Gym|Kitchen,73011,956946,7.63,81,25.0561,54.9097
+DXB0518,Dubai,Dubai Marina,Townhouse,3,4,561,4.19,0.76,4.5,9.0,238,Balcony|Kitchen|Pool|AC|Sea View|WiFi,112047,1334507,8.4,91,24.7567,55.3989
+DXB0519,Dubai,Dubai Marina,Villa,4,5,1013,4.58,0.5,3.3,28.4,154,Pool|Kitchen|Balcony|AC|Washer|Doorman|Gym,133108,1778126,7.49,85,24.7709,54.9
+DXB0520,Dubai,Silicon Oasis,Penthouse,2,2,511,4.23,0.57,0.2,30.5,242,Parking|Balcony|AC|Sea View|Pool|Kitchen|Gym,76546,968393,7.9,95,25.2746,55.2394
+DXB0521,Dubai,Silicon Oasis,Apartment,4,3,193,3.9,0.71,3.1,16.7,170,Doorman|Kitchen|Parking|WiFi|Balcony,36011,464605,7.75,85,24.8442,54.957
+DXB0522,Dubai,Silicon Oasis,Apartment,1,1,113,3.92,0.53,7.9,21.0,63,WiFi|Sea View|Gym|Parking|Balcony|Kitchen|Pool|Doorman,15739,193438,8.14,83,25.2242,55.4973
+DXB0523,Dubai,Silicon Oasis,Studio,0,1,66,4.77,0.6,2.5,25.2,176,Kitchen|Parking|Balcony|AC|WiFi|Pool|Gym,10407,126290,8.24,92,25.1093,55.0891
+DXB0524,Dubai,DIFC,Villa,1,1,601,4.56,0.51,4.7,26.0,398,Pool|Balcony|AC|Parking|Washer,80551,1065314,7.56,85,25.1521,55.4237
+DXB0525,Dubai,Silicon Oasis,Studio,1,1,80,4.68,0.74,1.6,13.5,259,WiFi|Pool|AC|Kitchen|Doorman,15558,166803,9.33,100,24.9658,55.2703
+DXB0526,Dubai,Silicon Oasis,Townhouse,0,1,177,4.04,0.51,7.7,19.4,312,WiFi|Doorman|Sea View|Kitchen|Balcony|Washer|Pool,23723,261669,9.07,88,25.0513,55.2248
+DXB0527,Dubai,DIFC,Apartment,1,2,236,3.87,0.5,4.7,12.0,33,Doorman|Kitchen|WiFi|Pool|Gym|Washer,31010,392782,7.89,81,25.0827,55.392
+DXB0528,Dubai,JBR,Apartment,1,1,181,4.4,0.77,2.1,23.4,87,Doorman|AC|Washer|Pool|Balcony|Sea View|WiFi|Kitchen,36626,431423,8.49,94,25.2388,55.386
+DXB0529,Dubai,Business Bay,Townhouse,4,5,533,4.68,0.62,5.2,10.7,199,Parking|Sea View|Washer|Pool|Balcony|Doorman|AC|Gym,86845,1074549,8.08,91,25.121,55.2339
+DXB0530,Dubai,JVC,Penthouse,4,3,766,4.89,0.46,2.6,28.0,274,Sea View|Parking|Gym|Washer|Kitchen|Balcony,92600,1003627,9.23,95,25.1213,55.0988
+DXB0531,Dubai,Dubai Hills,Townhouse,1,2,316,4.28,0.81,3.7,33.0,327,Doorman|Pool|Gym|AC|Washer,67266,818698,8.22,92,24.8505,54.9723
+DXB0532,Dubai,Deira,Apartment,3,4,161,4.96,0.63,0.6,20.2,319,AC|Balcony|Washer|Parking|Doorman|Sea View|Kitchen|Pool,26656,317137,8.41,98,24.7972,55.2949
+DXB0533,Dubai,DIFC,Penthouse,4,5,1655,4.34,0.62,3.3,31.5,65,Sea View|Parking|WiFi|Washer|Kitchen|Gym|Pool,269659,2981565,9.04,93,24.9489,55.1324
+DXB0534,Dubai,Dubai Marina,Penthouse,0,1,629,4.33,0.75,0.6,33.2,184,Doorman|Balcony|Kitchen|Pool|Parking,123976,1695553,7.31,90,25.0893,55.4727
+DXB0535,Dubai,Deira,Villa,0,1,201,4.37,0.73,4.7,15.1,264,AC|Doorman|Gym|Parking|Balcony,38561,467764,8.24,91,24.7761,55.135
+DXB0536,Dubai,Deira,Studio,0,1,54,4.68,0.55,0.6,22.9,174,Washer|Balcony|Pool|Kitchen|Gym|Doorman,7805,99095,7.88,91,25.2231,55.2462
+DXB0537,Dubai,JBR,Penthouse,3,2,935,4.76,0.7,0.7,32.2,176,Sea View|Parking|Doorman|Balcony|AC,172003,2192512,7.85,94,24.9378,55.0778
+DXB0538,Dubai,Silicon Oasis,Penthouse,0,1,286,3.98,0.65,4.8,33.2,414,Doorman|Washer|Pool|Gym|AC|Parking,48855,533854,9.15,91,25.1531,55.252
+DXB0539,Dubai,JBR,Apartment,1,1,231,3.9,0.67,5.1,28.5,315,Washer|Balcony|Parking|AC,40674,558554,7.28,81,24.8662,55.4645
+DXB0540,Dubai,Dubai Hills,Villa,4,3,639,4.85,0.91,1.5,6.2,126,Washer|Pool|AC|WiFi|Kitchen|Balcony,152816,2037457,7.5,96,24.9433,55.2098
+DXB0541,Dubai,JBR,Penthouse,2,1,860,4.92,0.77,3.9,33.5,264,AC|Parking|Gym|Kitchen|Pool|Sea View|Washer|Doorman,174026,2377418,7.32,92,24.7132,55.4895
+DXB0542,Dubai,Dubai Marina,Penthouse,4,3,1051,4.78,0.58,1.1,24.3,78,Washer|Sea View|AC|Balcony|Parking,160198,1966344,8.15,92,24.9286,54.9327
+DXB0543,Dubai,JVC,Townhouse,1,1,257,4.88,0.63,1.8,6.5,164,Sea View|Balcony|Gym|Pool,42550,522712,8.14,93,25.1923,55.3958
+DXB0544,Dubai,Dubai Marina,Townhouse,0,1,308,4.22,0.83,4.5,23.9,169,Pool|Gym|AC|Doorman|Sea View|Parking|Kitchen,67182,921888,7.29,87,25.1706,55.2591
+DXB0545,Dubai,Downtown Dubai,Villa,2,2,745,4.95,0.7,4.9,23.8,12,Washer|Sea View|Gym|Parking|Kitchen|Doorman|Balcony|Pool,137050,1569473,8.73,98,25.043,55.0109
+DXB0546,Dubai,DIFC,Townhouse,4,3,625,4.53,0.81,4.2,25.0,365,Kitchen|Washer|Doorman|Parking|Gym,133043,1526721,8.71,96,24.7481,55.1651
+DXB0547,Dubai,Business Bay,Townhouse,1,1,292,4.02,0.55,3.2,16.9,71,AC|Washer|Sea View|Pool,42206,456534,9.24,90,25.007,55.19
+DXB0548,Dubai,Dubai Marina,Penthouse,0,1,579,4.81,0.52,4.1,7.1,320,Pool|Gym|Balcony|WiFi|Kitchen|AC|Sea View,79124,859101,9.21,95,25.0443,55.2396
+DXB0549,Dubai,JBR,Studio,2,1,187,4.47,0.9,0.5,6.3,163,Gym|Sea View|Parking|Pool|Washer|WiFi|Balcony|Doorman,44229,486189,9.1,100,24.8112,55.2248
+DXB0550,Dubai,Silicon Oasis,Penthouse,1,1,417,3.85,0.89,6.8,7.3,363,Doorman|AC|Washer|WiFi|Gym,97533,1144774,8.52,91,24.8019,54.9762
+DXB0551,Dubai,JBR,Studio,3,3,174,4.42,0.57,2.9,25.5,250,Gym|Sea View|Doorman|Parking,26065,373659,6.98,82,25.2694,54.9855
+DXB0552,Dubai,Silicon Oasis,Villa,2,2,347,4.47,0.49,0.1,24.3,337,Doorman|Parking|Gym|WiFi|Washer|Pool|Kitchen|Balcony,44684,587109,7.61,100,24.9465,55.1938
+DXB0553,Dubai,JVC,Studio,4,4,156,3.83,0.61,1.5,33.7,251,Doorman|Balcony|WiFi|AC|Gym|Kitchen|Washer,25008,274940,9.1,90,25.0596,55.3372
+DXB0554,Dubai,Dubai Hills,Apartment,2,1,204,4.27,0.56,0.9,28.9,347,Balcony|Doorman|Washer|AC|Sea View|Gym|Kitchen|Parking,30022,339140,8.85,92,25.1065,55.2282
+DXB0555,Dubai,JVC,Townhouse,3,2,347,4.91,0.48,2.3,28.5,212,Doorman|Sea View|Washer|AC|Pool|WiFi|Gym|Balcony,43772,522518,8.38,92,25.2955,55.0444
+DXB0556,Dubai,JVC,Townhouse,0,1,222,4.8,0.56,3.3,34.3,76,Balcony|Washer|Sea View|Kitchen|Doorman|Pool|AC|WiFi,32671,397321,8.22,91,24.8085,55.3795
+DXB0557,Dubai,DIFC,Apartment,1,2,257,4.68,0.65,4.7,29.1,300,Sea View|Kitchen|AC|WiFi|Doorman,43901,603520,7.27,87,25.2199,54.9358
+DXB0558,Dubai,Silicon Oasis,Villa,1,2,317,3.97,0.65,4.4,20.6,303,AC|Doorman|Balcony|Washer|Parking|Pool,54150,657125,8.24,86,25.2979,54.9811
+DXB0559,Dubai,Dubai Marina,Townhouse,4,4,632,4.28,0.51,1.4,31.4,5,AC|Pool|Washer|Doorman|Kitchen,84706,1201535,7.05,81,25.2442,55.4949
+DXB0560,Dubai,Deira,Studio,0,1,55,4.23,0.76,3.9,15.7,167,WiFi|Balcony|Kitchen|Washer,10985,133951,8.2,91,25.0563,55.2454
+DXB0561,Dubai,Dubai Hills,Penthouse,3,3,755,4.37,0.71,4.6,27.3,218,WiFi|Parking|Sea View|Gym|Balcony|AC|Doorman|Washer,140874,1607781,8.76,93,24.7151,55.1129
+DXB0562,Dubai,Palm Jumeirah,Studio,1,1,238,4.48,0.57,5.6,28.9,254,Gym|Pool|Parking|Washer,35651,454647,7.84,87,25.141,55.2661
+DXB0563,Dubai,Dubai Hills,Villa,0,1,359,3.96,0.57,3.4,20.4,201,Sea View|Balcony|Parking|WiFi|AC|Kitchen|Washer,53777,692238,7.77,83,24.8729,54.9039
+DXB0564,Dubai,JBR,Villa,1,1,524,4.14,0.8,0.3,33.2,300,Pool|Sea View|WiFi|Washer|AC|Parking|Kitchen|Balcony,110166,1412119,7.8,95,24.8046,55.183
+DXB0565,Dubai,JBR,Apartment,0,1,147,4.55,0.71,3.3,31.9,243,Washer|Gym|Sea View|Doorman|Pool|Kitchen|Parking,27428,345049,7.95,91,24.8178,54.9135
+DXB0566,Dubai,Deira,Apartment,4,5,200,4.49,0.87,4.8,17.9,329,WiFi|Sea View|Gym|Washer,45727,624773,7.32,90,25.1499,55.4478
+DXB0567,Dubai,Deira,Townhouse,2,3,230,4.02,0.58,1.7,14.2,237,Washer|Kitchen|Pool|WiFi,35058,404945,8.66,88,25.0331,55.2528
+DXB0568,Dubai,Deira,Penthouse,4,5,587,4.54,0.49,0.8,20.5,360,Balcony|Washer|AC|Parking|Gym|Pool,75589,851840,8.87,93,24.8284,55.07
+DXB0569,Dubai,DIFC,Studio,4,4,279,4.77,0.46,5.2,29.0,154,Sea View|Parking|Pool|Washer,33728,442960,7.61,86,25.2597,54.9121
+DXB0570,Dubai,DIFC,Apartment,2,2,290,4.86,0.67,4.6,25.4,406,Parking|Kitchen|Gym|Balcony,51062,669492,7.63,91,25.259,55.4982
+DXB0571,Dubai,Business Bay,Studio,1,2,139,4.14,0.86,0.5,31.9,94,AC|Doorman|Pool|Washer|Sea View|Kitchen,31415,361007,8.7,98,24.8537,55.0324
+DXB0572,Dubai,DIFC,Villa,3,3,842,4.83,0.69,5.4,27.7,21,AC|WiFi|Sea View|Gym|Doorman,152682,1759126,8.68,96,25.156,55.0876
+DXB0573,Dubai,JBR,Apartment,1,2,204,4.05,0.91,5.2,14.1,230,Sea View|Balcony|Kitchen|Gym|Washer,48786,689324,7.08,86,25.1691,55.3595
+DXB0574,Dubai,Palm Jumeirah,Villa,4,5,1396,4.96,0.63,1.1,26.9,209,Pool|AC|Gym|Doorman|Sea View|WiFi,231127,3037912,7.61,92,25.045,55.0241
+DXB0575,Dubai,Silicon Oasis,Studio,3,4,112,4.17,0.65,5.2,12.0,152,WiFi|Balcony|Kitchen|Doorman|Parking|Gym|Sea View|Pool,19132,256743,7.45,84,24.9432,55.0615
+DXB0576,Dubai,Silicon Oasis,Penthouse,2,3,437,4.74,0.88,3.0,31.9,226,Gym|Kitchen|Washer|Balcony,101062,1358505,7.44,93,25.2077,55.0097
+DXB0577,Dubai,DIFC,Studio,2,2,246,4.25,0.61,0.6,8.3,380,Gym|AC|Balcony|WiFi|Washer|Doorman,39436,490905,8.03,90,24.8491,55.0902
+DXB0578,Dubai,DIFC,Villa,4,4,1180,4.85,0.59,6.9,27.9,39,Washer|Kitchen|Pool|Doorman|Sea View,182961,2532110,7.23,87,24.788,55.3142
+DXB0579,Dubai,Dubai Marina,Penthouse,0,1,680,4.62,0.61,4.1,20.3,150,Sea View|Washer|WiFi|Kitchen,109009,1422183,7.66,88,24.772,55.0872
+DXB0580,Dubai,Business Bay,Villa,0,1,425,4.83,0.51,7.6,24.9,314,Gym|Pool|WiFi|AC|Washer|Kitchen|Balcony|Sea View,56962,675460,8.43,91,25.1511,55.3872
+DXB0581,Dubai,Palm Jumeirah,Penthouse,4,3,1995,4.18,0.85,1.1,27.3,343,Parking|AC|Kitchen|WiFi,445643,5913194,7.54,90,25.1066,55.0514
+DXB0582,Dubai,JVC,Penthouse,2,2,667,4.0,0.48,5.8,30.5,203,AC|Parking|Gym|Kitchen|Pool|WiFi,84138,1043987,8.06,82,24.93,55.001
+DXB0583,Dubai,JBR,Apartment,2,2,277,4.46,0.54,5.8,23.1,206,Sea View|Gym|Doorman|Kitchen|AC,39310,493013,7.97,87,24.9765,55.3972
+DXB0584,Dubai,Palm Jumeirah,Penthouse,0,1,967,4.65,0.5,6.7,25.9,42,Balcony|WiFi|Gym|Kitchen|Washer|Parking|Pool|Doorman,127064,1669786,7.61,86,24.9178,55.4276
+DXB0585,Dubai,JVC,Townhouse,2,2,320,3.94,0.64,7.1,33.8,345,Sea View|Parking|Pool|Doorman,53821,581374,9.26,91,25.1075,55.2788
+DXB0586,Dubai,Dubai Hills,Studio,1,2,112,4.1,0.89,2.5,16.8,377,Balcony|Pool|Sea View|WiFi|Doorman|Washer,26196,354514,7.39,88,24.7836,54.9064
+DXB0587,Dubai,JVC,Townhouse,1,1,253,4.97,0.62,2.9,20.6,33,Sea View|Gym|Washer|Parking|Doorman|Balcony|WiFi,41223,491186,8.39,95,24.9644,55.4279
+DXB0588,Dubai,JVC,Studio,4,4,160,4.41,0.52,7.9,7.2,288,Sea View|AC|WiFi|Gym,21865,252812,8.65,89,25.0979,55.2572
+DXB0589,Dubai,Dubai Marina,Penthouse,1,1,731,4.31,0.82,1.6,24.5,76,Gym|Washer|Sea View|Pool|Kitchen|WiFi|Doorman,157528,2158283,7.3,89,24.9514,55.1748
+DXB0590,Dubai,Dubai Marina,Villa,0,1,417,4.7,0.69,2.6,34.9,420,WiFi|Sea View|Balcony|Pool|AC|Parking|Doorman|Washer,75615,972423,7.78,91,24.9612,55.4524
+DXB0591,Dubai,Silicon Oasis,Apartment,0,1,92,3.87,0.55,3.4,5.0,113,Washer|Pool|Balcony|Kitchen,13298,152244,8.73,86,25.249,55.4063
+DXB0592,Dubai,Deira,Penthouse,4,3,644,4.0,0.51,0.6,32.9,321,WiFi|Gym|Pool|Washer|Kitchen|Doorman|Sea View|Balcony,86314,1151438,7.5,83,24.9583,54.9715
+DXB0593,Dubai,Dubai Marina,Villa,1,1,565,4.22,0.63,5.0,8.3,92,Pool|AC|Gym|WiFi|Kitchen,93544,1246024,7.51,84,24.7214,55.4966
+DXB0594,Dubai,DIFC,Apartment,0,1,199,3.86,0.54,0.4,29.1,420,Doorman|WiFi|Gym|Balcony|Sea View|Kitchen|Parking,28240,341543,8.27,88,24.9047,55.1665
+DXB0595,Dubai,Dubai Hills,Studio,0,1,101,4.41,0.85,6.9,28.3,37,Kitchen|Parking|Washer|Balcony|Gym|Pool|Sea View|WiFi,22561,240549,9.38,99,24.9764,55.4933
+DXB0596,Dubai,JVC,Studio,1,1,99,4.98,0.8,2.1,34.8,302,Washer|Kitchen|Parking|WiFi|Gym,20814,263172,7.91,96,25.2145,54.9584
+DXB0597,Dubai,Dubai Marina,Villa,0,1,478,4.21,0.45,3.3,29.6,50,Balcony|Parking|Pool|WiFi|Sea View|Washer|AC|Doorman,56528,650373,8.69,87,24.9024,55.3965
+DXB0598,Dubai,DIFC,Studio,3,4,214,4.17,0.56,1.9,10.6,215,Parking|WiFi|Doorman|Washer|Sea View|AC|Kitchen,31494,342677,9.19,92,25.0333,55.0748
+DXB0599,Dubai,Downtown Dubai,Villa,4,5,995,4.25,0.86,7.3,14.9,50,Doorman|Parking|Sea View|AC,224878,2805036,8.02,92,24.7641,55.472
+DXB0600,Dubai,Business Bay,Studio,3,2,158,4.16,0.59,2.6,28.5,264,WiFi|Doorman|Gym|AC|Pool|Balcony|Parking|Kitchen,24498,275384,8.9,90,24.7735,55.2809

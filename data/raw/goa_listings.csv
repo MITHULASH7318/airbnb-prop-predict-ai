@@ -1,0 +1,501 @@
+id,city,area,property_type,bedrooms,bathrooms,nightly_price_usd,review_score,occupancy_rate,peak_occupancy,off_occupancy,distance_to_beach_km,distance_to_airport_km,num_reviews,amenities,annual_revenue_usd,property_price_usd,roi_pct,investment_score,latitude,longitude
+GOA0001,Goa,Candolim,Beach Hut,2,2,37,3.61,0.54,0.93,0.26,2.5,8.1,245,WiFi|Garden|Parking,5105,57229,8.92,85,15.8554,73.7988
+GOA0002,Goa,Morjim,Cottage,2,3,102,3.75,0.5,0.91,0.2,1.6,42.4,110,Pool|Hammock|AC,13030,152580,8.54,85,15.8092,74.0278
+GOA0003,Goa,Arambol,Apartment,3,4,100,3.8,0.49,0.77,0.29,1.2,26.8,17,Pool|Garden|Yoga Deck|AC|BBQ|Hammock,12520,136143,9.2,89,15.0599,73.9765
+GOA0004,Goa,Morjim,Homestay,1,1,32,3.97,0.6,0.83,0.44,2.2,11.2,169,Beach Access|Hammock|Outdoor Shower|Garden,4906,56098,8.75,89,15.447,73.735
+GOA0005,Goa,Candolim,Villa,3,2,179,4.12,0.46,0.71,0.28,2.9,19.1,195,WiFi|Outdoor Shower|Yoga Deck,21038,254963,8.25,84,14.9431,73.7716
+GOA0006,Goa,Candolim,Villa,4,5,208,4.92,0.56,0.74,0.43,0.4,20.3,94,Pool|Outdoor Shower|Parking|Garden|AC|WiFi,29761,362506,8.21,99,15.6752,73.837
+GOA0007,Goa,Arambol,Apartment,2,2,77,3.79,0.59,0.74,0.48,2.8,30.0,68,Hammock|AC|WiFi|Parking,11607,138961,8.35,85,15.7083,73.7276
+GOA0008,Goa,Calangute,Homestay,1,1,29,3.97,0.54,0.86,0.31,0.5,37.6,90,Garden|Beach Access|BBQ|WiFi,4001,45313,8.83,93,15.2821,73.7529
+GOA0009,Goa,Palolem,Cottage,3,4,67,3.86,0.55,0.77,0.39,1.8,19.5,213,Yoga Deck|Parking|WiFi|Pool,9415,108714,8.66,87,15.724,73.7816
+GOA0010,Goa,Colva,Beach Hut,2,3,36,4.7,0.45,0.75,0.23,2.7,32.4,129,Beach Access|AC|Pool|Hammock|WiFi|Garden,4139,44544,9.29,94,14.9253,73.976
+GOA0011,Goa,Palolem,Beach Hut,5,4,58,3.58,0.51,0.85,0.27,1.2,10.9,220,Parking|Pool|Outdoor Shower|BBQ|Beach Access|WiFi|Hammock,7558,76933,9.82,90,15.198,73.7359
+GOA0012,Goa,Colva,Beach Hut,4,5,58,3.51,0.48,0.82,0.24,1.0,11.5,45,Beach Access|Yoga Deck|WiFi,7113,85768,8.29,82,15.8658,73.7823
+GOA0013,Goa,Colva,Villa,4,3,195,4.32,0.6,0.92,0.37,1.6,11.6,49,Hammock|AC|WiFi|Yoga Deck,29893,311914,9.58,96,15.8165,73.8311
+GOA0014,Goa,Calangute,Beach Hut,3,2,54,4.64,0.61,0.78,0.49,2.2,40.2,97,Yoga Deck|Pool|Beach Access|WiFi|Garden|Outdoor Shower,8416,95333,8.83,95,14.9496,73.8028
+GOA0015,Goa,Palolem,Beach Hut,1,2,32,3.84,0.65,0.89,0.48,1.3,43.5,154,Outdoor Shower|Hammock|Pool,5314,57180,9.29,92,15.3449,73.8956
+GOA0016,Goa,Arambol,Apartment,5,6,107,4.86,0.6,0.84,0.43,2.4,22.3,29,WiFi|Garden|Hammock|Beach Access|Pool|AC|Parking,16403,176491,9.29,99,15.7485,73.8453
+GOA0017,Goa,Anjuna,Beach Hut,3,3,74,4.91,0.6,0.86,0.42,2.4,20.8,107,Pool|Hammock|BBQ|Garden|Beach Access|AC|Yoga Deck,11344,134743,8.42,95,14.9513,73.8608
+GOA0018,Goa,Vagator,Apartment,2,3,90,4.18,0.55,0.89,0.31,1.9,35.0,167,Beach Access|WiFi|BBQ,12647,131709,9.6,94,15.4457,73.7816
+GOA0019,Goa,Palolem,Apartment,5,6,80,4.62,0.49,0.82,0.26,2.9,43.3,251,AC|Pool|Garden|Parking|Outdoor Shower|WiFi,10016,116077,8.63,91,15.3271,73.89
+GOA0020,Goa,Colva,Homestay,1,1,27,4.29,0.53,0.88,0.28,1.4,13.2,237,BBQ|AC|Beach Access|Yoga Deck|Parking|Pool|Garden,3656,37563,9.73,96,14.9009,73.7157
+GOA0021,Goa,Anjuna,Villa,4,3,330,3.86,0.62,0.87,0.45,1.7,34.1,78,Garden|Yoga Deck|Parking|Beach Access|Pool,52275,540540,9.67,93,15.5003,73.9925
+GOA0022,Goa,Morjim,Cottage,2,3,99,4.96,0.53,0.84,0.3,2.0,40.9,245,AC|Outdoor Shower|Parking,13406,136099,9.85,100,15.0194,73.8311
+GOA0023,Goa,Palolem,Beach Hut,4,5,62,4.4,0.53,0.8,0.34,2.6,39.8,14,AC|WiFi|Garden,8396,90304,9.3,93,14.9881,74.0107
+GOA0024,Goa,Candolim,Homestay,3,3,48,3.77,0.48,0.81,0.25,2.1,30.4,237,Hammock|Yoga Deck|Beach Access|AC|BBQ|Outdoor Shower|WiFi,5887,65874,8.94,86,15.0965,73.7847
+GOA0025,Goa,Baga,Homestay,2,2,26,3.98,0.62,0.84,0.46,2.0,43.1,150,AC|WiFi|Beach Access|Parking,4119,45175,9.12,91,15.6192,74.0721
+GOA0026,Goa,Calangute,Cottage,3,3,92,3.89,0.54,0.71,0.42,0.4,26.3,85,Parking|Yoga Deck|AC|Garden|Outdoor Shower|Hammock,12693,135470,9.37,96,15.4644,73.9402
+GOA0027,Goa,Candolim,Villa,1,1,112,4.07,0.64,0.85,0.49,2.2,35.5,165,Parking|Beach Access|AC|Yoga Deck|Garden|Hammock|Pool,18314,220688,8.3,88,15.4917,73.7768
+GOA0028,Goa,Palolem,Cottage,3,3,81,4.44,0.56,0.85,0.35,1.6,25.8,77,Parking|BBQ|AC|Pool|Outdoor Shower|WiFi|Beach Access,11589,124503,9.31,95,15.0976,74.0221
+GOA0029,Goa,Morjim,Apartment,2,1,69,3.63,0.57,0.81,0.4,1.3,27.3,229,BBQ|Hammock|AC|WiFi|Parking|Beach Access|Garden,10049,106670,9.42,90,15.247,74.0731
+GOA0030,Goa,Palolem,Villa,4,3,231,4.25,0.57,0.78,0.42,0.2,18.5,208,BBQ|Garden|AC|Pool,33642,371914,9.05,100,15.8205,73.7048
+GOA0031,Goa,Panaji,Cottage,4,4,76,4.61,0.48,0.82,0.23,2.9,29.6,272,Hammock|Pool|WiFi,9321,103940,8.97,92,15.1366,73.8934
+GOA0032,Goa,Candolim,Apartment,2,1,60,3.61,0.57,0.73,0.45,0.8,25.2,265,BBQ|Beach Access|Garden,8738,91166,9.58,92,15.6687,73.7248
+GOA0033,Goa,Arambol,Cottage,4,4,118,3.68,0.42,0.71,0.22,2.5,6.8,221,Yoga Deck|BBQ|Pool|Hammock|Parking|WiFi|Garden,12663,129950,9.74,88,15.3379,74.0376
+GOA0034,Goa,Palolem,Beach Hut,3,2,43,4.13,0.49,0.71,0.33,1.8,18.3,47,Hammock|Yoga Deck|AC|WiFi|Beach Access,5383,60659,8.87,89,15.2155,73.7426
+GOA0035,Goa,Candolim,Beach Hut,4,4,57,3.65,0.66,0.89,0.49,2.9,29.0,47,Parking|Outdoor Shower|BBQ|Garden|AC,9612,114598,8.39,85,15.6009,73.8141
+GOA0036,Goa,Vagator,Cottage,3,3,120,4.18,0.59,0.82,0.43,0.9,42.0,215,Hammock|Garden|Outdoor Shower|Pool|Beach Access|WiFi|Parking,18089,193674,9.34,95,14.9562,73.8943
+GOA0037,Goa,Vagator,Homestay,4,5,77,4.42,0.51,0.84,0.27,1.1,27.4,24,Parking|WiFi|Yoga Deck|Outdoor Shower|BBQ|Beach Access|Hammock,10033,119327,8.41,90,15.4147,73.7398
+GOA0038,Goa,Baga,Homestay,3,3,31,4.95,0.55,0.79,0.38,0.3,42.3,156,Beach Access|WiFi|Pool|Outdoor Shower|Yoga Deck|Garden|Parking,4356,50173,8.68,100,15.4757,73.7504
+GOA0039,Goa,Morjim,Villa,3,3,247,4.65,0.6,0.8,0.46,2.0,29.9,144,Beach Access|WiFi|Pool|Yoga Deck,37865,454317,8.33,92,15.0313,73.8239
+GOA0040,Goa,Morjim,Villa,5,6,277,4.86,0.6,0.89,0.4,0.9,35.3,246,Yoga Deck|Beach Access|Outdoor Shower|BBQ|Parking,42464,442007,9.61,100,15.3742,73.7903
+GOA0041,Goa,Anjuna,Apartment,5,6,128,3.56,0.52,0.78,0.34,0.5,13.4,239,Pool|AC|Parking|BBQ|Yoga Deck|Garden|Beach Access,17006,207271,8.2,86,15.0304,73.7814
+GOA0042,Goa,Vagator,Apartment,2,1,93,4.14,0.47,0.84,0.21,0.2,37.7,152,Hammock|Outdoor Shower|Yoga Deck|Pool|Parking,11168,122744,9.1,100,15.7852,73.7347
+GOA0043,Goa,Colva,Villa,5,4,206,4.87,0.6,0.8,0.45,0.4,35.1,164,Garden|Parking|Hammock|Outdoor Shower,31580,381444,8.28,100,15.8413,73.9706
+GOA0044,Goa,Baga,Apartment,3,2,63,4.91,0.5,0.77,0.3,2.1,42.2,193,Yoga Deck|Hammock|Parking|Pool|Garden|AC|Beach Access,8048,94167,8.55,93,15.1048,74.0192
+GOA0045,Goa,Morjim,Beach Hut,3,2,73,3.6,0.5,0.8,0.28,0.9,30.7,99,WiFi|Parking|Yoga Deck,9326,113631,8.21,83,15.6177,74.0906
+GOA0046,Goa,Colva,Homestay,5,6,43,4.7,0.61,0.81,0.46,0.6,13.8,248,Garden|Outdoor Shower|Beach Access|Pool|BBQ|Yoga Deck|Hammock,6702,81134,8.26,96,15.2262,74.0025
+GOA0047,Goa,Palolem,Apartment,3,2,64,4.41,0.58,0.81,0.42,0.7,17.0,17,Yoga Deck|BBQ|Hammock|Garden|Beach Access|Parking,9484,96072,9.87,100,15.3743,73.7672
+GOA0048,Goa,Anjuna,Cottage,2,3,84,4.1,0.51,0.71,0.37,2.7,28.9,69,WiFi|AC|Parking|Garden,10946,113151,9.67,92,15.5647,73.8677
+GOA0049,Goa,Anjuna,Beach Hut,1,1,49,4.12,0.46,0.83,0.2,2.1,6.5,103,Beach Access|Outdoor Shower|Pool,5759,66054,8.72,87,15.2683,74.0916
+GOA0050,Goa,Anjuna,Villa,5,6,305,4.25,0.63,0.93,0.42,1.8,39.6,25,Beach Access|Garden|AC,49094,577979,8.49,91,15.3569,73.89
+GOA0051,Goa,Anjuna,Apartment,1,1,61,4.95,0.49,0.87,0.22,2.6,7.8,97,Yoga Deck|WiFi|BBQ,7637,84526,9.04,96,15.4497,73.8669
+GOA0052,Goa,Palolem,Villa,1,1,135,3.81,0.59,0.91,0.37,0.2,25.5,126,Yoga Deck|Hammock|BBQ|Garden|AC,20351,247461,8.22,98,15.1909,73.8878
+GOA0053,Goa,Colva,Homestay,1,1,27,3.96,0.45,0.75,0.24,0.9,23.9,278,Pool|BBQ|WiFi|Hammock|Garden|Parking|Outdoor Shower,3104,36421,8.52,87,15.1275,73.7665
+GOA0054,Goa,Calangute,Villa,2,3,161,4.91,0.62,0.79,0.5,1.5,40.6,184,Hammock|Parking|Beach Access|Yoga Deck|Pool|Garden,25504,265194,9.62,100,15.3604,73.9839
+GOA0055,Goa,Arambol,Beach Hut,2,3,62,3.58,0.54,0.72,0.42,0.9,6.6,241,Outdoor Shower|Garden|Hammock|Pool,8554,89043,9.61,91,14.9218,74.0098
+GOA0056,Goa,Anjuna,Homestay,2,2,38,4.2,0.55,0.85,0.33,0.1,5.4,255,AC|BBQ|Pool|Beach Access|Parking,5340,62698,8.52,100,15.6619,74.0573
+GOA0057,Goa,Anjuna,Beach Hut,3,3,65,4.3,0.53,0.82,0.32,2.7,18.4,99,AC|Beach Access|WiFi|Yoga Deck|BBQ|Parking|Hammock,8802,105505,8.34,88,15.5151,74.0708
+GOA0058,Goa,Anjuna,Beach Hut,3,2,79,4.26,0.5,0.81,0.28,2.9,28.2,227,Beach Access|Garden|Outdoor Shower,10092,104123,9.69,94,15.1826,73.8116
+GOA0059,Goa,Colva,Villa,1,1,101,5.0,0.51,0.71,0.37,0.3,22.6,176,Outdoor Shower|Garden|Parking|Pool|Beach Access|BBQ,13161,136129,9.67,100,15.4105,73.8035
+GOA0060,Goa,Candolim,Homestay,4,3,45,3.63,0.61,0.78,0.49,2.8,27.8,142,Outdoor Shower|Beach Access|AC|Yoga Deck,7013,75349,9.31,89,15.8096,73.7025
+GOA0061,Goa,Arambol,Apartment,4,5,113,4.92,0.45,0.72,0.25,2.9,5.6,131,Outdoor Shower|Beach Access|AC|Garden|WiFi|Pool|BBQ,12992,145439,8.93,94,15.1576,73.88
+GOA0062,Goa,Morjim,Beach Hut,2,3,60,4.6,0.56,0.95,0.29,1.6,21.2,37,Pool|Garden|Yoga Deck|Outdoor Shower,8585,96025,8.94,95,15.0692,74.091
+GOA0063,Goa,Morjim,Villa,2,2,230,4.25,0.51,0.85,0.27,1.7,25.6,269,Hammock|Parking|AC|Beach Access|Outdoor Shower|Pool|Yoga Deck,29970,345985,8.66,89,15.8903,73.9445
+GOA0064,Goa,Morjim,Beach Hut,2,2,53,4.66,0.5,0.74,0.32,1.1,36.3,12,Beach Access|BBQ|AC|Yoga Deck|Parking|Outdoor Shower,6771,74207,9.12,96,15.3842,74.0176
+GOA0065,Goa,Calangute,Beach Hut,1,1,40,4.01,0.53,0.9,0.27,0.7,15.4,93,Hammock|Outdoor Shower|Beach Access|WiFi|Pool|Yoga Deck,5417,60243,8.99,92,14.9091,73.9593
+GOA0066,Goa,Colva,Apartment,2,2,51,4.17,0.61,0.94,0.37,2.6,27.8,254,Parking|AC|Outdoor Shower|WiFi|Pool|BBQ,7949,81953,9.7,95,15.768,73.9332
+GOA0067,Goa,Colva,Homestay,5,5,49,4.06,0.5,0.72,0.34,1.2,14.8,196,BBQ|Parking|Pool|WiFi|Yoga Deck|Outdoor Shower,6260,74662,8.38,87,15.8667,74.0833
+GOA0068,Goa,Panaji,Apartment,3,3,51,4.02,0.67,0.92,0.49,1.4,26.0,190,Pool|Yoga Deck|Parking,8730,93527,9.33,94,15.5878,73.8094
+GOA0069,Goa,Palolem,Homestay,1,2,28,3.58,0.48,0.71,0.32,1.1,24.6,213,Outdoor Shower|Garden|Yoga Deck|Parking|Beach Access,3434,36749,9.34,88,15.2207,73.7769
+GOA0070,Goa,Palolem,Villa,2,1,133,4.96,0.53,0.8,0.33,1.8,14.7,159,AC|Garden|BBQ|Outdoor Shower,18010,219455,8.21,93,15.5813,73.9864
+GOA0071,Goa,Anjuna,Apartment,2,1,82,3.63,0.49,0.87,0.22,1.8,13.4,139,Hammock|Pool|Beach Access|Yoga Deck|WiFi|AC|Outdoor Shower,10266,119532,8.59,83,15.7416,73.7121
+GOA0072,Goa,Calangute,Beach Hut,5,4,85,4.19,0.45,0.75,0.24,2.9,13.0,253,Outdoor Shower|Yoga Deck|Hammock|AC|Pool,9773,99308,9.84,93,15.2478,73.9481
+GOA0073,Goa,Anjuna,Cottage,3,3,108,3.69,0.48,0.77,0.27,0.7,33.2,41,Hammock|Parking|AC|BBQ|WiFi|Garden|Yoga Deck,13245,144551,9.16,89,15.1175,73.8467
+GOA0074,Goa,Colva,Cottage,3,3,65,4.96,0.65,0.94,0.44,0.8,17.7,50,AC|Outdoor Shower|WiFi,10795,109582,9.85,100,15.1668,73.9024
+GOA0075,Goa,Panaji,Villa,5,5,212,4.79,0.56,0.91,0.31,2.1,7.4,180,Garden|BBQ|Beach Access|WiFi|Yoga Deck,30333,324417,9.35,98,15.6016,73.7039
+GOA0076,Goa,Anjuna,Apartment,5,5,118,3.99,0.61,0.87,0.43,0.9,16.8,266,BBQ|Hammock|WiFi|Beach Access|Outdoor Shower|Parking,18391,217080,8.47,90,15.3463,73.9908
+GOA0077,Goa,Morjim,Homestay,2,1,48,4.98,0.55,0.76,0.4,1.8,11.3,275,Parking|Beach Access|WiFi|Hammock|Outdoor Shower|BBQ|Yoga Deck,6745,81166,8.31,94,15.6518,73.9273
+GOA0078,Goa,Panaji,Beach Hut,5,6,48,4.21,0.54,0.78,0.37,2.7,30.3,239,BBQ|WiFi|Hammock,6623,74609,8.88,90,15.4187,73.7205
+GOA0079,Goa,Vagator,Cottage,2,3,86,4.24,0.47,0.78,0.25,1.5,15.3,107,Outdoor Shower|Yoga Deck|Hammock|BBQ|Pool,10327,110678,9.33,92,15.364,73.7533
+GOA0080,Goa,Arambol,Apartment,3,4,101,4.8,0.5,0.88,0.23,2.3,35.7,61,AC|WiFi|Outdoor Shower|Garden,12903,152197,8.48,92,15.014,73.9576
+GOA0081,Goa,Vagator,Cottage,1,1,88,4.37,0.56,0.86,0.34,1.6,30.6,21,Beach Access|Yoga Deck|Outdoor Shower|WiFi|Hammock,12591,126872,9.92,98,14.9814,73.874
+GOA0082,Goa,Candolim,Cottage,3,2,77,4.32,0.54,0.73,0.41,2.4,9.2,24,AC|Yoga Deck|Parking,10624,110097,9.65,95,15.0455,74.0509
+GOA0083,Goa,Morjim,Villa,1,1,166,4.2,0.53,0.73,0.39,2.6,30.0,49,Yoga Deck|AC|Garden|WiFi|Parking,22479,266161,8.45,88,14.9753,73.745
+GOA0084,Goa,Arambol,Cottage,2,1,68,3.89,0.47,0.73,0.28,1.2,29.4,163,BBQ|Garden|AC|WiFi|Pool|Yoga Deck|Hammock,8166,98772,8.27,84,15.735,73.9841
+GOA0085,Goa,Palolem,Homestay,4,5,37,4.6,0.55,0.77,0.39,1.1,15.5,92,Outdoor Shower|WiFi|Parking|Pool,5199,63516,8.19,91,15.1791,74.0723
+GOA0086,Goa,Candolim,Apartment,4,4,69,4.55,0.63,0.88,0.45,2.9,7.6,60,Yoga Deck|Pool|Beach Access|AC|Parking,11107,135150,8.22,91,15.7218,73.9585
+GOA0087,Goa,Palolem,Homestay,4,4,47,3.69,0.64,0.86,0.49,2.7,6.6,191,AC|Parking|Hammock|WiFi,7685,84349,9.11,89,15.2623,74.0306
+GOA0088,Goa,Baga,Villa,5,4,243,4.19,0.49,0.71,0.33,1.4,30.6,161,WiFi|AC|Outdoor Shower,30422,366994,8.29,87,15.2117,73.9101
+GOA0089,Goa,Palolem,Villa,5,4,186,4.96,0.53,0.79,0.34,1.1,31.5,123,Outdoor Shower|Pool|Yoga Deck|Parking|Beach Access|BBQ,25187,290071,8.68,96,15.6153,73.8073
+GOA0090,Goa,Baga,Cottage,2,2,59,3.69,0.48,0.86,0.21,1.8,40.6,254,Outdoor Shower|Pool|AC|Yoga Deck|BBQ,7236,86345,8.38,83,15.349,73.8837
+GOA0091,Goa,Morjim,Beach Hut,3,4,55,4.51,0.54,0.91,0.27,1.3,40.1,218,Garden|Parking|AC|Beach Access|Pool|BBQ,7588,90025,8.43,91,15.1432,73.9202
+GOA0092,Goa,Panaji,Homestay,3,3,28,3.65,0.65,0.93,0.45,2.3,38.7,72,Pool|Parking|Beach Access,4650,47004,9.89,93,15.338,73.837
+GOA0093,Goa,Calangute,Beach Hut,2,3,49,3.64,0.59,0.89,0.37,0.6,12.4,267,Hammock|Garden|BBQ|Beach Access|Outdoor Shower,7387,76960,9.6,94,14.957,73.9351
+GOA0094,Goa,Vagator,Homestay,4,4,75,3.53,0.51,0.71,0.37,2.5,19.0,170,Beach Access|Parking|AC|Garden|Hammock|Yoga Deck,9773,104826,9.32,86,15.4963,73.8097
+GOA0095,Goa,Baga,Cottage,1,1,42,4.6,0.57,0.86,0.37,2.2,13.2,117,Parking|Outdoor Shower|BBQ|Beach Access|AC,6117,70349,8.7,93,15.2525,73.7504
+GOA0096,Goa,Calangute,Villa,5,6,230,4.51,0.66,0.91,0.49,1.9,9.2,208,WiFi|Garden|Beach Access|BBQ|Parking|Outdoor Shower|Pool,38785,403717,9.61,99,15.7129,73.9315
+GOA0097,Goa,Panaji,Beach Hut,5,5,56,4.67,0.63,0.88,0.45,0.2,39.0,63,Garden|Hammock|Parking|AC,9014,105114,8.58,100,15.1861,73.9562
+GOA0098,Goa,Calangute,Homestay,4,4,49,4.94,0.51,0.71,0.37,0.5,12.0,256,Garden|WiFi|BBQ|Yoga Deck|Parking|Hammock,6385,73956,8.63,99,15.1354,73.8977
+GOA0099,Goa,Arambol,Cottage,4,3,133,3.82,0.56,0.74,0.43,1.5,10.9,17,WiFi|AC|Yoga Deck|Beach Access|Garden|Outdoor Shower|Hammock,19030,228858,8.32,85,15.5459,73.7932
+GOA0100,Goa,Baga,Apartment,2,3,48,4.53,0.6,0.85,0.43,1.0,21.2,71,WiFi|Hammock|Beach Access|Pool|Outdoor Shower|Yoga Deck,7358,80905,9.09,97,15.8841,73.8169
+GOA0101,Goa,Palolem,Beach Hut,2,3,37,4.03,0.51,0.84,0.28,2.8,40.8,29,Outdoor Shower|AC|Garden|Pool|BBQ|Yoga Deck,4821,51056,9.44,91,15.0035,73.9626
+GOA0102,Goa,Palolem,Cottage,4,4,102,3.75,0.59,0.94,0.34,2.8,17.1,157,Yoga Deck|Pool|BBQ|Parking|AC|Hammock|WiFi,15376,176886,8.69,86,15.0883,73.8215
+GOA0103,Goa,Arambol,Apartment,2,3,61,3.72,0.5,0.73,0.33,2.4,10.2,89,Yoga Deck|Parking|AC,7793,80378,9.7,90,15.5434,73.7789
+GOA0104,Goa,Colva,Beach Hut,3,3,36,3.75,0.65,0.93,0.45,1.1,26.5,136,Garden|Hammock|Outdoor Shower|Yoga Deck,5979,68504,8.73,89,15.5771,73.9731
+GOA0105,Goa,Anjuna,Apartment,1,1,67,3.9,0.49,0.71,0.34,2.7,38.3,138,AC|Hammock|Outdoor Shower|Parking|Beach Access|Yoga Deck,8388,94495,8.88,87,15.8916,73.7654
+GOA0106,Goa,Colva,Apartment,4,3,75,4.51,0.68,0.94,0.5,2.1,36.9,79,Beach Access|Parking|Yoga Deck|Pool|Garden,13031,137365,9.49,99,15.007,74.0123
+GOA0107,Goa,Calangute,Cottage,2,1,89,4.07,0.55,0.86,0.33,1.3,35.5,23,AC|Parking|Beach Access|WiFi|Pool|Outdoor Shower,12507,133696,9.35,93,15.8362,74.0763
+GOA0108,Goa,Morjim,Apartment,5,5,107,4.81,0.53,0.88,0.28,0.2,41.5,107,Beach Access|Garden|Parking|Pool|Yoga Deck|Outdoor Shower,14489,153519,9.44,100,15.5332,73.9884
+GOA0109,Goa,Baga,Cottage,2,3,58,4.58,0.48,0.71,0.31,1.9,37.9,42,AC|WiFi|Pool|Yoga Deck|Outdoor Shower|Garden|BBQ,7113,73439,9.69,96,15.135,73.9609
+GOA0110,Goa,Candolim,Beach Hut,1,1,34,4.39,0.43,0.73,0.21,2.7,37.8,194,AC|Garden|Outdoor Shower,3735,39588,9.43,92,15.8994,73.7846
+GOA0111,Goa,Panaji,Villa,3,2,132,4.49,0.67,0.94,0.47,1.5,10.4,235,Garden|Beach Access|BBQ,22596,265885,8.5,94,15.8774,74.0857
+GOA0112,Goa,Baga,Homestay,1,1,23,3.95,0.47,0.73,0.28,2.5,8.5,69,Yoga Deck|Beach Access|Hammock,2762,29942,9.22,88,15.2422,74.0926
+GOA0113,Goa,Candolim,Villa,3,3,198,4.12,0.6,0.74,0.5,2.5,7.8,50,Garden|BBQ|Outdoor Shower,30353,322516,9.41,93,14.9566,73.7482
+GOA0114,Goa,Arambol,Apartment,2,1,75,4.89,0.6,0.82,0.45,1.4,34.3,148,Garden|Pool|WiFi|Yoga Deck|Beach Access|Hammock,11498,133085,8.64,96,15.074,73.8445
+GOA0115,Goa,Vagator,Villa,3,3,271,3.61,0.54,0.79,0.36,3.0,37.6,265,AC|Parking|Hammock|Beach Access|Pool|BBQ,37390,413328,9.05,86,15.3321,74.0186
+GOA0116,Goa,Candolim,Beach Hut,4,4,63,4.83,0.56,0.8,0.38,1.9,10.8,98,AC|Outdoor Shower|Garden|BBQ|WiFi|Parking,9014,98501,9.15,97,14.9936,73.7067
+GOA0117,Goa,Arambol,Beach Hut,1,1,49,3.85,0.56,0.75,0.42,1.0,11.5,272,Hammock|Beach Access|WiFi|Yoga Deck|Outdoor Shower|Garden|BBQ,7011,77994,8.99,90,15.8597,74.0406
+GOA0118,Goa,Colva,Villa,3,3,176,4.11,0.51,0.89,0.24,0.1,28.5,130,Garden|Beach Access|AC|Yoga Deck|Outdoor Shower|Parking,22934,230358,9.96,100,15.3554,73.9072
+GOA0119,Goa,Colva,Beach Hut,3,4,34,4.13,0.56,0.88,0.33,2.2,37.5,265,BBQ|Garden|Pool,4865,51169,9.51,93,15.4884,73.7843
+GOA0120,Goa,Anjuna,Homestay,4,4,55,4.44,0.57,0.91,0.32,0.8,31.8,133,Beach Access|AC|Hammock,8010,95533,8.38,93,15.3481,73.8952
+GOA0121,Goa,Panaji,Villa,5,4,169,4.44,0.62,0.79,0.5,1.5,27.6,204,Beach Access|Parking|BBQ,26771,296616,9.03,95,15.8168,74.0203
+GOA0122,Goa,Calangute,Villa,4,5,233,4.58,0.56,0.85,0.35,0.6,14.8,177,Hammock|Beach Access|BBQ|AC|Parking,33338,367750,9.07,98,15.8148,73.8342
+GOA0123,Goa,Vagator,Cottage,2,1,113,4.3,0.57,0.86,0.36,0.4,9.0,62,AC|Garden|Outdoor Shower|Yoga Deck|Pool|Hammock|WiFi,16457,178314,9.23,99,15.523,73.8787
+GOA0124,Goa,Calangute,Cottage,4,4,117,3.83,0.5,0.74,0.32,2.8,21.8,205,Yoga Deck|Beach Access|AC|BBQ|Outdoor Shower|Parking,14947,173067,8.64,85,15.4173,73.7337
+GOA0125,Goa,Baga,Villa,2,1,172,4.5,0.54,0.77,0.38,0.4,12.0,99,WiFi|Garden|Pool,23731,288244,8.23,95,15.548,73.7982
+GOA0126,Goa,Calangute,Cottage,4,5,115,4.67,0.58,0.87,0.38,2.7,18.2,157,WiFi|Outdoor Shower|Yoga Deck|Pool,17042,173398,9.83,99,15.1483,74.0952
+GOA0127,Goa,Morjim,Cottage,4,4,118,4.6,0.51,0.87,0.26,0.8,21.4,230,Garden|Parking|BBQ,15376,163371,9.41,98,15.1343,73.7079
+GOA0128,Goa,Morjim,Beach Hut,1,1,52,4.95,0.5,0.79,0.3,0.1,38.0,7,WiFi|Yoga Deck|AC|Beach Access|BBQ|Pool|Parking,6643,76472,8.69,100,15.0466,73.7639
+GOA0129,Goa,Anjuna,Beach Hut,4,4,86,4.42,0.52,0.71,0.39,1.0,35.8,265,Yoga Deck|BBQ|AC|Pool|WiFi|Hammock|Beach Access,11426,123622,9.24,95,15.7109,73.8601
+GOA0130,Goa,Panaji,Homestay,4,3,44,4.11,0.58,0.89,0.35,2.7,8.5,164,BBQ|Pool|Outdoor Shower,6520,78352,8.32,87,15.8365,74.0302
+GOA0131,Goa,Colva,Villa,3,4,172,3.8,0.64,0.9,0.46,0.9,7.0,232,Beach Access|Garden|Yoga Deck|AC|Hammock|Parking,28125,340766,8.25,88,15.0499,73.915
+GOA0132,Goa,Arambol,Villa,2,2,193,4.47,0.58,0.7,0.49,0.2,5.6,262,Beach Access|Hammock|Yoga Deck|Garden,28601,295103,9.69,100,15.4669,74.0729
+GOA0133,Goa,Candolim,Homestay,3,4,45,4.73,0.5,0.7,0.36,1.4,7.9,244,Parking|AC|Outdoor Shower|WiFi|Hammock|Yoga Deck,5749,63865,9.0,95,15.5844,73.9013
+GOA0134,Goa,Vagator,Homestay,2,2,53,4.23,0.54,0.74,0.39,0.6,29.5,105,Beach Access|Parking|BBQ,7312,87295,8.38,92,15.0572,74.0849
+GOA0135,Goa,Vagator,Homestay,4,3,66,3.61,0.52,0.86,0.28,2.4,44.2,12,Beach Access|AC|WiFi|Garden|BBQ|Pool,8769,103627,8.46,83,15.4019,73.882
+GOA0136,Goa,Palolem,Apartment,3,4,73,3.7,0.56,0.84,0.36,0.3,39.1,35,Parking|BBQ|Pool|Outdoor Shower,10445,114152,9.15,97,15.7562,73.7397
+GOA0137,Goa,Palolem,Beach Hut,1,2,27,3.89,0.52,0.92,0.24,2.2,29.9,135,Garden|BBQ|WiFi|Beach Access,3587,36676,9.78,92,15.2561,74.0156
+GOA0138,Goa,Palolem,Apartment,1,2,41,4.46,0.56,0.76,0.41,2.6,39.7,227,Parking|BBQ|Garden|Hammock|Pool,5866,60313,9.73,97,15.4936,73.7508
+GOA0139,Goa,Morjim,Villa,1,2,159,3.74,0.62,0.88,0.43,0.4,37.6,108,Garden|BBQ|Pool|AC|Beach Access|Yoga Deck|Hammock,25187,280199,8.99,95,15.8362,73.9054
+GOA0140,Goa,Palolem,Cottage,3,4,90,4.3,0.6,0.8,0.45,1.5,24.6,174,BBQ|Beach Access|Garden|Yoga Deck|Hammock|Parking,13797,152439,9.05,94,15.7468,74.0328
+GOA0141,Goa,Vagator,Villa,2,2,208,4.0,0.56,0.82,0.37,0.8,24.5,90,Pool|WiFi|Beach Access|Parking|Outdoor Shower|AC,29761,350119,8.5,89,15.234,73.7427
+GOA0142,Goa,Anjuna,Apartment,3,4,83,4.92,0.47,0.78,0.25,1.4,6.4,119,Hammock|WiFi|Parking|Outdoor Shower|AC|BBQ,9967,106472,9.36,98,15.2231,73.9176
+GOA0143,Goa,Vagator,Beach Hut,4,4,84,4.03,0.62,0.81,0.49,1.2,14.7,267,BBQ|Hammock|Pool|WiFi|Garden|Beach Access,13306,140695,9.46,94,15.3578,74.0038
+GOA0144,Goa,Anjuna,Villa,3,3,211,4.56,0.49,0.71,0.33,2.3,27.5,32,Parking|Outdoor Shower|Pool|WiFi|Beach Access|Garden,26416,284044,9.3,94,15.105,73.9968
+GOA0145,Goa,Colva,Apartment,4,4,57,4.78,0.58,0.75,0.46,1.1,17.8,209,AC|Hammock|BBQ|Pool|Parking|Yoga Deck|Garden,8447,98036,8.62,96,15.8059,73.7507
+GOA0146,Goa,Morjim,Cottage,5,6,122,4.24,0.45,0.72,0.26,2.8,20.1,21,Beach Access|Hammock|Outdoor Shower|Yoga Deck|Garden|Parking|Pool,14027,170708,8.22,85,15.8233,73.9179
+GOA0147,Goa,Colva,Apartment,4,5,63,4.55,0.65,0.86,0.5,0.8,7.1,50,BBQ|Yoga Deck|AC|Garden,10463,120256,8.7,97,15.0136,73.7016
+GOA0148,Goa,Colva,Homestay,3,4,41,4.7,0.58,0.9,0.35,0.9,16.4,135,Parking|Pool|BBQ|Outdoor Shower|AC,6076,62802,9.67,100,15.276,74.0025
+GOA0149,Goa,Candolim,Apartment,4,5,86,3.62,0.43,0.7,0.23,1.3,30.5,262,Pool|Hammock|AC,9448,114073,8.28,81,15.7018,73.8865
+GOA0150,Goa,Palolem,Villa,1,2,111,3.66,0.63,0.92,0.43,0.5,24.5,235,Beach Access|AC|Pool,17867,199009,8.98,93,15.5251,74.0785
+GOA0151,Goa,Palolem,Cottage,5,6,103,4.31,0.42,0.71,0.22,0.6,34.7,196,Yoga Deck|WiFi|Hammock|Parking|Outdoor Shower|AC|Garden,11053,111328,9.93,98,15.6233,73.7544
+GOA0152,Goa,Colva,Cottage,1,1,53,3.73,0.48,0.78,0.27,1.1,24.6,213,Yoga Deck|WiFi|Hammock|BBQ|Pool|Garden|Outdoor Shower,6500,68678,9.46,89,15.3074,74.0946
+GOA0153,Goa,Anjuna,Villa,1,1,135,3.71,0.52,0.71,0.39,0.2,25.5,192,Beach Access|WiFi|Yoga Deck|Pool,17936,212699,8.43,97,15.427,73.9246
+GOA0154,Goa,Colva,Beach Hut,5,6,49,3.8,0.55,0.78,0.38,0.7,43.8,216,Outdoor Shower|AC|Beach Access|Hammock|WiFi|Yoga Deck|BBQ,6886,70640,9.75,94,14.922,74.0211
+GOA0155,Goa,Vagator,Cottage,5,4,167,3.95,0.44,0.73,0.24,2.1,36.3,245,Beach Access|Parking|Garden|Hammock|Yoga Deck|WiFi,18774,214558,8.75,86,15.8375,73.9768
+GOA0156,Goa,Calangute,Cottage,5,5,103,3.87,0.53,0.91,0.26,0.3,21.1,64,Yoga Deck|Outdoor Shower|Garden,13948,161279,8.65,95,15.82,73.9601
+GOA0157,Goa,Palolem,Homestay,3,2,32,4.92,0.49,0.76,0.3,1.2,24.9,251,Parking|Garden|Hammock|Yoga Deck|Outdoor Shower|Beach Access|AC,4006,40516,9.89,100,15.0233,73.8604
+GOA0158,Goa,Calangute,Cottage,2,3,72,4.66,0.52,0.9,0.25,1.1,11.1,4,Pool|AC|BBQ|Garden|Outdoor Shower|WiFi,9566,103597,9.23,97,15.6985,73.9829
+GOA0159,Goa,Anjuna,Homestay,3,2,47,4.05,0.53,0.73,0.39,0.4,36.2,234,Outdoor Shower|Beach Access|AC,6365,77595,8.2,92,15.2902,73.9314
+GOA0160,Goa,Palolem,Beach Hut,4,5,64,4.33,0.49,0.74,0.31,2.5,31.0,169,Parking|Yoga Deck|Beach Access|Outdoor Shower|WiFi|Hammock|Garden,8012,91590,8.75,89,15.7668,74.0576
+GOA0161,Goa,Anjuna,Homestay,5,5,82,3.64,0.6,0.84,0.42,2.3,11.7,145,WiFi|Outdoor Shower|Hammock|AC|Pool|Yoga Deck,12571,142659,8.81,86,15.6974,73.988
+GOA0162,Goa,Anjuna,Cottage,1,2,61,4.2,0.48,0.74,0.3,0.1,27.0,280,BBQ|Garden|Yoga Deck|Beach Access|AC,7481,81465,9.18,100,15.5196,73.9654
+GOA0163,Goa,Panaji,Villa,5,6,217,3.82,0.57,0.73,0.46,0.5,38.7,275,Beach Access|BBQ|Pool|Yoga Deck,31603,384486,8.22,89,15.4009,74.0926
+GOA0164,Goa,Vagator,Villa,3,2,215,3.95,0.54,0.86,0.31,2.8,27.0,276,Yoga Deck|Beach Access|Garden|Outdoor Shower,29664,300966,9.86,93,15.4909,73.9611
+GOA0165,Goa,Panaji,Apartment,4,5,59,4.05,0.53,0.91,0.26,2.5,35.5,226,Beach Access|Pool|Hammock,7989,89879,8.89,89,15.6136,73.783
+GOA0166,Goa,Vagator,Beach Hut,1,2,50,4.8,0.62,0.81,0.49,1.4,20.6,280,Outdoor Shower|AC|Garden|Pool|Yoga Deck,7920,81713,9.69,100,15.8517,73.8279
+GOA0167,Goa,Vagator,Apartment,2,1,96,4.82,0.46,0.79,0.22,2.2,36.3,89,Garden|Parking|AC|WiFi|Hammock,11283,120641,9.35,96,15.3427,73.8941
+GOA0168,Goa,Calangute,Homestay,3,2,51,4.07,0.52,0.81,0.31,1.1,37.4,53,Pool|AC|Outdoor Shower,6776,75680,8.95,90,15.2618,73.9097
+GOA0169,Goa,Palolem,Cottage,4,4,94,3.9,0.6,0.77,0.48,2.2,30.9,124,Outdoor Shower|Garden|Pool|BBQ|Yoga Deck,14410,162583,8.86,89,14.9293,73.9472
+GOA0170,Goa,Morjim,Homestay,5,5,70,4.32,0.46,0.79,0.22,0.6,21.3,240,AC|Pool|Hammock,8227,99652,8.26,90,15.3667,73.7211
+GOA0171,Goa,Colva,Beach Hut,1,1,24,4.58,0.55,0.83,0.35,0.8,11.7,140,Outdoor Shower|WiFi|Pool,3373,39312,8.58,94,15.0899,73.8843
+GOA0172,Goa,Colva,Homestay,1,1,21,3.87,0.59,0.86,0.4,2.5,7.9,75,Parking|AC|Outdoor Shower|WiFi|Pool|BBQ|Garden,3166,34599,9.15,90,15.1737,74.092
+GOA0173,Goa,Palolem,Homestay,2,1,33,4.56,0.5,0.7,0.36,0.2,41.8,88,Outdoor Shower|BBQ|Beach Access|Pool|Yoga Deck|WiFi|Parking,4216,47493,8.88,100,15.8684,73.9162
+GOA0174,Goa,Calangute,Villa,4,4,234,4.92,0.49,0.87,0.22,1.4,23.8,26,AC|Outdoor Shower|Hammock|BBQ|Beach Access|Garden|Parking,29296,308600,9.49,99,15.3555,73.9329
+GOA0175,Goa,Vagator,Homestay,5,4,71,3.75,0.61,0.83,0.45,2.0,42.4,146,Garden|Outdoor Shower|Yoga Deck|BBQ|Beach Access,11066,118981,9.3,90,15.8122,73.7837
+GOA0176,Goa,Arambol,Cottage,5,6,106,4.61,0.66,0.91,0.49,2.7,26.2,167,Hammock|AC|Beach Access|Parking|Garden,17875,202605,8.82,95,14.9278,73.7987
+GOA0177,Goa,Palolem,Cottage,4,5,87,4.44,0.6,0.84,0.42,0.9,8.5,5,Pool|Parking|Yoga Deck|AC|WiFi,13337,150114,8.88,95,15.3137,74.0001
+GOA0178,Goa,Calangute,Cottage,4,5,114,4.99,0.53,0.77,0.35,1.0,39.3,278,Outdoor Shower|BBQ|Garden|Yoga Deck|Hammock|Pool,15437,169485,9.11,99,15.5842,74.053
+GOA0179,Goa,Calangute,Beach Hut,1,1,34,4.81,0.57,0.71,0.47,1.0,25.5,66,Yoga Deck|Hammock|Outdoor Shower|Garden|BBQ|Pool,4952,52982,9.35,100,15.8407,73.7191
+GOA0180,Goa,Morjim,Apartment,2,2,74,4.78,0.49,0.8,0.26,1.3,41.6,186,WiFi|Pool|AC,9264,100577,9.21,96,15.6619,73.902
+GOA0181,Goa,Candolim,Villa,5,6,296,4.2,0.46,0.71,0.28,1.3,42.9,146,WiFi|Yoga Deck|Beach Access|Parking|Pool,34789,360020,9.66,93,15.6668,73.8073
+GOA0182,Goa,Morjim,Homestay,2,1,46,4.58,0.66,0.94,0.46,1.6,27.5,259,Outdoor Shower|Garden|AC|Beach Access,7757,90923,8.53,94,15.4527,73.7459
+GOA0183,Goa,Morjim,Cottage,5,4,119,4.29,0.44,0.77,0.21,2.2,28.8,135,Yoga Deck|Parking|Garden|AC|Beach Access|Pool|Hammock,13378,134746,9.93,94,15.4392,74.0875
+GOA0184,Goa,Panaji,Cottage,5,6,84,3.6,0.61,0.84,0.45,3.0,17.8,235,WiFi|Pool|AC|Hammock|Beach Access,13092,143440,9.13,88,15.8067,73.7765
+GOA0185,Goa,Calangute,Beach Hut,1,1,41,4.11,0.47,0.71,0.3,0.8,43.0,256,Outdoor Shower|AC|Garden|Hammock|BBQ|WiFi,4923,56736,8.68,89,15.168,74.0246
+GOA0186,Goa,Palolem,Homestay,1,2,21,4.31,0.58,0.72,0.48,2.3,38.0,232,Pool|AC|Outdoor Shower|BBQ,3112,35670,8.72,91,15.5475,74.0876
+GOA0187,Goa,Palolem,Villa,4,3,215,4.89,0.49,0.83,0.24,1.6,28.7,41,Garden|Pool|WiFi|Hammock|Beach Access,26917,276759,9.73,99,15.3825,73.949
+GOA0188,Goa,Candolim,Cottage,2,2,57,3.79,0.63,0.82,0.49,1.2,33.6,15,Garden|Yoga Deck|Pool|WiFi|Outdoor Shower,9175,100402,9.14,91,15.5038,73.8196
+GOA0189,Goa,Panaji,Apartment,3,2,55,3.83,0.53,0.94,0.24,1.1,13.9,30,Beach Access|WiFi|Hammock,7448,74908,9.94,94,15.6805,73.7805
+GOA0190,Goa,Palolem,Homestay,2,1,27,4.21,0.43,0.7,0.23,2.4,41.6,46,Yoga Deck|Beach Access|Garden|Hammock|WiFi|AC|Pool,2966,34745,8.54,86,15.7545,73.9733
+GOA0191,Goa,Calangute,Villa,4,4,195,4.67,0.64,0.91,0.44,1.6,38.8,31,Parking|Pool|Beach Access,31886,335363,9.51,100,15.6272,74.0923
+GOA0192,Goa,Baga,Homestay,4,3,38,3.84,0.57,0.75,0.44,0.6,44.9,153,Pool|BBQ|Yoga Deck,5534,56160,9.85,96,14.9248,74.0341
+GOA0193,Goa,Arambol,Beach Hut,1,2,40,4.76,0.62,0.84,0.47,2.8,8.0,54,WiFi|Pool|Beach Access|Yoga Deck|Outdoor Shower|Hammock,6336,63488,9.98,100,15.1504,73.9677
+GOA0194,Goa,Palolem,Villa,4,5,229,4.19,0.51,0.85,0.26,2.4,15.7,37,Yoga Deck|WiFi|Garden|Pool|Outdoor Shower,29840,362545,8.23,86,15.3948,73.7344
+GOA0195,Goa,Panaji,Cottage,5,4,87,4.25,0.5,0.74,0.33,1.0,28.4,98,AC|Hammock|Outdoor Shower|WiFi|BBQ|Yoga Deck|Beach Access,11114,124028,8.96,92,14.9085,74.0044
+GOA0196,Goa,Candolim,Cottage,1,1,62,4.05,0.55,0.71,0.43,2.9,17.9,280,AC|Outdoor Shower|Hammock|Parking,8713,91780,9.49,92,15.0838,73.9308
+GOA0197,Goa,Vagator,Cottage,4,4,114,4.03,0.58,0.87,0.37,1.2,27.5,32,Hammock|AC|Yoga Deck|Pool|BBQ|Beach Access|Garden,16894,184717,9.15,92,14.9059,73.7314
+GOA0198,Goa,Candolim,Homestay,5,4,63,3.62,0.65,0.88,0.48,0.8,27.8,177,Hammock|WiFi|BBQ|Yoga Deck|Garden|Pool,10463,113244,9.24,92,15.7817,74.0768
+GOA0199,Goa,Candolim,Beach Hut,4,5,66,3.63,0.55,0.87,0.32,1.4,12.6,86,Yoga Deck|Hammock|AC|WiFi|Parking,9275,93763,9.89,92,15.6905,73.8816
+GOA0200,Goa,Anjuna,Beach Hut,1,1,42,4.08,0.62,0.91,0.42,0.9,15.1,112,Pool|WiFi|BBQ|Beach Access,6653,68267,9.75,97,15.8208,73.9326
+GOA0201,Goa,Candolim,Beach Hut,3,4,53,4.39,0.59,0.79,0.44,1.6,10.2,8,WiFi|Outdoor Shower|Parking|BBQ|Pool|Beach Access,7989,81963,9.75,98,15.4369,74.0746
+GOA0202,Goa,Anjuna,Apartment,1,2,59,4.8,0.53,0.89,0.27,0.2,34.1,102,Parking|AC|Beach Access,7989,81698,9.78,100,15.0997,73.8485
+GOA0203,Goa,Panaji,Apartment,1,1,39,4.59,0.49,0.73,0.32,1.5,37.7,137,WiFi|AC|Parking|Garden,4883,54699,8.93,93,15.0717,74.0231
+GOA0204,Goa,Vagator,Apartment,5,4,141,4.33,0.55,0.87,0.32,0.5,26.0,137,WiFi|Pool|Parking|Outdoor Shower,19814,227454,8.71,95,15.5394,73.8352
+GOA0205,Goa,Anjuna,Villa,2,2,234,4.38,0.49,0.72,0.33,2.3,24.8,236,Hammock|WiFi|AC,29296,344660,8.5,89,15.7947,73.8071
+GOA0206,Goa,Candolim,Apartment,3,4,71,4.85,0.62,0.92,0.41,2.6,39.6,76,BBQ|Outdoor Shower|Garden|Pool,11247,114689,9.81,100,15.2206,73.7713
+GOA0207,Goa,Vagator,Cottage,2,3,86,4.13,0.49,0.76,0.3,0.4,27.9,99,Hammock|Yoga Deck|Outdoor Shower|BBQ|Garden|Pool,10767,114757,9.38,97,15.3419,73.8387
+GOA0208,Goa,Colva,Apartment,2,2,55,4.84,0.55,0.89,0.3,2.2,10.2,263,Pool|AC|Parking|Outdoor Shower,7729,79900,9.67,99,15.2456,74.0231
+GOA0209,Goa,Panaji,Beach Hut,2,3,31,3.59,0.57,0.73,0.46,1.9,27.2,263,Beach Access|Garden|Parking,4515,47690,9.47,89,15.4276,73.9622
+GOA0210,Goa,Arambol,Homestay,3,3,44,4.8,0.56,0.78,0.41,0.1,19.1,256,Beach Access|Parking|Hammock|Yoga Deck|BBQ|AC|WiFi,6296,68174,9.24,100,15.4435,73.7291
+GOA0211,Goa,Morjim,Apartment,5,5,137,3.83,0.62,0.87,0.44,1.7,31.5,114,Pool|WiFi|BBQ|Garden|Beach Access|Outdoor Shower|Hammock,21702,252750,8.59,88,15.2555,74.0235
+GOA0212,Goa,Baga,Beach Hut,4,5,50,4.36,0.55,0.89,0.31,0.9,37.7,46,Hammock|AC|Garden|Beach Access,7026,77432,9.07,95,15.8299,73.918
+GOA0213,Goa,Baga,Beach Hut,5,5,67,4.85,0.46,0.72,0.27,2.1,39.3,175,Yoga Deck|Pool|Beach Access|AC,7875,93166,8.45,92,15.3151,73.7357
+GOA0214,Goa,Arambol,Beach Hut,4,4,70,3.85,0.57,0.77,0.43,0.3,22.1,94,Hammock|Beach Access|Yoga Deck|Parking|WiFi|Pool,10194,120687,8.45,94,15.4961,73.7359
+GOA0215,Goa,Morjim,Cottage,3,4,99,3.63,0.65,0.94,0.44,1.4,42.3,259,Hammock|Garden|AC,16441,172579,9.53,92,15.2446,73.7644
+GOA0216,Goa,Colva,Homestay,1,1,24,4.92,0.45,0.7,0.27,2.8,9.5,22,Garden|Yoga Deck|BBQ|Parking,2759,28639,9.63,98,15.4702,74.0447
+GOA0217,Goa,Colva,Cottage,3,2,68,4.99,0.49,0.87,0.22,3.0,16.5,73,AC|Yoga Deck|BBQ|Garden|Hammock,8513,92846,9.17,97,15.4579,73.8217
+GOA0218,Goa,Colva,Apartment,1,1,34,3.5,0.6,0.81,0.45,1.7,16.5,9,Hammock|Outdoor Shower|BBQ|Beach Access|AC,5212,63693,8.18,83,15.1805,73.7639
+GOA0219,Goa,Morjim,Homestay,2,2,39,3.93,0.65,0.9,0.47,2.9,40.3,267,WiFi|Yoga Deck|Beach Access|Garden,6477,68113,9.51,93,15.2283,73.7451
+GOA0220,Goa,Panaji,Homestay,4,5,43,4.45,0.5,0.74,0.33,0.9,23.1,216,Hammock|Garden|Yoga Deck|Outdoor Shower|BBQ|WiFi,5493,63924,8.59,92,15.8893,73.7219
+GOA0221,Goa,Candolim,Beach Hut,4,5,57,4.22,0.52,0.83,0.29,2.2,42.5,159,Hammock|Parking|BBQ,7573,90451,8.37,87,15.7051,74.0402
+GOA0222,Goa,Calangute,Beach Hut,3,3,58,4.74,0.51,0.78,0.32,1.0,16.4,278,Outdoor Shower|Yoga Deck|BBQ|Beach Access,7558,83430,9.06,96,15.8616,73.8251
+GOA0223,Goa,Baga,Apartment,5,4,73,4.29,0.43,0.71,0.23,0.7,22.3,198,Pool|Parking|BBQ|Beach Access|AC|Hammock|WiFi,8020,88476,9.06,93,15.6997,73.9958
+GOA0224,Goa,Candolim,Beach Hut,1,2,35,4.0,0.58,0.78,0.43,0.2,36.8,158,WiFi|Beach Access|Garden|Parking|AC|Yoga Deck,5187,52018,9.97,100,15.3771,73.7524
+GOA0225,Goa,Anjuna,Cottage,1,2,65,4.9,0.62,0.91,0.41,1.5,44.0,200,Parking|Pool|Beach Access|BBQ|Garden|Hammock|Outdoor Shower,10297,114876,8.96,98,15.8658,73.7861
+GOA0226,Goa,Baga,Cottage,2,2,72,3.8,0.55,0.75,0.4,1.2,8.6,170,Garden|Beach Access|Pool|Parking|AC|BBQ|Yoga Deck,10118,122125,8.28,85,15.4115,74.0674
+GOA0227,Goa,Arambol,Beach Hut,2,1,60,3.73,0.56,0.79,0.39,0.5,41.6,38,BBQ|Outdoor Shower|Beach Access|Hammock,8585,104318,8.23,88,15.067,73.7485
+GOA0228,Goa,Arambol,Cottage,2,1,69,4.86,0.5,0.75,0.32,1.4,7.9,161,Outdoor Shower|Beach Access|Parking|AC|Yoga Deck,8815,99884,8.83,95,15.1268,74.0726
+GOA0229,Goa,Panaji,Cottage,5,6,99,4.67,0.47,0.7,0.3,1.9,41.4,207,AC|WiFi|Pool|Garden|BBQ|Beach Access,11888,126150,9.42,95,15.5339,73.7288
+GOA0230,Goa,Panaji,Cottage,5,5,99,4.94,0.51,0.72,0.36,0.9,12.2,236,Beach Access|Yoga Deck|BBQ|AC|Pool|Hammock|Parking,12900,140261,9.2,99,15.4781,74.0832
+GOA0231,Goa,Palolem,Apartment,4,5,77,3.62,0.53,0.86,0.3,2.6,12.7,224,Outdoor Shower|WiFi|Parking|AC,10427,114342,9.12,86,15.0911,74.0075
+GOA0232,Goa,Morjim,Beach Hut,2,3,51,4.65,0.49,0.75,0.3,1.4,42.3,37,Garden|Outdoor Shower|Pool|Yoga Deck|BBQ|Parking|AC,6385,77233,8.27,90,15.1069,73.8433
+GOA0233,Goa,Candolim,Beach Hut,4,5,52,4.26,0.62,0.82,0.47,2.8,24.7,261,Hammock|Garden|BBQ,8237,89391,9.21,94,15.7962,74.0227
+GOA0234,Goa,Palolem,Beach Hut,4,3,44,3.98,0.5,0.81,0.27,0.6,30.7,40,WiFi|BBQ|Pool|Yoga Deck|Beach Access,5621,56682,9.92,96,15.1625,73.7209
+GOA0235,Goa,Morjim,Beach Hut,3,4,59,4.7,0.58,0.91,0.34,1.3,13.0,72,WiFi|Outdoor Shower|Pool|Beach Access|Parking|BBQ,8743,106429,8.21,93,15.1154,73.8167
+GOA0236,Goa,Palolem,Beach Hut,4,4,48,4.07,0.61,0.93,0.38,1.3,6.9,227,Garden|BBQ|WiFi,7481,90344,8.28,88,15.1103,73.9264
+GOA0237,Goa,Vagator,Beach Hut,3,2,75,3.56,0.56,0.8,0.39,2.1,17.8,66,Pool|Garden|Parking|Beach Access,10731,122528,8.76,85,14.9935,73.8708
+GOA0238,Goa,Colva,Beach Hut,2,1,31,4.92,0.52,0.82,0.3,2.3,17.4,186,AC|Parking|Beach Access,4119,45748,9.0,96,15.712,74.0469
+GOA0239,Goa,Vagator,Cottage,1,2,83,3.57,0.6,0.84,0.43,0.5,40.3,202,WiFi|Beach Access|Pool|Outdoor Shower|Hammock|AC|BBQ,12724,133706,9.52,94,14.9201,74.0011
+GOA0240,Goa,Baga,Beach Hut,1,2,32,4.17,0.55,0.7,0.45,1.1,32.1,130,Pool|Outdoor Shower|WiFi,4497,50374,8.93,92,15.6026,74.0824
+GOA0241,Goa,Palolem,Cottage,2,1,65,4.1,0.62,0.94,0.39,0.9,38.7,175,Outdoor Shower|Pool|BBQ,10297,105864,9.73,97,15.2622,73.9642
+GOA0242,Goa,Candolim,Villa,2,1,157,3.8,0.48,0.85,0.22,1.3,22.4,58,Parking|Pool|Outdoor Shower|AC,19254,215928,8.92,87,15.6487,74.0312
+GOA0243,Goa,Palolem,Apartment,5,6,97,3.56,0.52,0.75,0.36,2.8,38.7,64,Yoga Deck|WiFi|Outdoor Shower|BBQ,12887,152781,8.43,82,15.2032,73.8718
+GOA0244,Goa,Candolim,Cottage,1,1,57,3.74,0.58,0.71,0.48,0.8,8.3,9,Parking|Pool|Outdoor Shower|Hammock|Yoga Deck,8447,88974,9.49,93,15.8285,73.9319
+GOA0245,Goa,Arambol,Cottage,4,3,122,4.87,0.56,0.79,0.39,0.2,38.2,37,AC|Hammock|Pool,17456,181805,9.6,100,15.6668,73.8403
+GOA0246,Goa,Candolim,Beach Hut,3,4,50,4.3,0.45,0.7,0.27,0.7,37.2,169,Garden|BBQ|Parking|Beach Access|Pool|AC,5749,60690,9.47,95,15.1797,73.7766
+GOA0247,Goa,Arambol,Cottage,3,2,99,4.8,0.45,0.76,0.22,1.1,27.0,232,Beach Access|Garden|Hammock|Pool|AC,11383,132742,8.58,93,15.7168,74.0838
+GOA0248,Goa,Arambol,Homestay,2,3,46,4.41,0.46,0.82,0.21,3.0,11.1,222,Pool|WiFi|Yoga Deck|AC|Beach Access|Parking|Garden,5406,58667,9.21,92,15.5667,73.8137
+GOA0249,Goa,Candolim,Homestay,1,1,30,4.38,0.6,0.81,0.45,0.8,26.5,80,Hammock|Beach Access|AC|Garden,4599,50575,9.09,96,15.5636,74.0136
+GOA0250,Goa,Arambol,Cottage,1,1,65,4.47,0.59,0.74,0.48,1.2,5.8,150,Beach Access|Hammock|Parking|Yoga Deck|Outdoor Shower|Pool|WiFi,9798,113864,8.61,93,15.1052,73.8948
+GOA0251,Goa,Calangute,Cottage,3,3,105,4.29,0.59,0.93,0.35,1.5,37.1,130,WiFi|BBQ|Pool|Hammock,15828,162492,9.74,97,15.147,74.0598
+GOA0252,Goa,Candolim,Homestay,4,5,56,4.91,0.58,0.83,0.4,2.3,29.0,38,Parking|Beach Access|Pool|BBQ|WiFi,8299,85406,9.72,100,14.9343,73.899
+GOA0253,Goa,Candolim,Villa,2,1,137,3.77,0.52,0.79,0.33,1.9,25.1,262,Garden|Parking|WiFi|Yoga Deck,18202,185031,9.84,91,15.0826,73.9296
+GOA0254,Goa,Anjuna,Beach Hut,4,4,81,4.34,0.54,0.88,0.3,2.3,24.4,130,WiFi|Yoga Deck|Outdoor Shower|Garden,11176,122508,9.12,92,15.5481,73.7073
+GOA0255,Goa,Baga,Apartment,5,5,93,4.43,0.46,0.78,0.23,0.3,32.6,206,AC|Beach Access|Garden|Parking,10930,131724,8.3,96,15.0271,73.8427
+GOA0256,Goa,Arambol,Cottage,4,4,119,4.75,0.45,0.71,0.27,2.7,13.1,198,BBQ|Outdoor Shower|Parking|Yoga Deck|WiFi|Pool,13682,137099,9.98,98,15.859,73.9454
+GOA0257,Goa,Arambol,Villa,3,4,201,3.6,0.45,0.71,0.27,2.7,33.8,235,Parking|BBQ|Yoga Deck|Beach Access|WiFi|Hammock|Outdoor Shower,23110,252459,9.15,85,15.8183,73.8632
+GOA0258,Goa,Baga,Beach Hut,5,6,55,4.28,0.64,0.93,0.44,0.2,27.9,82,Garden|Hammock|Parking|BBQ|WiFi|Yoga Deck,8994,103782,8.67,100,15.8075,73.749
+GOA0259,Goa,Candolim,Villa,1,2,130,4.82,0.53,0.8,0.34,0.3,18.0,194,Beach Access|Outdoor Shower|BBQ|WiFi|Hammock,17604,186921,9.42,100,15.8451,73.8131
+GOA0260,Goa,Arambol,Beach Hut,3,4,61,4.51,0.51,0.74,0.35,2.2,30.1,102,Garden|Outdoor Shower|Pool|Beach Access|WiFi|AC|Yoga Deck,7949,94803,8.38,90,15.5691,73.7505
+GOA0261,Goa,Arambol,Apartment,3,4,102,3.7,0.53,0.89,0.28,2.8,35.2,127,Hammock|Pool|Outdoor Shower|WiFi|Yoga Deck|Garden,13812,160218,8.62,84,15.1191,73.8772
+GOA0262,Goa,Morjim,Villa,3,4,251,4.65,0.59,0.73,0.49,2.7,37.9,78,Parking|AC|Beach Access,37837,401102,9.43,97,15.4183,73.8847
+GOA0263,Goa,Baga,Cottage,5,6,93,4.37,0.55,0.88,0.32,1.9,33.4,199,Pool|Garden|BBQ|Hammock,13069,151000,8.65,91,14.952,74.0439
+GOA0264,Goa,Arambol,Homestay,1,2,33,3.89,0.52,0.76,0.34,2.7,35.0,157,Outdoor Shower|Parking|Yoga Deck|BBQ,4384,47526,9.22,89,14.9968,73.8904
+GOA0265,Goa,Colva,Homestay,4,5,47,4.66,0.52,0.75,0.35,0.7,36.2,179,Outdoor Shower|Garden|BBQ|Hammock|AC,6244,68123,9.17,98,15.6712,73.7912
+GOA0266,Goa,Vagator,Apartment,2,3,98,4.39,0.53,0.79,0.35,1.8,24.5,52,AC|Pool|Parking|Outdoor Shower|WiFi|BBQ,13271,149222,8.89,92,15.4049,73.7706
+GOA0267,Goa,Anjuna,Beach Hut,5,5,98,4.31,0.56,0.73,0.43,2.8,19.8,71,Outdoor Shower|Parking|BBQ|Beach Access|Garden,14022,169738,8.26,88,15.0355,73.9074
+GOA0268,Goa,Candolim,Beach Hut,2,3,37,4.9,0.48,0.75,0.28,1.2,36.8,105,Beach Access|WiFi|Parking,4538,49244,9.22,97,15.3563,73.7683
+GOA0269,Goa,Calangute,Cottage,2,2,70,4.26,0.53,0.74,0.38,1.7,42.5,196,Beach Access|Garden|Parking|Pool|Yoga Deck|Outdoor Shower,9479,109845,8.63,90,15.8123,74.0784
+GOA0270,Goa,Anjuna,Apartment,1,1,57,3.7,0.6,0.78,0.47,2.9,9.4,251,Yoga Deck|WiFi|Beach Access,8738,104066,8.4,85,15.8474,73.8693
+GOA0271,Goa,Anjuna,Villa,1,1,132,4.16,0.51,0.71,0.36,1.0,29.5,111,Yoga Deck|Pool|Garden,17200,190096,9.05,92,15.7688,73.9648
+GOA0272,Goa,Colva,Villa,4,5,173,4.73,0.53,0.93,0.24,1.6,6.9,175,AC|Beach Access|BBQ|Outdoor Shower|Parking|Yoga Deck|WiFi,23427,249082,9.41,97,15.5685,74.0451
+GOA0273,Goa,Palolem,Apartment,3,2,58,4.72,0.65,0.91,0.47,0.8,17.8,54,Outdoor Shower|Yoga Deck|Pool|Parking|BBQ,9632,115669,8.33,96,15.4523,73.7202
+GOA0274,Goa,Calangute,Beach Hut,4,5,54,4.58,0.5,0.81,0.28,0.6,5.0,130,Pool|Garden|AC|Hammock,6898,79250,8.7,95,15.7059,73.7317
+GOA0275,Goa,Palolem,Beach Hut,5,6,55,4.08,0.52,0.82,0.31,1.0,30.7,11,BBQ|Outdoor Shower|WiFi|Pool|Hammock|Parking,7307,88722,8.24,87,14.9234,73.8721
+GOA0276,Goa,Palolem,Villa,3,4,197,3.95,0.55,0.72,0.43,1.8,7.1,181,WiFi|Beach Access|Outdoor Shower|Hammock|AC|Pool,27683,311914,8.88,89,15.0405,73.949
+GOA0277,Goa,Arambol,Beach Hut,1,2,37,4.26,0.52,0.84,0.29,2.8,33.9,261,AC|WiFi|Parking|Outdoor Shower|Yoga Deck|Hammock,4916,58363,8.42,88,14.978,73.7425
+GOA0278,Goa,Calangute,Cottage,4,3,105,3.74,0.54,0.94,0.25,1.5,30.6,249,BBQ|Beach Access|Parking|WiFi|Pool,14487,156592,9.25,89,15.029,73.8721
+GOA0279,Goa,Colva,Cottage,2,1,52,4.83,0.57,0.71,0.47,2.5,36.6,17,Garden|Yoga Deck|Outdoor Shower|Hammock,7573,80738,9.38,98,14.9312,74.0867
+GOA0280,Goa,Vagator,Apartment,4,4,117,3.95,0.46,0.79,0.22,3.0,31.2,72,AC|Beach Access|Garden|Hammock,13751,138711,9.91,91,15.3427,74.0796
+GOA0281,Goa,Colva,Beach Hut,1,2,26,4.3,0.58,0.82,0.41,0.3,13.6,198,WiFi|Garden|Hammock|Yoga Deck|Beach Access,3853,40189,9.59,100,15.6382,73.7757
+GOA0282,Goa,Colva,Beach Hut,2,1,37,3.82,0.66,0.92,0.48,1.6,14.4,177,Garden|AC|Yoga Deck|Pool|Outdoor Shower,6239,67275,9.27,92,14.9498,73.8074
+GOA0283,Goa,Panaji,Cottage,1,2,47,4.3,0.58,0.94,0.32,2.1,25.5,3,Parking|Hammock|Outdoor Shower|AC|BBQ,6965,77224,9.02,93,15.1678,73.882
+GOA0284,Goa,Baga,Villa,5,6,222,4.56,0.57,0.94,0.3,0.2,26.8,189,Outdoor Shower|Yoga Deck|Hammock|BBQ,32331,358967,9.01,100,15.0684,74.0042
+GOA0285,Goa,Vagator,Homestay,5,6,90,4.92,0.58,0.75,0.46,2.1,26.6,238,Garden|Outdoor Shower|Pool|AC,13337,146821,9.08,98,15.7496,73.8921
+GOA0286,Goa,Palolem,Cottage,3,2,72,4.24,0.5,0.84,0.26,2.7,30.3,166,Beach Access|Parking|AC|Garden|Hammock|Pool,9198,105760,8.7,89,14.9995,73.9417
+GOA0287,Goa,Baga,Homestay,1,1,22,3.62,0.53,0.83,0.32,1.8,22.2,173,Beach Access|WiFi|Yoga Deck|Parking|Hammock|BBQ|Pool,2979,30381,9.81,90,15.0748,74.0948
+GOA0288,Goa,Vagator,Cottage,2,3,98,4.53,0.46,0.78,0.23,2.9,22.0,156,Parking|Beach Access|Outdoor Shower,11518,122507,9.4,93,15.5499,73.7099
+GOA0289,Goa,Vagator,Villa,5,5,379,4.3,0.45,0.77,0.22,0.5,32.4,203,Outdoor Shower|Beach Access|Hammock|Yoga Deck|WiFi,43576,522431,8.34,91,15.1499,73.7262
+GOA0290,Goa,Anjuna,Homestay,3,3,57,4.36,0.51,0.8,0.31,0.7,43.8,168,BBQ|Outdoor Shower|Garden|Beach Access,7427,85322,8.7,93,15.0757,73.9388
+GOA0291,Goa,Panaji,Villa,3,3,141,4.17,0.58,0.76,0.45,1.5,17.2,250,Yoga Deck|Parking|Beach Access|Hammock,20895,234182,8.92,92,15.0818,73.7344
+GOA0292,Goa,Baga,Cottage,2,1,69,3.79,0.55,0.87,0.32,1.3,19.7,78,Pool|Hammock|Garden|BBQ,9696,107069,9.06,89,15.0006,73.8239
+GOA0293,Goa,Arambol,Beach Hut,2,1,55,4.5,0.52,0.77,0.34,0.6,5.9,29,Hammock|Beach Access|Parking,7307,76486,9.55,99,15.7967,73.7843
+GOA0294,Goa,Anjuna,Homestay,3,4,47,3.92,0.53,0.73,0.39,0.3,30.8,206,Parking|Outdoor Shower|WiFi|Pool|BBQ|Garden,6365,65548,9.71,100,15.2397,73.9832
+GOA0295,Goa,Morjim,Apartment,5,4,125,3.88,0.49,0.86,0.23,1.6,15.7,191,Garden|Beach Access|Outdoor Shower|Parking|Hammock|WiFi,15649,171692,9.11,88,15.504,74.0485
+GOA0296,Goa,Calangute,Villa,1,1,168,4.41,0.49,0.8,0.27,0.8,19.7,14,Beach Access|BBQ|WiFi,21033,232740,9.04,94,15.8138,73.8473
+GOA0297,Goa,Panaji,Homestay,5,5,40,4.08,0.61,0.91,0.4,1.9,37.7,225,Garden|Parking|Outdoor Shower|WiFi|Hammock,6234,66969,9.31,93,14.9384,74.0483
+GOA0298,Goa,Baga,Homestay,2,1,32,4.1,0.58,0.82,0.4,0.1,22.9,13,Garden|BBQ|Parking|WiFi|Hammock,4742,56604,8.38,100,15.243,73.7553
+GOA0299,Goa,Arambol,Homestay,5,6,63,4.24,0.57,0.8,0.4,1.3,29.0,95,Garden|BBQ|Yoga Deck|Outdoor Shower|Beach Access|Pool,9175,111352,8.24,89,15.7075,73.7437
+GOA0300,Goa,Panaji,Cottage,1,2,42,4.01,0.62,0.84,0.46,0.3,39.0,85,Hammock|Garden|Pool|BBQ|AC|Outdoor Shower,6653,67603,9.84,100,15.1129,73.9675
+GOA0301,Goa,Anjuna,Homestay,3,2,54,4.75,0.44,0.73,0.24,1.7,21.6,189,Garden|BBQ|AC,6071,73478,8.26,90,15.2269,73.9427
+GOA0302,Goa,Colva,Cottage,4,5,93,4.76,0.52,0.95,0.21,0.4,37.8,268,WiFi|AC|Pool,12356,140295,8.81,100,15.1852,73.7957
+GOA0303,Goa,Baga,Homestay,4,3,49,3.58,0.53,0.79,0.35,1.7,19.2,53,Beach Access|Hammock|BBQ|AC|Outdoor Shower|Yoga Deck|Garden,6635,77093,8.61,84,15.5127,73.9342
+GOA0304,Goa,Calangute,Cottage,1,1,64,4.46,0.45,0.76,0.23,0.4,25.0,113,AC|WiFi|Parking|Yoga Deck,7358,77252,9.52,100,15.7404,73.9805
+GOA0305,Goa,Panaji,Apartment,3,2,63,4.03,0.52,0.8,0.32,0.6,28.6,236,Outdoor Shower|Garden|AC|Parking|WiFi|BBQ|Hammock,8370,84839,9.87,97,15.8892,73.7667
+GOA0306,Goa,Anjuna,Apartment,4,5,88,4.67,0.58,0.76,0.45,2.1,21.4,140,BBQ|WiFi|Garden|Hammock,13041,157816,8.26,92,15.562,73.8859
+GOA0307,Goa,Candolim,Apartment,5,6,101,4.17,0.52,0.75,0.35,1.6,34.4,197,Yoga Deck|Parking|Outdoor Shower|Beach Access|Garden|BBQ|WiFi,13419,158362,8.47,88,15.5638,73.7454
+GOA0308,Goa,Calangute,Homestay,2,1,42,4.25,0.66,0.92,0.48,0.2,6.5,211,Garden|BBQ|Yoga Deck|Hammock|AC,7082,83735,8.46,100,15.2672,73.9169
+GOA0309,Goa,Anjuna,Apartment,1,1,55,4.62,0.44,0.7,0.25,1.8,41.7,53,AC|Parking|WiFi|BBQ|Pool,6183,71646,8.63,91,15.6055,73.9687
+GOA0310,Goa,Arambol,Cottage,4,3,110,3.5,0.51,0.73,0.36,2.0,34.2,253,Parking|BBQ|AC,14334,156637,9.15,85,15.4219,73.7297
+GOA0311,Goa,Anjuna,Homestay,3,4,47,4.76,0.64,0.88,0.47,0.4,13.4,165,AC|BBQ|Yoga Deck|Beach Access|Pool|Hammock|Garden,7685,93761,8.2,99,14.9118,74.099
+GOA0312,Goa,Arambol,Cottage,3,4,90,4.5,0.52,0.74,0.37,2.7,31.8,265,BBQ|Outdoor Shower|Beach Access|AC|Garden|Parking|Pool,11957,128078,9.34,94,15.0879,73.9499
+GOA0313,Goa,Vagator,Cottage,2,2,90,3.82,0.47,0.78,0.25,2.7,14.8,237,AC|Pool|Hammock|Beach Access|Garden|Yoga Deck|WiFi,10808,117620,9.19,87,15.3484,73.8282
+GOA0314,Goa,Vagator,Beach Hut,3,3,78,4.96,0.61,0.81,0.46,1.7,32.6,47,AC|Yoga Deck|Outdoor Shower|BBQ|Hammock|Garden|Parking,12157,125818,9.66,100,15.4134,73.9602
+GOA0315,Goa,Baga,Beach Hut,3,2,55,4.16,0.64,0.93,0.43,1.5,18.0,87,Garden|WiFi|Yoga Deck,8994,101996,8.82,92,15.8836,73.9669
+GOA0316,Goa,Panaji,Villa,1,2,81,3.99,0.49,0.86,0.22,0.1,18.3,263,BBQ|Beach Access|Pool|WiFi|Hammock,10141,111552,9.09,100,15.3383,73.8051
+GOA0317,Goa,Vagator,Beach Hut,4,5,71,4.53,0.5,0.83,0.26,1.0,7.9,276,Garden|Outdoor Shower|Pool|AC|Yoga Deck|Beach Access|WiFi,9070,102628,8.84,93,15.0475,73.7293
+GOA0318,Goa,Palolem,Cottage,5,6,112,4.63,0.61,0.89,0.41,2.0,30.7,41,Pool|Beach Access|Parking|Hammock|AC|Garden|Outdoor Shower,17456,193063,9.04,96,14.9384,73.9486
+GOA0319,Goa,Palolem,Cottage,5,5,111,4.25,0.49,0.79,0.28,1.9,39.8,90,Outdoor Shower|Beach Access|Yoga Deck,13897,160365,8.67,89,15.2423,74.0079
+GOA0320,Goa,Palolem,Villa,3,4,175,4.82,0.56,0.83,0.36,1.8,43.6,250,BBQ|Garden|AC|Parking,25039,292084,8.57,94,14.9736,73.7214
+GOA0321,Goa,Baga,Apartment,2,1,66,4.29,0.55,0.85,0.34,0.3,34.9,252,Outdoor Shower|WiFi|AC|Hammock|Beach Access|Pool|BBQ,9275,108581,8.54,98,15.2117,73.8225
+GOA0322,Goa,Calangute,Apartment,1,2,62,3.61,0.55,0.92,0.28,1.8,32.1,98,Hammock|AC|Yoga Deck|Pool|Outdoor Shower|Parking,8713,105253,8.28,83,15.3144,73.9758
+GOA0323,Goa,Arambol,Apartment,1,1,55,3.92,0.65,0.95,0.43,2.0,7.0,213,Beach Access|WiFi|Garden|AC|Outdoor Shower|Yoga Deck,9134,98552,9.27,92,14.9311,73.9217
+GOA0324,Goa,Anjuna,Beach Hut,1,1,50,4.31,0.5,0.91,0.21,1.1,22.9,189,WiFi|Beach Access|Outdoor Shower|Parking|BBQ,6388,67245,9.5,95,14.9724,74.0817
+GOA0325,Goa,Arambol,Cottage,5,5,116,4.88,0.63,0.81,0.5,1.7,5.2,74,Beach Access|Yoga Deck|Parking,18672,225343,8.29,95,15.6482,74.0612
+GOA0326,Goa,Palolem,Beach Hut,1,1,28,3.64,0.62,0.81,0.48,1.7,10.6,71,Garden|WiFi|AC|Pool,4435,49548,8.95,88,14.9008,74.0241
+GOA0327,Goa,Arambol,Beach Hut,3,2,52,4.45,0.54,0.93,0.26,2.0,29.2,218,WiFi|Beach Access|AC|Pool,7174,72995,9.83,97,15.0639,73.9944
+GOA0328,Goa,Morjim,Homestay,4,5,57,4.2,0.5,0.85,0.25,2.2,31.5,59,Hammock|Outdoor Shower|BBQ|Garden,7282,77717,9.37,92,15.0583,73.9752
+GOA0329,Goa,Anjuna,Villa,2,1,172,4.14,0.56,0.76,0.42,0.8,40.7,178,BBQ|Pool|WiFi|Yoga Deck|Hammock,24610,294320,8.36,90,15.0964,73.9455
+GOA0330,Goa,Arambol,Homestay,1,1,28,4.09,0.6,0.88,0.4,1.9,20.1,81,AC|Yoga Deck|Beach Access|Pool|WiFi|Garden,4292,45615,9.41,93,15.0029,73.9876
+GOA0331,Goa,Colva,Cottage,2,2,58,4.56,0.49,0.76,0.3,1.0,18.6,104,AC|WiFi|Outdoor Shower,7261,73025,9.94,99,15.7033,74.0589
+GOA0332,Goa,Morjim,Villa,5,6,317,4.18,0.56,0.71,0.46,0.1,24.6,70,WiFi|Parking|Yoga Deck|Pool,45356,548782,8.26,100,15.2419,74.0697
+GOA0333,Goa,Arambol,Villa,3,2,180,4.37,0.51,0.84,0.27,1.3,34.1,29,Outdoor Shower|Pool|WiFi|BBQ,23455,268547,8.73,91,14.9007,74.0747
+GOA0334,Goa,Arambol,Beach Hut,5,5,70,3.85,0.44,0.77,0.21,0.4,17.6,34,WiFi|Hammock|Outdoor Shower|Yoga Deck,7869,95938,8.2,88,15.0153,73.7428
+GOA0335,Goa,Colva,Beach Hut,1,1,32,4.78,0.44,0.76,0.21,0.7,9.1,182,AC|Hammock|Yoga Deck,3597,36422,9.88,100,15.3315,73.792
+GOA0336,Goa,Arambol,Cottage,3,2,99,3.88,0.67,0.94,0.47,1.7,20.2,167,Pool|Yoga Deck|BBQ|Hammock,16947,182818,9.27,93,15.3119,73.991
+GOA0337,Goa,Candolim,Apartment,4,4,83,4.79,0.57,0.94,0.3,1.7,13.0,158,Garden|Outdoor Shower|Parking|Beach Access|WiFi|BBQ|AC,12088,123433,9.79,100,15.3135,73.7825
+GOA0338,Goa,Anjuna,Villa,1,2,188,3.74,0.56,0.81,0.38,2.1,39.8,124,Parking|Hammock|BBQ|Beach Access|Yoga Deck|AC|Outdoor Shower,26899,291888,9.22,89,15.4683,73.8758
+GOA0339,Goa,Baga,Cottage,5,5,83,4.2,0.6,0.91,0.38,2.5,9.7,24,Garden|Parking|Yoga Deck,12724,141208,9.01,92,14.9136,73.8213
+GOA0340,Goa,Panaji,Cottage,2,3,59,4.69,0.53,0.77,0.35,1.3,14.3,106,Garden|Yoga Deck|Hammock|Parking|Beach Access|WiFi,7989,87178,9.16,96,15.0364,73.7787
+GOA0341,Goa,Colva,Cottage,1,1,38,3.8,0.52,0.7,0.39,1.0,12.7,180,Outdoor Shower|BBQ|AC|Yoga Deck,5049,61409,8.22,85,15.2458,73.8431
+GOA0342,Goa,Palolem,Beach Hut,1,1,26,4.76,0.58,0.71,0.48,2.7,26.7,88,Beach Access|Outdoor Shower|Pool,3853,43115,8.94,95,15.5538,73.8548
+GOA0343,Goa,Panaji,Apartment,2,2,50,3.57,0.49,0.71,0.34,1.7,9.2,206,Yoga Deck|Pool|WiFi,6260,74951,8.35,82,15.7226,73.784
+GOA0344,Goa,Morjim,Homestay,5,4,67,3.97,0.48,0.8,0.25,1.5,22.7,202,Beach Access|BBQ|Outdoor Shower|AC,8217,96808,8.49,86,15.3906,74.0395
+GOA0345,Goa,Arambol,Homestay,3,2,53,4.24,0.59,0.76,0.47,1.8,15.8,7,Pool|Parking|WiFi|AC,7989,83816,9.53,95,15.7031,73.7177
+GOA0346,Goa,Colva,Beach Hut,5,6,67,3.7,0.56,0.9,0.32,1.5,21.5,90,AC|Yoga Deck|WiFi|Parking|Hammock|Outdoor Shower|Pool,9586,114620,8.36,85,15.4375,73.7197
+GOA0347,Goa,Candolim,Villa,5,4,198,3.87,0.5,0.87,0.24,0.4,30.9,29,Pool|Parking|AC|Garden|BBQ,25294,276040,9.16,94,15.6121,73.7714
+GOA0348,Goa,Candolim,Cottage,5,4,92,4.91,0.59,0.77,0.46,2.6,11.8,45,Hammock|Yoga Deck|BBQ,13869,162499,8.53,95,15.7218,74.0077
+GOA0349,Goa,Colva,Apartment,2,2,52,4.01,0.46,0.77,0.24,1.6,19.4,146,AC|Hammock|Pool|BBQ|Beach Access|Parking|Garden,6112,69069,8.85,87,15.3754,73.8454
+GOA0350,Goa,Vagator,Apartment,1,2,72,4.85,0.49,0.74,0.31,0.5,34.2,229,Garden|Outdoor Shower|AC|BBQ|Hammock|Beach Access|Yoga Deck,9014,102658,8.78,98,15.8319,73.8115
+GOA0351,Goa,Candolim,Apartment,3,2,86,3.59,0.48,0.85,0.22,2.7,31.8,78,Outdoor Shower|Parking|Beach Access|Garden|Hammock|WiFi|BBQ,10547,117888,8.95,84,15.7316,73.7601
+GOA0352,Goa,Morjim,Villa,4,3,226,4.82,0.47,0.78,0.24,1.4,6.2,147,Parking|Yoga Deck|WiFi|AC|Beach Access|Garden,27139,307473,8.83,94,15.1749,73.7131
+GOA0353,Goa,Calangute,Apartment,2,1,65,4.84,0.62,0.95,0.39,0.5,25.6,128,Yoga Deck|WiFi|Garden|Beach Access|Pool|BBQ,10297,123698,8.32,99,15.0537,74.0687
+GOA0354,Goa,Morjim,Beach Hut,1,2,50,4.6,0.52,0.88,0.26,0.7,13.8,9,Parking|Pool|Garden|WiFi|Outdoor Shower|BBQ|AC,6643,76591,8.67,95,15.3387,74.0128
+GOA0355,Goa,Calangute,Cottage,2,1,86,4.18,0.64,0.9,0.45,2.0,16.0,280,Parking|Pool|BBQ|Outdoor Shower|Beach Access,14063,147769,9.52,95,15.2148,73.7467
+GOA0356,Goa,Palolem,Villa,2,1,131,3.81,0.61,0.81,0.47,0.4,32.5,82,Yoga Deck|Beach Access|Parking|BBQ|Outdoor Shower|WiFi,20417,236849,8.62,93,14.9958,74.069
+GOA0357,Goa,Candolim,Villa,5,6,254,4.05,0.53,0.89,0.28,2.1,38.6,55,BBQ|Garden|Pool|Outdoor Shower|Beach Access,34395,346985,9.91,94,15.3482,73.9547
+GOA0358,Goa,Colva,Apartment,1,2,36,4.52,0.57,0.89,0.34,1.9,40.8,200,Parking|Pool|WiFi|BBQ|Garden|Beach Access,5243,57747,9.08,95,15.3979,74.0367
+GOA0359,Goa,Vagator,Apartment,3,2,112,4.12,0.5,0.76,0.32,2.5,26.0,147,Garden|Beach Access|Parking|Pool|Yoga Deck|Outdoor Shower,14308,150318,9.52,92,15.7061,73.8414
+GOA0360,Goa,Palolem,Villa,5,5,238,3.87,0.56,0.73,0.44,0.3,39.2,80,Hammock|Garden|Pool,34053,361066,9.43,99,15.2465,74.0892
+GOA0361,Goa,Vagator,Beach Hut,5,5,112,3.9,0.54,0.71,0.41,1.4,33.3,181,Parking|Outdoor Shower|Yoga Deck|Hammock|BBQ|Beach Access|AC,15453,157990,9.78,93,14.9312,74.0481
+GOA0362,Goa,Anjuna,Apartment,4,5,92,3.69,0.59,0.74,0.49,2.1,20.9,78,AC|Garden|Pool|Outdoor Shower|BBQ,13869,163388,8.49,85,15.2363,73.7938
+GOA0363,Goa,Palolem,Cottage,4,4,87,4.33,0.52,0.86,0.28,2.8,43.6,49,Garden|Yoga Deck|Outdoor Shower|Hammock|Parking|BBQ,11559,119951,9.64,94,14.9149,73.8925
+GOA0364,Goa,Palolem,Cottage,2,2,60,4.17,0.54,0.84,0.33,1.3,32.4,214,Hammock|Beach Access|Outdoor Shower|WiFi|Yoga Deck,8278,96259,8.6,89,15.7333,73.8
+GOA0365,Goa,Panaji,Apartment,2,3,50,4.38,0.53,0.79,0.35,1.0,13.6,276,Outdoor Shower|Yoga Deck|Beach Access|AC,6771,69844,9.69,97,15.0055,73.9732
+GOA0366,Goa,Morjim,Homestay,5,4,75,4.93,0.5,0.88,0.22,2.7,22.7,188,Garden|Outdoor Shower|WiFi|Hammock|Pool|Yoga Deck,9581,114177,8.39,93,15.4859,74.0904
+GOA0367,Goa,Calangute,Cottage,1,1,63,4.86,0.45,0.72,0.26,1.4,37.6,153,Beach Access|Parking|Garden|Pool|BBQ|Hammock|Yoga Deck,7243,81842,8.85,94,15.8883,73.8555
+GOA0368,Goa,Morjim,Cottage,5,5,115,4.7,0.51,0.85,0.26,1.5,35.8,73,WiFi|Yoga Deck|Pool|Hammock,14985,174569,8.58,93,15.3996,73.8221
+GOA0369,Goa,Anjuna,Cottage,4,5,147,4.5,0.5,0.8,0.28,2.2,11.9,57,Outdoor Shower|Hammock|Pool,18779,197897,9.49,95,15.4298,73.816
+GOA0370,Goa,Panaji,Villa,4,5,177,3.68,0.52,0.86,0.28,0.1,42.3,43,Pool|Parking|Hammock|Garden,23516,241793,9.73,100,15.7674,73.7934
+GOA0371,Goa,Candolim,Villa,1,2,143,4.41,0.57,0.94,0.31,2.1,20.8,156,Parking|Yoga Deck|Beach Access|Hammock|Garden|AC,20826,211200,9.86,97,15.8638,73.9156
+GOA0372,Goa,Morjim,Beach Hut,3,3,61,3.68,0.59,0.88,0.39,1.2,5.9,33,AC|Garden|Parking,9195,111381,8.26,85,15.2037,74.0684
+GOA0373,Goa,Calangute,Homestay,2,3,36,3.88,0.61,0.83,0.45,0.4,36.8,235,Pool|Outdoor Shower|BBQ|Hammock,5611,67868,8.27,92,15.0813,73.9848
+GOA0374,Goa,Colva,Apartment,5,6,75,4.1,0.66,0.9,0.49,0.4,24.2,270,WiFi|Outdoor Shower|Parking|Beach Access|Pool,12647,138292,9.15,99,15.2763,73.8453
+GOA0375,Goa,Arambol,Cottage,2,2,68,4.53,0.49,0.81,0.26,2.5,24.5,242,Pool|WiFi|Outdoor Shower|Garden|Hammock|AC|Yoga Deck,8513,100313,8.49,90,15.1985,73.9552
+GOA0376,Goa,Morjim,Apartment,4,4,99,3.85,0.49,0.88,0.21,0.3,11.1,141,Pool|Hammock|Outdoor Shower|Garden,12394,124127,9.98,100,14.969,74.0983
+GOA0377,Goa,Anjuna,Villa,1,1,150,3.72,0.6,0.76,0.48,1.6,39.9,36,Hammock|Pool|WiFi|Parking|Garden|AC|BBQ,22995,248592,9.25,90,15.295,73.834
+GOA0378,Goa,Candolim,Homestay,1,1,25,4.07,0.56,0.78,0.4,0.9,7.6,140,BBQ|WiFi|Pool|Garden,3577,40358,8.86,91,15.0913,73.863
+GOA0379,Goa,Anjuna,Homestay,5,4,82,4.07,0.53,0.87,0.28,0.4,17.2,185,Beach Access|Pool|BBQ|Parking|Yoga Deck|Outdoor Shower|Hammock,11104,112484,9.87,100,15.0577,73.7696
+GOA0380,Goa,Baga,Beach Hut,5,4,69,3.52,0.53,0.84,0.31,1.5,17.5,52,Outdoor Shower|Hammock|Parking|BBQ|Yoga Deck,9344,105127,8.89,85,15.1951,73.9934
+GOA0381,Goa,Palolem,Beach Hut,5,4,72,3.79,0.57,0.72,0.47,1.1,19.4,85,Parking|Pool|Outdoor Shower|WiFi|AC|BBQ|Yoga Deck,10486,117707,8.91,89,15.0258,73.9357
+GOA0382,Goa,Vagator,Beach Hut,1,2,49,3.8,0.59,0.81,0.44,1.8,26.9,85,WiFi|Yoga Deck|Parking,7387,75461,9.79,93,15.6027,74.0171
+GOA0383,Goa,Colva,Homestay,5,6,47,3.73,0.6,0.88,0.4,0.1,18.3,23,Hammock|Beach Access|Parking|BBQ|Outdoor Shower|Yoga Deck|WiFi,7205,78643,9.16,100,15.5694,73.7865
+GOA0384,Goa,Arambol,Cottage,2,3,86,4.87,0.65,0.9,0.48,2.9,29.9,47,Garden|Parking|Beach Access|Pool|Outdoor Shower|Yoga Deck|BBQ,14282,143159,9.98,100,15.3128,74.0439
+GOA0385,Goa,Morjim,Villa,4,4,250,4.97,0.61,0.85,0.44,0.3,35.3,189,AC|Parking|Garden|BBQ,38964,405525,9.61,100,14.922,74.0268
+GOA0386,Goa,Palolem,Villa,1,1,94,4.49,0.55,0.79,0.38,2.1,9.3,66,AC|Beach Access|Yoga Deck|Outdoor Shower|WiFi|Garden,13209,142143,9.29,95,14.9696,73.9356
+GOA0387,Goa,Panaji,Beach Hut,1,1,28,4.61,0.54,0.83,0.33,1.2,18.4,265,Outdoor Shower|Yoga Deck|Parking|WiFi|Beach Access,3863,38857,9.94,100,15.876,74.0494
+GOA0388,Goa,Panaji,Apartment,3,2,53,4.38,0.57,0.91,0.33,0.1,25.4,32,BBQ|Beach Access|AC|Hammock|Pool|Yoga Deck,7719,78468,9.84,100,15.8694,73.9773
+GOA0389,Goa,Candolim,Homestay,1,1,24,3.78,0.63,0.89,0.45,1.9,6.1,207,AC|Outdoor Shower|Parking,3863,44162,8.75,88,15.7285,74.0153
+GOA0390,Goa,Anjuna,Cottage,4,4,111,4.56,0.43,0.75,0.21,0.6,18.5,276,Hammock|Beach Access|BBQ,12195,126791,9.62,98,15.3184,73.9034
+GOA0391,Goa,Morjim,Villa,1,1,162,3.91,0.52,0.71,0.38,1.2,39.7,208,Outdoor Shower|Yoga Deck|WiFi,21523,229515,9.38,91,15.6467,74.0431
+GOA0392,Goa,Palolem,Villa,3,3,171,3.7,0.51,0.87,0.26,1.4,38.0,82,Beach Access|WiFi|Yoga Deck|Pool|Parking|BBQ|Outdoor Shower,22282,226039,9.86,91,15.0259,74.0612
+GOA0393,Goa,Morjim,Cottage,2,2,103,4.2,0.6,0.89,0.39,2.4,36.4,112,Pool|Outdoor Shower|Yoga Deck|BBQ|Parking|WiFi|AC,15790,173052,9.12,92,15.3625,74.0764
+GOA0394,Goa,Calangute,Cottage,1,2,62,4.19,0.64,0.9,0.45,1.7,23.7,143,AC|Yoga Deck|Parking|Pool|Garden|Outdoor Shower,10138,105431,9.62,96,15.8681,74.0012
+GOA0395,Goa,Arambol,Villa,3,4,250,3.55,0.57,0.82,0.39,2.5,39.1,30,Outdoor Shower|BBQ|WiFi|Hammock|Parking|Garden,36409,368077,9.89,90,15.4484,73.7789
+GOA0396,Goa,Anjuna,Beach Hut,3,3,62,3.92,0.47,0.83,0.22,0.5,10.3,246,WiFi|Hammock|Outdoor Shower|Yoga Deck,7445,87896,8.47,89,15.1334,73.8813
+GOA0397,Goa,Colva,Cottage,4,4,80,4.65,0.59,0.81,0.44,1.9,11.3,168,Outdoor Shower|Pool|WiFi|BBQ|Hammock|AC|Garden,12060,123631,9.75,99,15.337,73.8588
+GOA0398,Goa,Palolem,Villa,2,2,158,4.37,0.48,0.8,0.25,0.7,21.9,211,Beach Access|Hammock|Garden|Outdoor Shower,19377,218551,8.87,93,15.4149,73.7683
+GOA0399,Goa,Baga,Homestay,1,1,28,4.78,0.52,0.76,0.35,2.9,28.8,99,Beach Access|Garden|Pool|BBQ,3720,39955,9.31,96,14.9902,73.9424
+GOA0400,Goa,Arambol,Homestay,2,3,35,4.94,0.62,0.88,0.44,2.1,23.0,10,WiFi|Hammock|Yoga Deck|Garden|BBQ|AC,5544,62705,8.84,98,15.7584,74.0827
+GOA0401,Goa,Palolem,Apartment,1,1,45,4.9,0.56,0.85,0.36,1.4,5.1,214,BBQ|Garden|Beach Access|Hammock|WiFi,6439,67385,9.56,100,15.1415,73.9039
+GOA0402,Goa,Arambol,Apartment,3,4,82,4.17,0.58,0.95,0.31,1.4,6.9,194,BBQ|Hammock|Garden|Beach Access|WiFi|Yoga Deck,12152,125126,9.71,96,15.6754,73.9283
+GOA0403,Goa,Vagator,Homestay,5,4,83,3.72,0.51,0.84,0.28,0.7,10.2,53,Outdoor Shower|Yoga Deck|AC|BBQ|Hammock|WiFi|Parking,10815,108427,9.97,94,15.2093,73.7468
+GOA0404,Goa,Anjuna,Villa,1,2,196,3.96,0.46,0.73,0.26,1.8,39.5,257,Yoga Deck|Outdoor Shower|Garden,23036,233638,9.86,92,15.8615,73.7987
+GOA0405,Goa,Panaji,Homestay,1,2,22,3.53,0.55,0.86,0.32,0.8,31.2,117,BBQ|Pool|AC|Outdoor Shower|WiFi|Garden,3092,32341,9.56,91,15.3162,73.7719
+GOA0406,Goa,Morjim,Homestay,4,3,66,4.35,0.52,0.91,0.24,2.4,9.6,240,Beach Access|Garden|Hammock|Outdoor Shower,8769,100815,8.7,90,15.5948,73.8766
+GOA0407,Goa,Arambol,Beach Hut,1,1,50,3.71,0.54,0.86,0.31,2.9,43.5,138,BBQ|AC|Yoga Deck|Hammock,6898,74038,9.32,88,15.8015,73.8082
+GOA0408,Goa,Baga,Beach Hut,2,1,45,4.99,0.51,0.76,0.33,1.6,5.6,165,Pool|Yoga Deck|BBQ|Garden|Parking|AC,5864,62483,9.38,99,15.1201,73.8128
+GOA0409,Goa,Palolem,Cottage,5,5,98,3.76,0.62,0.92,0.41,0.3,31.1,204,BBQ|Outdoor Shower|WiFi|AC,15524,177667,8.74,96,15.8562,73.7012
+GOA0410,Goa,Calangute,Homestay,4,3,47,4.89,0.63,0.93,0.42,2.3,25.6,121,Parking|Outdoor Shower|Hammock|AC|Garden|WiFi,7565,77188,9.8,100,15.1316,73.7725
+GOA0411,Goa,Anjuna,Cottage,5,4,157,3.7,0.62,0.82,0.48,0.6,44.8,16,Outdoor Shower|AC|Parking|Beach Access|Garden|Pool|BBQ,24870,302750,8.21,88,15.4556,73.7681
+GOA0412,Goa,Arambol,Villa,5,4,271,4.14,0.49,0.78,0.28,2.9,34.3,198,Yoga Deck|BBQ|Garden,33928,350843,9.67,92,14.9004,73.9385
+GOA0413,Goa,Calangute,Cottage,4,5,123,3.93,0.55,0.75,0.4,2.2,17.8,277,Parking|WiFi|BBQ|Yoga Deck|Garden,17285,199278,8.67,87,15.1522,74.0824
+GOA0414,Goa,Candolim,Beach Hut,3,4,61,4.19,0.58,0.91,0.34,1.3,22.1,14,AC|Garden|Parking,9040,93549,9.66,96,15.4374,73.709
+GOA0415,Goa,Panaji,Villa,1,1,97,4.67,0.59,0.87,0.39,2.7,27.3,42,Garden|Yoga Deck|Parking|Beach Access|Outdoor Shower|BBQ|Pool,14622,146806,9.96,100,15.6873,73.9165
+GOA0416,Goa,Morjim,Apartment,2,2,73,3.7,0.58,0.92,0.34,2.6,32.0,40,Beach Access|Pool|Outdoor Shower,10818,122264,8.85,87,15.7043,73.9637
+GOA0417,Goa,Morjim,Villa,2,3,193,4.27,0.56,0.9,0.31,1.2,41.6,155,Outdoor Shower|Hammock|Beach Access|Yoga Deck|Garden|BBQ,27614,282012,9.79,97,14.991,73.9593
+GOA0418,Goa,Calangute,Cottage,5,6,116,4.11,0.49,0.87,0.22,1.8,38.1,84,Pool|Garden|Hammock|Parking|WiFi|AC|Yoga Deck,14523,170146,8.54,87,15.0705,74.059
+GOA0419,Goa,Colva,Apartment,1,1,44,4.82,0.55,0.82,0.36,2.8,22.9,189,Pool|BBQ|Yoga Deck|AC|Outdoor Shower|Garden|Hammock,6183,74195,8.33,92,15.1744,73.8573
+GOA0420,Goa,Anjuna,Cottage,1,1,70,3.93,0.59,0.77,0.46,0.3,11.9,143,WiFi|Garden|Parking|Beach Access,10552,121409,8.69,97,15.2445,73.7246
+GOA0421,Goa,Morjim,Cottage,1,1,66,4.65,0.54,0.92,0.27,1.4,39.9,131,AC|Beach Access|BBQ|WiFi|Yoga Deck|Outdoor Shower|Garden,9106,100577,9.05,95,15.6628,73.9052
+GOA0422,Goa,Vagator,Cottage,3,3,122,4.77,0.48,0.7,0.32,2.7,26.7,108,Yoga Deck|AC|Parking,14962,174235,8.59,92,15.4296,73.8391
+GOA0423,Goa,Morjim,Beach Hut,4,4,78,4.48,0.57,0.8,0.41,2.6,23.1,183,AC|Hammock|Garden|Yoga Deck|WiFi|BBQ|Beach Access,11360,117505,9.67,97,15.308,73.975
+GOA0424,Goa,Palolem,Villa,4,3,178,4.46,0.58,0.92,0.33,2.7,9.2,153,BBQ|AC|Outdoor Shower,26378,321997,8.19,89,15.1331,74.0802
+GOA0425,Goa,Panaji,Homestay,3,3,38,3.65,0.44,0.7,0.25,3.0,25.1,222,Garden|Parking|Hammock,4272,44429,9.62,87,15.7484,73.7082
+GOA0426,Goa,Vagator,Apartment,2,1,88,3.92,0.55,0.92,0.29,2.1,13.9,163,Hammock|Yoga Deck|Parking|Outdoor Shower,12366,142188,8.7,87,14.9348,73.8637
+GOA0427,Goa,Anjuna,Villa,3,4,219,4.71,0.57,0.9,0.34,1.8,38.1,167,Hammock|WiFi|Beach Access,31894,361767,8.82,95,15.325,73.8102
+GOA0428,Goa,Candolim,Homestay,1,1,26,4.3,0.53,0.81,0.33,0.3,13.5,145,Yoga Deck|WiFi|BBQ|Pool|AC,3521,40833,8.62,98,15.097,73.8651
+GOA0429,Goa,Panaji,Villa,5,6,170,4.38,0.52,0.79,0.33,1.6,11.2,255,Outdoor Shower|Hammock|BBQ|Garden|Yoga Deck|Pool,22586,236076,9.57,95,15.7804,73.8735
+GOA0430,Goa,Morjim,Villa,3,3,231,3.55,0.56,0.82,0.37,1.7,12.1,170,Garden|Beach Access|Parking,33051,382439,8.64,85,15.1522,74.0243
+GOA0431,Goa,Panaji,Beach Hut,2,3,40,3.7,0.49,0.82,0.26,0.2,10.7,239,AC|Pool|BBQ,5008,53702,9.33,100,15.6099,73.9135
+GOA0432,Goa,Baga,Cottage,4,3,75,3.51,0.52,0.9,0.25,1.8,28.4,51,BBQ|Pool|Hammock|Beach Access|Yoga Deck|Outdoor Shower|WiFi,9964,107100,9.3,87,15.2157,73.7348
+GOA0433,Goa,Arambol,Apartment,3,3,77,3.78,0.57,0.81,0.4,0.8,25.8,27,Outdoor Shower|Garden|Hammock|WiFi|AC,11214,112441,9.97,95,15.5058,74.0851
+GOA0434,Goa,Arambol,Apartment,4,4,104,4.21,0.63,0.84,0.48,2.5,14.5,117,Hammock|Garden|Pool,16740,179415,9.33,94,15.1626,73.9018
+GOA0435,Goa,Calangute,Villa,2,1,190,4.25,0.54,0.72,0.42,2.4,31.6,191,Outdoor Shower|WiFi|Parking|Pool|Garden,26214,279004,9.4,93,15.3266,74.0556
+GOA0436,Goa,Colva,Villa,1,1,120,4.29,0.64,0.87,0.47,1.5,35.1,41,Garden|Pool|AC,19622,209879,9.35,96,15.1201,73.8554
+GOA0437,Goa,Baga,Apartment,5,5,100,4.59,0.49,0.8,0.26,1.1,12.0,166,Parking|Yoga Deck|Beach Access|Pool|Garden,12520,133104,9.41,96,15.6433,73.8008
+GOA0438,Goa,Vagator,Homestay,4,5,65,4.08,0.58,0.95,0.32,0.3,28.6,146,Garden|BBQ|WiFi|AC|Beach Access|Hammock,9632,98243,9.8,100,15.4994,73.8675
+GOA0439,Goa,Palolem,Beach Hut,2,1,39,3.58,0.55,0.83,0.35,0.5,9.9,108,AC|Garden|Hammock|Yoga Deck|BBQ,5480,56065,9.77,94,15.001,73.9439
+GOA0440,Goa,Anjuna,Villa,4,3,244,3.88,0.59,0.74,0.49,2.6,18.1,200,Pool|WiFi|Beach Access|Outdoor Shower,36782,386660,9.51,92,15.1099,73.8968
+GOA0441,Goa,Candolim,Beach Hut,1,1,29,4.51,0.62,0.83,0.47,0.5,36.7,162,Yoga Deck|BBQ|Hammock|Outdoor Shower,4594,54149,8.48,97,15.0272,73.8594
+GOA0442,Goa,Morjim,Cottage,5,4,122,3.88,0.54,0.77,0.37,1.3,10.1,265,WiFi|Hammock|Outdoor Shower|Yoga Deck,16832,203769,8.26,85,15.8737,73.7923
+GOA0443,Goa,Candolim,Beach Hut,2,1,49,4.01,0.58,0.74,0.46,1.0,27.7,55,Outdoor Shower|Parking|AC|Yoga Deck|Beach Access,7261,83241,8.72,90,15.3718,73.8983
+GOA0444,Goa,Vagator,Beach Hut,1,2,53,3.63,0.64,0.87,0.47,0.2,33.7,98,WiFi|Pool|Beach Access,8667,89379,9.7,100,15.3373,73.8614
+GOA0445,Goa,Baga,Villa,4,5,169,4.26,0.5,0.73,0.34,2.3,24.2,223,Beach Access|Hammock|AC|Pool|Yoga Deck|Outdoor Shower|Parking,21590,228291,9.46,93,15.892,73.9747
+GOA0446,Goa,Candolim,Cottage,4,5,110,4.12,0.49,0.89,0.21,0.4,21.1,53,BBQ|Hammock|Pool|WiFi|Parking|Yoga Deck,13771,143924,9.57,98,15.7457,73.8385
+GOA0447,Goa,Calangute,Beach Hut,4,3,70,4.56,0.54,0.85,0.31,1.8,8.4,274,WiFi|Outdoor Shower|Parking|AC|Beach Access,9658,103926,9.29,95,15.8928,73.7509
+GOA0448,Goa,Panaji,Beach Hut,5,5,44,4.82,0.56,0.78,0.4,1.0,15.5,115,Pool|WiFi|Garden,6296,68437,9.2,99,15.243,73.8643
+GOA0449,Goa,Anjuna,Villa,1,2,178,4.27,0.51,0.94,0.21,1.5,41.8,210,WiFi|Garden|BBQ|Parking|Beach Access,23194,262052,8.85,91,14.9492,73.9294
+GOA0450,Goa,Arambol,Beach Hut,1,1,48,3.86,0.51,0.92,0.21,2.2,31.3,180,Beach Access|WiFi|Parking|Outdoor Shower|Garden,6255,75520,8.28,84,15.339,73.718
+GOA0451,Goa,Baga,Homestay,3,4,44,4.21,0.54,0.71,0.41,1.5,13.6,159,Garden|Parking|Beach Access,6071,62388,9.73,95,14.9645,73.9297
+GOA0452,Goa,Candolim,Cottage,3,4,88,4.26,0.64,0.9,0.46,1.9,32.8,236,Parking|Yoga Deck|Hammock,14390,144308,9.97,98,15.318,73.9262
+GOA0453,Goa,Vagator,Villa,4,4,315,4.03,0.53,0.93,0.24,2.0,42.0,7,Pool|Parking|AC|Yoga Deck|Garden,42656,426973,9.99,94,15.0125,73.738
+GOA0454,Goa,Panaji,Apartment,4,5,61,4.06,0.53,0.75,0.38,1.4,17.8,59,Beach Access|WiFi|Yoga Deck,8260,83227,9.92,95,15.7104,73.9759
+GOA0455,Goa,Calangute,Villa,5,6,294,4.55,0.46,0.78,0.23,0.9,44.2,51,WiFi|BBQ|Parking|Outdoor Shower|Garden,34554,409410,8.44,91,15.3938,73.7039
+GOA0456,Goa,Anjuna,Apartment,3,3,80,3.98,0.48,0.84,0.22,2.8,41.5,189,Hammock|BBQ|AC|Yoga Deck|WiFi|Parking,9811,106070,9.25,89,15.6805,74.0022
+GOA0457,Goa,Morjim,Villa,3,3,250,4.44,0.59,0.86,0.39,1.7,34.3,268,BBQ|Beach Access|Garden|Parking|Hammock,37686,459469,8.2,90,15.6769,74.049
+GOA0458,Goa,Calangute,Cottage,4,3,94,3.63,0.55,0.82,0.35,2.5,27.8,223,Hammock|Beach Access|Pool|Garden,13209,145117,9.1,87,15.4271,73.7153
+GOA0459,Goa,Palolem,Cottage,1,1,54,4.74,0.53,0.74,0.38,1.8,9.9,181,Garden|AC|Beach Access|BBQ|Yoga Deck|Parking,7312,75788,9.65,98,15.8801,73.8575
+GOA0460,Goa,Palolem,Beach Hut,5,5,56,3.76,0.58,0.87,0.38,1.9,40.7,178,AC|WiFi|Pool|Yoga Deck|Outdoor Shower,8299,84613,9.81,92,15.2893,73.8253
+GOA0461,Goa,Panaji,Villa,4,4,166,4.09,0.66,0.92,0.48,0.9,36.3,79,Hammock|AC|Garden|Pool|WiFi|Beach Access|Yoga Deck,27993,333673,8.39,91,15.8308,73.7983
+GOA0462,Goa,Colva,Apartment,5,6,81,3.91,0.5,0.91,0.2,1.7,17.9,153,AC|Beach Access|Yoga Deck|Pool,10348,111280,9.3,90,15.5449,74.0406
+GOA0463,Goa,Calangute,Beach Hut,1,1,41,4.78,0.53,0.77,0.36,1.4,27.3,5,Yoga Deck|Garden|Pool|WiFi|Parking,5552,55664,9.97,100,15.5615,73.9368
+GOA0464,Goa,Arambol,Apartment,1,1,65,4.36,0.43,0.72,0.23,1.8,8.2,82,Parking|Hammock|AC|Outdoor Shower|Beach Access,7141,75774,9.42,92,15.3296,73.9217
+GOA0465,Goa,Anjuna,Apartment,2,3,73,4.58,0.53,0.86,0.3,2.3,30.5,19,Outdoor Shower|Garden|AC|BBQ,9885,113100,8.74,92,15.4534,73.7046
+GOA0466,Goa,Morjim,Apartment,2,3,85,4.06,0.65,0.94,0.45,1.8,13.1,162,Outdoor Shower|Yoga Deck|Garden|Parking|BBQ|AC,14116,149071,9.47,94,15.2404,73.8906
+GOA0467,Goa,Vagator,Homestay,4,5,61,4.27,0.59,0.74,0.49,0.4,41.5,216,Yoga Deck|Parking|WiFi|BBQ|Garden,9195,110993,8.28,95,15.4254,73.99
+GOA0468,Goa,Colva,Cottage,3,3,67,4.45,0.5,0.79,0.29,1.8,28.2,195,AC|Beach Access|Parking,8559,95064,9.0,92,15.1867,73.8468
+GOA0469,Goa,Arambol,Villa,2,3,156,3.58,0.45,0.76,0.22,0.4,6.6,241,Hammock|BBQ|Yoga Deck|WiFi|Parking|Outdoor Shower,17936,211762,8.47,87,15.5589,73.809
+GOA0470,Goa,Arambol,Beach Hut,4,3,82,4.23,0.54,0.78,0.36,1.2,9.6,127,Pool|Outdoor Shower|Garden|BBQ|Beach Access|AC|Parking,11314,127328,8.89,92,15.897,73.8702
+GOA0471,Goa,Panaji,Homestay,3,2,30,4.57,0.59,0.79,0.45,1.4,9.3,6,BBQ|AC|Pool|Outdoor Shower|WiFi|Garden|Hammock,4522,52451,8.62,94,15.7461,73.9943
+GOA0472,Goa,Morjim,Homestay,4,3,54,3.72,0.61,0.78,0.49,0.8,6.2,173,Pool|AC|Garden,8416,92691,9.08,91,15.2972,73.9285
+GOA0473,Goa,Panaji,Villa,3,4,172,4.28,0.58,0.9,0.36,0.2,28.0,30,Hammock|Pool|Garden|Yoga Deck|AC|Outdoor Shower,25489,272733,9.35,100,15.8506,74.0437
+GOA0474,Goa,Candolim,Homestay,2,3,31,3.83,0.59,0.75,0.48,2.6,20.7,6,Parking|WiFi|Yoga Deck|Beach Access|Hammock|Outdoor Shower,4673,54777,8.53,86,15.4044,73.8857
+GOA0475,Goa,Morjim,Homestay,2,1,40,4.26,0.44,0.71,0.24,2.7,21.9,269,Pool|Parking|Garden,4497,52482,8.57,87,15.4172,73.848
+GOA0476,Goa,Anjuna,Cottage,2,1,98,4.68,0.62,0.89,0.42,0.7,23.8,156,Pool|BBQ|Beach Access|WiFi|Yoga Deck|Hammock,15524,166899,9.3,100,15.2308,74.002
+GOA0477,Goa,Arambol,Beach Hut,2,1,48,3.71,0.62,0.8,0.49,0.7,22.3,75,AC|Beach Access|Garden|WiFi|BBQ|Pool|Hammock,7604,86384,8.8,90,14.971,73.8952
+GOA0478,Goa,Candolim,Cottage,5,6,119,4.27,0.55,0.92,0.29,0.3,20.1,191,WiFi|Beach Access|BBQ|Parking|Outdoor Shower|Pool|Yoga Deck,16722,202023,8.28,97,15.4764,74.0168
+GOA0479,Goa,Baga,Beach Hut,4,5,51,4.57,0.47,0.73,0.29,0.5,13.9,78,Beach Access|Outdoor Shower|BBQ,6124,72280,8.47,94,15.6174,74.0773
+GOA0480,Goa,Calangute,Apartment,4,3,93,4.31,0.52,0.82,0.3,1.5,44.4,24,Outdoor Shower|Pool|AC|BBQ|Hammock|Beach Access|WiFi,12356,140112,8.82,91,15.8378,74.0449
+GOA0481,Goa,Palolem,Cottage,4,5,102,4.2,0.63,0.86,0.47,1.2,21.6,110,AC|Pool|Parking|Beach Access|Yoga Deck|Hammock,16418,199269,8.24,90,15.5011,73.9839
+GOA0482,Goa,Palolem,Homestay,4,5,52,3.87,0.58,0.89,0.36,0.8,27.1,176,Parking|Yoga Deck|Hammock,7706,90359,8.53,89,15.561,73.8292
+GOA0483,Goa,Morjim,Cottage,3,4,106,4.43,0.49,0.8,0.26,2.9,34.4,95,Outdoor Shower|Garden|Beach Access|WiFi|Yoga Deck,13271,147794,8.98,91,15.311,73.8421
+GOA0484,Goa,Panaji,Homestay,5,5,41,4.11,0.56,0.84,0.36,1.5,24.8,26,Hammock|Yoga Deck|Outdoor Shower|Pool,5866,60417,9.71,95,15.0691,73.7505
+GOA0485,Goa,Calangute,Cottage,2,1,90,4.41,0.55,0.86,0.32,2.7,35.8,121,Beach Access|Yoga Deck|Hammock,12647,144399,8.76,91,15.2686,74.084
+GOA0486,Goa,Candolim,Villa,2,3,179,4.78,0.47,0.74,0.28,0.9,39.2,22,Outdoor Shower|Garden|Pool|AC|Parking|Beach Access,21495,227890,9.43,98,14.9319,73.7304
+GOA0487,Goa,Anjuna,Beach Hut,3,4,60,3.8,0.57,0.76,0.44,1.7,22.2,233,Parking|Hammock|Garden,8738,87492,9.99,94,15.3079,73.7456
+GOA0488,Goa,Arambol,Cottage,5,6,139,4.55,0.61,0.88,0.42,0.1,37.6,149,WiFi|AC|Beach Access|Yoga Deck,21664,262564,8.25,100,15.804,73.7063
+GOA0489,Goa,Candolim,Cottage,2,2,83,4.71,0.51,0.91,0.23,2.2,32.1,20,WiFi|Garden|Pool|Hammock|Outdoor Shower|Beach Access|BBQ,10815,131220,8.24,90,15.4706,74.0783
+GOA0490,Goa,Vagator,Villa,3,3,251,4.4,0.62,0.82,0.48,0.3,32.5,100,BBQ|Garden|Hammock|Yoga Deck|Beach Access|AC|WiFi,39761,441888,9.0,100,15.6919,73.9332
+GOA0491,Goa,Candolim,Homestay,4,5,56,4.91,0.49,0.72,0.32,0.1,26.5,227,Hammock|BBQ|Parking|Outdoor Shower|Pool,7011,75242,9.32,100,15.8108,74.0386
+GOA0492,Goa,Arambol,Beach Hut,1,2,36,3.64,0.56,0.85,0.36,0.8,42.1,54,Parking|BBQ|AC,5151,61806,8.33,86,15.3026,74.0561
+GOA0493,Goa,Anjuna,Beach Hut,2,1,53,4.61,0.48,0.82,0.24,2.8,34.4,186,BBQ|Hammock|Pool|Garden|Parking|Yoga Deck|WiFi,6500,71559,9.08,93,15.2672,73.7076
+GOA0494,Goa,Anjuna,Cottage,3,2,89,4.24,0.54,0.87,0.3,2.1,33.2,244,Yoga Deck|WiFi|AC|BBQ|Beach Access|Pool|Hammock,12279,141853,8.66,89,15.3925,74.066
+GOA0495,Goa,Baga,Villa,1,1,116,4.18,0.48,0.75,0.29,0.2,14.9,107,AC|WiFi|Hammock|Outdoor Shower|Pool|Garden,14226,162288,8.77,100,15.2042,74.0083
+GOA0496,Goa,Colva,Apartment,1,1,38,3.86,0.56,0.74,0.43,0.4,25.3,44,Garden|Pool|Hammock|BBQ|WiFi|AC,5437,59852,9.08,95,15.5874,73.9533
+GOA0497,Goa,Colva,Beach Hut,2,2,40,3.57,0.48,0.77,0.28,0.5,17.4,262,Garden|Pool|Beach Access,4906,52213,9.4,91,15.4219,73.9655
+GOA0498,Goa,Candolim,Apartment,4,4,81,4.58,0.49,0.78,0.29,1.6,8.2,276,WiFi|Pool|BBQ|Beach Access|Garden,10141,101944,9.95,98,15.318,74.0772
+GOA0499,Goa,Panaji,Beach Hut,1,2,30,3.63,0.62,0.91,0.42,1.9,21.2,221,Pool|Outdoor Shower|BBQ|Hammock|Garden|WiFi,4752,56182,8.46,85,15.1215,73.9048
+GOA0500,Goa,Colva,Cottage,1,1,48,4.31,0.63,0.84,0.48,2.7,37.1,102,Yoga Deck|Hammock|BBQ,7726,92295,8.37,90,15.8434,73.7394
