@@ -211,7 +211,7 @@ if page == "🏠 Dashboard":
         top_areas = df.groupby(["city","area"])["roi_pct"].mean().reset_index().sort_values("roi_pct", ascending=False).head(12)
         fig2 = px.bar(top_areas, x="roi_pct", y="area", color="city", orientation="h",
                       color_discrete_map=CITY_COLORS, labels={"roi_pct":"ROI %","area":""})
-        fig2.update_layout(yaxis=dict(autorange="reversed"), **PLOTLY_LAYOUT)
+        fig2.update_layout(**{**PLOTLY_LAYOUT, "yaxis": dict(autorange="reversed", gridcolor="rgba(22,81,232,0.08)", linecolor="rgba(22,81,232,0.2)")})
         fig2.update_traces(marker_line_width=0)
         st.plotly_chart(fig2, use_container_width=True)
         st.markdown('</div>', unsafe_allow_html=True)
