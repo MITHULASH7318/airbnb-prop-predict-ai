@@ -10,7 +10,17 @@ import numpy as np
 from utils.preprocess import engineer_features, investment_label, FEATURES
 
 # ── Load models once at import time ───────────────────────────────────────────
-BASE = os.path.join(os.path.dirname(__file__))
+# Resolve BASE robustly for both local and Streamlit Cloud
+def _find_models_dir():
+    candidates = [
+        os.path.dirname(os.path.abspath(__file__)),
+        os.path.join(os.getcwd(), "models"),
+    ]
+    for c in candidates:
+        if os.path.exists(os.path.join(c, "price_model.pkl")):
+            return c
+    return candidates[0]
+BASE = _find_models_dir()
 
 def _load(name):
     path = os.path.join(BASE, name)
@@ -76,7 +86,14 @@ def predict_property(input_dict: dict) -> dict:
 def top_properties(city: str = None, min_roi: float = 5.0,
                    max_price: int = None, top_n: int = 5) -> pd.DataFrame:
     """Return top N properties from processed data filtered by criteria."""
-    path = os.path.join(os.path.dirname(BASE), "data", "processed", "listings_featured.csv")
+    # Try models/../data or cwd/data
+    for base in [os.path.dirname(BASE), os.getcwd()]:
+        p = os.path.join(base, "data", "processed", "listings_featured.csv")
+        if os.path.exists(p):
+            path = p
+            break
+    else:
+        path = os.path.join(os.path.dirname(BASE), "data", "processed", "listings_featured.csv")
     df = pd.read_csv(path)
     if city:
         df = df[df["city"].str.lower() == city.lower()]

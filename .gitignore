@@ -1,6 +1,7 @@
 .env
 __pycache__/
 *.pyc
-*.pkl
 .streamlit/secrets.toml
-data/processed/
+data/*
+!data/processed/
+!data/processed/listings_featured.csv

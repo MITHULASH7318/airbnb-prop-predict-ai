@@ -12,6 +12,15 @@ import json
 import plotly.express as px
 import plotly.graph_objects as go
 
+# ── Safe imports: inject BASE path so modules resolve on Streamlit Cloud ─────
+_app_file = os.path.abspath(__file__)
+_root = os.path.dirname(os.path.dirname(_app_file))
+if _root not in sys.path:
+    sys.path.insert(0, _root)
+# Also try cwd (Streamlit Cloud serves from repo root)
+if os.getcwd() not in sys.path:
+    sys.path.insert(0, os.getcwd())
+
 from models.predict import predict_property, top_properties
 from chatbot.chatbot import PropertyChatbot
 
@@ -119,15 +128,31 @@ hr { border-color: rgba(22,81,232,0.15) !important; }
 </style>
 """, unsafe_allow_html=True)
 
-# ── Load data ─────────────────────────────────────────────────────────────────
+# ── Robust path helper: works locally AND on Streamlit Cloud ─────────────────
+def _base_dir():
+    # Try relative to this file first, then cwd (Streamlit Cloud uses repo root as cwd)
+    candidates = [
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+        os.getcwd(),
+        os.path.dirname(os.path.abspath(__file__)),
+    ]
+    for c in candidates:
+        if os.path.exists(os.path.join(c, "data", "processed", "listings_featured.csv")):
+            return c
+    return candidates[0]  # fallback with clear error from pandas
+
+BASE_DIR = _base_dir()
+
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/processed/listings_featured.csv")
+    path = os.path.join(BASE_DIR, "data", "processed", "listings_featured.csv")
+    return pd.read_csv(path)
 
 @st.cache_data
 def load_metrics():
-    path = os.path.join(os.path.dirname(os.path.dirname(__file__)),"models","metrics.json")
-    with open(path) as f: return json.load(f)
+    path = os.path.join(BASE_DIR, "models", "metrics.json")
+    with open(path) as f:
+        return json.load(f)
 
 df = load_data()
 metrics = load_metrics()
