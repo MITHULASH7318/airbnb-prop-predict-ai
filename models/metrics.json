@@ -1,0 +1,17 @@
+{
+  "price_predictor": {
+    "MAE_usd": 56.15,
+    "R2": 0.9082
+  },
+  "roi_classifier": {
+    "accuracy": 0.9967
+  },
+  "investment_scorer": {
+    "MAE_pts": 2.67,
+    "R2": 0.5426
+  },
+  "occupancy_forecaster": {
+    "MAE": 0.0,
+    "R2": 1.0
+  }
+}
